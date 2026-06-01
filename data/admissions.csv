@@ -1,0 +1,1001 @@
+admission_id,patient_id,admission_date,discharge_date,department,doctor_name,room_number,medical_condition,billing_amount,insurance_covered,admission_type
+2001,1001,2023-03-17,2023-04-01,General Medicine,Dr. Deepak Patel,122,Malaria,38645.78,16771.73,Elective
+2002,1002,2023-11-21,2023-12-08,Pediatrics,Dr. Arjun Shah,193,Pneumonia,28591.46,10100.66,Emergency
+2003,1003,2024-01-04,2024-01-16,Pediatrics,Dr. Arjun Shah,295,Asthma,6754.95,2937.61,Emergency
+2004,1004,2024-03-17,2024-03-22,Cardiology,Dr. Rajesh Khanna,215,Heart Attack,59662.9,34514.54,Referral
+2005,1005,2023-01-27,2023-02-07,Pediatrics,Dr. Meera Gupta,123,Malnutrition,11678.23,5570.02,Emergency
+2006,1006,2023-01-13,2023-01-21,Oncology,Dr. Lakshmi Desai,175,Blood Cancer,127966.1,64866.66,Emergency
+2007,1007,2024-12-02,2024-12-07,General Medicine,Dr. Deepak Patel,198,Typhoid,40642.08,15637.08,Elective
+2008,1008,2024-05-19,2024-05-31,Neurology,Dr. Kavya Pillai,138,Epilepsy,101052.93,33512.54,Elective
+2009,1009,2023-11-03,2023-11-12,Cardiology,Dr. Sunita Rao,224,Arrhythmia,27302.02,18874.8,Elective
+2010,1010,2024-10-02,2024-10-04,Gynecology,Dr. Divya Mehta,227,Uterine Fibroids,149021.98,88951.7,Emergency
+2011,1011,2023-05-19,2023-05-26,Cardiology,Dr. Rajesh Khanna,178,Heart Failure,58899.99,17869.3,Elective
+2012,1012,2023-12-04,2023-12-07,Neurology,Dr. Kavya Pillai,213,Epilepsy,13366.92,6247.27,Referral
+2013,1013,2023-11-25,2023-12-09,Neurology,Dr. Kavya Pillai,255,Migraine,95195.74,73647.18,Emergency
+2014,1014,2023-07-01,2023-07-19,Gynecology,Dr. Neha Sharma,347,Menstrual Disorder,100211.51,50017.55,Elective
+2015,1015,2024-08-12,2024-08-25,Orthopedics,Dr. Priya Nair,301,Back Pain,146283.97,61616.59,Elective
+2016,1016,2024-01-09,2024-01-20,Cardiology,Dr. Sunita Rao,130,Arrhythmia,114006.97,87333.17,Emergency
+2017,1017,2024-04-17,2024-04-18,Orthopedics,Dr. Amit Verma,342,Arthritis,30407.16,19891.86,Elective
+2018,1018,2024-02-23,2024-03-07,Emergency,Dr. Rohit Kumar,273,Burns,37609.08,20671.89,Referral
+2019,1019,2023-09-16,2023-09-27,Neurology,Dr. Suresh Iyer,269,Epilepsy,86682.07,32685.35,Elective
+2020,1020,2024-04-04,2024-04-16,Neurology,Dr. Suresh Iyer,254,Parkinson's Disease,115022.56,62068.17,Elective
+2021,1021,2024-01-04,2024-01-11,Orthopedics,Dr. Amit Verma,280,Joint Replacement,134643.67,100679.91,Referral
+2022,1022,2023-09-12,2023-09-20,Emergency,Dr. Rohit Kumar,269,Accident Injury,63136.56,39924.21,Emergency
+2023,1023,2023-12-06,2023-12-16,General Medicine,Dr. Anjali Singh,348,Diabetes,133888.68,93469.77,Emergency
+2024,1024,2023-09-22,2023-10-05,Pediatrics,Dr. Meera Gupta,157,Fever,90713.89,50376.88,Referral
+2025,1025,2024-01-19,2024-02-07,Orthopedics,Dr. Priya Nair,201,Arthritis,91101.36,48423.25,Referral
+2026,1026,2023-01-26,2023-02-09,Cardiology,Dr. Sunita Rao,224,Hypertension,15317.95,5396.13,Elective
+2027,1027,2023-05-26,2023-06-10,Cardiology,Dr. Rajesh Khanna,190,Heart Attack,132527.0,60425.05,Elective
+2028,1028,2023-12-23,2024-01-07,Pediatrics,Dr. Arjun Shah,222,Pneumonia,122577.39,42756.41,Referral
+2029,1029,2023-03-10,2023-03-14,Oncology,Dr. Lakshmi Desai,177,Colon Cancer,105574.62,34031.08,Referral
+2030,1030,2023-12-18,2023-12-28,General Medicine,Dr. Deepak Patel,266,Diabetes,124594.24,44191.25,Emergency
+2031,1031,2024-07-19,2024-08-05,Pediatrics,Dr. Meera Gupta,141,Pneumonia,83168.71,38714.6,Elective
+2032,1032,2024-02-19,2024-03-03,Orthopedics,Dr. Amit Verma,262,Joint Replacement,10447.81,4097.9,Referral
+2033,1033,2023-01-30,2023-02-08,Cardiology,Dr. Sunita Rao,289,Heart Failure,5001.69,3036.29,Emergency
+2034,1034,2024-02-03,2024-02-09,Neurology,Dr. Kavya Pillai,102,Parkinson's Disease,12921.99,8429.89,Emergency
+2035,1035,2024-08-14,2024-08-21,Gynecology,Dr. Divya Mehta,127,Uterine Fibroids,34518.86,24154.61,Referral
+2036,1036,2023-11-30,2023-12-03,Cardiology,Dr. Sunita Rao,151,Hypertension,132996.49,70325.25,Elective
+2037,1037,2024-09-03,2024-09-07,Cardiology,Dr. Sunita Rao,200,Heart Failure,145192.6,87936.51,Referral
+2038,1038,2023-12-27,2023-12-31,Orthopedics,Dr. Priya Nair,317,Fracture,112574.97,59544.31,Emergency
+2039,1039,2024-11-19,2024-12-07,Oncology,Dr. Vijay Reddy,135,Blood Cancer,134925.92,61606.21,Emergency
+2040,1040,2023-07-07,2023-07-23,Oncology,Dr. Vijay Reddy,196,Blood Cancer,123433.02,79826.39,Referral
+2041,1041,2024-09-02,2024-09-18,Orthopedics,Dr. Priya Nair,136,Joint Replacement,135781.33,79758.36,Elective
+2042,1042,2024-10-12,2024-10-19,Oncology,Dr. Lakshmi Desai,238,Lung Cancer,36970.82,23909.64,Referral
+2043,1043,2024-05-16,2024-05-24,General Medicine,Dr. Deepak Patel,174,Typhoid,100847.07,37328.37,Elective
+2044,1044,2024-01-03,2024-01-13,Cardiology,Dr. Rajesh Khanna,344,Heart Failure,107851.52,32872.25,Emergency
+2045,1045,2024-07-29,2024-08-07,Cardiology,Dr. Sunita Rao,230,Hypertension,43982.78,27556.75,Elective
+2046,1046,2024-12-28,2025-01-14,General Medicine,Dr. Anjali Singh,316,Viral Fever,92225.31,48134.78,Emergency
+2047,1047,2023-08-14,2023-08-19,Orthopedics,Dr. Amit Verma,175,Fracture,19864.81,6284.18,Emergency
+2048,1048,2024-04-13,2024-05-02,Pediatrics,Dr. Meera Gupta,245,Asthma,58545.71,39299.34,Elective
+2049,1049,2023-10-02,2023-10-04,Emergency,Dr. Rohit Kumar,299,Accident Injury,106095.36,60639.13,Elective
+2050,1050,2024-07-13,2024-07-19,General Medicine,Dr. Anjali Singh,156,Diabetes,138544.21,110127.11,Emergency
+2051,1051,2023-02-03,2023-02-10,General Medicine,Dr. Anjali Singh,216,Typhoid,128318.38,55357.53,Emergency
+2052,1052,2023-08-31,2023-09-02,Neurology,Dr. Suresh Iyer,154,Parkinson's Disease,122025.28,86070.7,Referral
+2053,1053,2023-06-19,2023-07-02,Orthopedics,Dr. Priya Nair,258,Back Pain,35942.04,13284.81,Emergency
+2054,1054,2024-08-06,2024-08-09,General Medicine,Dr. Deepak Patel,190,Typhoid,22236.79,12589.15,Referral
+2055,1055,2024-12-21,2025-01-06,General Medicine,Dr. Anjali Singh,175,Typhoid,86500.56,38463.91,Elective
+2056,1056,2024-02-26,2024-02-27,Emergency,Dr. Rohit Kumar,336,Accident Injury,50237.68,16560.5,Elective
+2057,1057,2023-09-13,2023-09-17,Pediatrics,Dr. Meera Gupta,138,Pneumonia,118999.82,78027.88,Emergency
+2058,1058,2023-05-26,2023-06-13,General Medicine,Dr. Anjali Singh,248,Viral Fever,7328.97,4516.12,Referral
+2059,1059,2024-04-07,2024-04-10,Oncology,Dr. Lakshmi Desai,120,Colon Cancer,6655.61,4105.27,Emergency
+2060,1060,2024-12-12,2024-12-26,General Medicine,Dr. Anjali Singh,340,Viral Fever,127275.32,94013.02,Elective
+2061,1061,2024-08-18,2024-09-06,Cardiology,Dr. Sunita Rao,101,Heart Failure,107398.01,78878.89,Referral
+2062,1062,2024-10-12,2024-10-20,Pediatrics,Dr. Arjun Shah,271,Fever,12491.96,8102.84,Emergency
+2063,1063,2024-03-15,2024-03-31,Pediatrics,Dr. Meera Gupta,312,Malnutrition,130082.87,52803.98,Elective
+2064,1064,2023-12-12,2023-12-15,Cardiology,Dr. Sunita Rao,241,Arrhythmia,143107.73,84285.7,Referral
+2065,1065,2024-11-29,2024-12-10,Orthopedics,Dr. Priya Nair,296,Joint Replacement,130467.89,42298.29,Emergency
+2066,1066,2023-05-08,2023-05-12,Cardiology,Dr. Rajesh Khanna,338,Heart Failure,95629.23,69697.05,Elective
+2067,1067,2024-03-14,2024-04-02,Orthopedics,Dr. Amit Verma,152,Joint Replacement,77719.74,62008.46,Emergency
+2068,1068,2023-10-08,2023-10-22,Cardiology,Dr. Rajesh Khanna,124,Arrhythmia,95606.74,59973.53,Elective
+2069,1069,2024-11-11,2024-11-27,Pediatrics,Dr. Arjun Shah,332,Fever,147376.33,92029.98,Emergency
+2070,1070,2024-12-17,2025-01-02,General Medicine,Dr. Anjali Singh,294,Viral Fever,28608.18,11931.67,Referral
+2071,1071,2023-01-02,2023-01-14,Orthopedics,Dr. Amit Verma,155,Fracture,46706.75,25147.07,Emergency
+2072,1072,2023-01-10,2023-01-22,Orthopedics,Dr. Priya Nair,103,Arthritis,95087.41,61597.49,Emergency
+2073,1073,2024-05-04,2024-05-18,Neurology,Dr. Suresh Iyer,119,Parkinson's Disease,92798.19,38462.38,Emergency
+2074,1074,2023-11-17,2023-11-18,Orthopedics,Dr. Amit Verma,195,Fracture,46434.96,34384.83,Emergency
+2075,1075,2024-10-18,2024-11-06,Neurology,Dr. Suresh Iyer,274,Parkinson's Disease,103243.44,38347.35,Referral
+2076,1076,2024-03-26,2024-04-10,Cardiology,Dr. Rajesh Khanna,190,Heart Attack,60308.95,39877.24,Referral
+2077,1077,2024-09-22,2024-09-29,Gynecology,Dr. Neha Sharma,276,PCOS,96680.91,50389.31,Emergency
+2078,1078,2023-05-24,2023-06-12,Orthopedics,Dr. Amit Verma,293,Fracture,118863.98,42978.67,Referral
+2079,1079,2024-03-15,2024-04-02,General Medicine,Dr. Anjali Singh,181,Viral Fever,141484.5,98407.89,Emergency
+2080,1080,2023-09-12,2023-09-20,Emergency,Dr. Rohit Kumar,242,Burns,14787.87,8880.11,Referral
+2081,1081,2024-11-05,2024-11-22,Pediatrics,Dr. Meera Gupta,325,Asthma,19952.6,8995.12,Referral
+2082,1082,2023-10-30,2023-11-08,Pediatrics,Dr. Arjun Shah,266,Pneumonia,111993.32,36653.69,Emergency
+2083,1083,2023-04-26,2023-05-05,General Medicine,Dr. Anjali Singh,162,Viral Fever,34643.88,19046.9,Referral
+2084,1084,2024-01-05,2024-01-12,Pediatrics,Dr. Meera Gupta,340,Fever,43320.06,19850.83,Elective
+2085,1085,2024-07-13,2024-07-16,Orthopedics,Dr. Priya Nair,275,Joint Replacement,43937.39,16976.76,Elective
+2086,1086,2024-08-24,2024-09-03,Orthopedics,Dr. Amit Verma,118,Fracture,105017.93,32229.66,Emergency
+2087,1087,2024-02-12,2024-02-19,Cardiology,Dr. Rajesh Khanna,230,Heart Attack,29956.04,13277.83,Referral
+2088,1088,2024-12-19,2024-12-28,Emergency,Dr. Pooja Joshi,203,Trauma,18349.71,6261.18,Referral
+2089,1089,2023-03-27,2023-03-30,General Medicine,Dr. Anjali Singh,180,Typhoid,99033.2,33622.84,Emergency
+2090,1090,2024-02-05,2024-02-07,Orthopedics,Dr. Priya Nair,251,Arthritis,107049.89,66065.53,Referral
+2091,1091,2024-12-16,2024-12-26,Neurology,Dr. Kavya Pillai,212,Stroke,70349.54,46780.98,Emergency
+2092,1092,2023-03-30,2023-04-05,General Medicine,Dr. Deepak Patel,337,Diabetes,50371.57,26054.28,Elective
+2093,1093,2024-11-13,2024-11-15,Orthopedics,Dr. Priya Nair,290,Fracture,130583.87,82140.67,Emergency
+2094,1094,2024-12-25,2025-01-04,Emergency,Dr. Rohit Kumar,136,Accident Injury,93777.43,61025.64,Emergency
+2095,1095,2024-06-19,2024-07-08,Orthopedics,Dr. Priya Nair,233,Joint Replacement,133034.1,91992.22,Referral
+2096,1096,2024-01-16,2024-01-20,Orthopedics,Dr. Amit Verma,133,Back Pain,106665.24,71987.11,Elective
+2097,1097,2023-12-10,2023-12-11,General Medicine,Dr. Deepak Patel,307,Diabetes,7232.26,3722.17,Referral
+2098,1098,2024-12-30,2025-01-16,General Medicine,Dr. Anjali Singh,350,Diabetes,83588.56,49177.31,Emergency
+2099,1099,2024-06-07,2024-06-17,Emergency,Dr. Pooja Joshi,193,Trauma,62860.12,20600.49,Referral
+2100,1100,2023-06-11,2023-06-21,Oncology,Dr. Lakshmi Desai,166,Lung Cancer,112214.19,77053.5,Referral
+2101,1101,2024-06-05,2024-06-11,Orthopedics,Dr. Amit Verma,101,Fracture,19774.5,6367.76,Emergency
+2102,1102,2024-04-28,2024-05-16,Cardiology,Dr. Rajesh Khanna,194,Hypertension,18430.7,9058.5,Emergency
+2103,1103,2024-07-20,2024-08-04,General Medicine,Dr. Deepak Patel,306,Typhoid,42513.19,32181.37,Referral
+2104,1104,2023-11-26,2023-12-05,Neurology,Dr. Suresh Iyer,164,Parkinson's Disease,68565.82,34840.23,Referral
+2105,1105,2023-03-21,2023-04-07,Gynecology,Dr. Neha Sharma,247,Uterine Fibroids,84297.02,41002.41,Referral
+2106,1106,2023-08-17,2023-09-04,General Medicine,Dr. Deepak Patel,306,Diabetes,108537.64,60551.75,Emergency
+2107,1107,2024-04-21,2024-05-08,Cardiology,Dr. Rajesh Khanna,322,Heart Failure,123663.59,54554.62,Elective
+2108,1108,2024-07-20,2024-08-04,Cardiology,Dr. Rajesh Khanna,217,Arrhythmia,9278.09,2820.4,Emergency
+2109,1109,2024-09-29,2024-10-13,Neurology,Dr. Kavya Pillai,163,Epilepsy,44266.92,23548.38,Referral
+2110,1110,2024-07-13,2024-07-21,Orthopedics,Dr. Amit Verma,295,Joint Replacement,56454.82,39404.72,Emergency
+2111,1111,2023-01-25,2023-01-26,Neurology,Dr. Kavya Pillai,160,Stroke,102566.39,58542.09,Referral
+2112,1112,2023-01-02,2023-01-18,Cardiology,Dr. Sunita Rao,295,Heart Attack,53290.06,33500.9,Referral
+2113,1113,2023-07-30,2023-08-18,Emergency,Dr. Rohit Kumar,236,Burns,76557.64,60599.8,Elective
+2114,1114,2023-05-26,2023-06-09,Orthopedics,Dr. Amit Verma,283,Joint Replacement,62629.98,27551.72,Emergency
+2115,1115,2024-12-18,2025-01-01,Pediatrics,Dr. Arjun Shah,330,Pneumonia,47266.88,22983.33,Referral
+2116,1116,2024-06-01,2024-06-18,General Medicine,Dr. Deepak Patel,135,Diabetes,138511.16,85684.09,Elective
+2117,1117,2024-03-21,2024-03-28,General Medicine,Dr. Deepak Patel,270,Diabetes,43983.76,34400.1,Emergency
+2118,1118,2023-11-19,2023-11-24,Neurology,Dr. Kavya Pillai,338,Epilepsy,101637.14,71187.51,Referral
+2119,1119,2024-04-08,2024-04-10,Oncology,Dr. Lakshmi Desai,170,Blood Cancer,96385.85,40174.16,Emergency
+2120,1120,2023-06-09,2023-06-15,Orthopedics,Dr. Amit Verma,128,Arthritis,67002.19,25607.4,Elective
+2121,1121,2023-05-04,2023-05-15,Neurology,Dr. Kavya Pillai,238,Epilepsy,140760.69,67444.6,Emergency
+2122,1122,2024-04-19,2024-04-21,Cardiology,Dr. Sunita Rao,168,Heart Failure,77511.62,56292.12,Emergency
+2123,1123,2024-12-22,2025-01-04,Oncology,Dr. Lakshmi Desai,279,Lung Cancer,48651.68,29271.34,Emergency
+2124,1124,2023-04-04,2023-04-15,Pediatrics,Dr. Meera Gupta,283,Asthma,76208.88,32320.9,Elective
+2125,1125,2024-11-24,2024-12-09,Emergency,Dr. Rohit Kumar,177,Trauma,45750.52,19676.54,Emergency
+2126,1126,2024-04-08,2024-04-14,General Medicine,Dr. Anjali Singh,243,Diabetes,100000.19,67404.05,Emergency
+2127,1127,2023-04-15,2023-04-21,Orthopedics,Dr. Priya Nair,306,Fracture,21222.69,14790.2,Emergency
+2128,1128,2023-08-16,2023-09-02,Pediatrics,Dr. Meera Gupta,134,Fever,31918.77,12737.71,Elective
+2129,1129,2024-08-19,2024-08-26,General Medicine,Dr. Deepak Patel,251,Malaria,109482.0,47012.7,Emergency
+2130,1130,2023-07-22,2023-08-10,Oncology,Dr. Vijay Reddy,332,Breast Cancer,21012.62,13090.72,Emergency
+2131,1131,2023-05-06,2023-05-10,Orthopedics,Dr. Priya Nair,111,Fracture,139061.35,107235.82,Emergency
+2132,1132,2024-02-09,2024-02-19,Neurology,Dr. Kavya Pillai,228,Migraine,82655.3,26015.02,Referral
+2133,1133,2023-12-29,2024-01-11,Neurology,Dr. Suresh Iyer,155,Parkinson's Disease,49630.4,37428.87,Elective
+2134,1134,2023-06-02,2023-06-07,Emergency,Dr. Pooja Joshi,109,Burns,52377.67,31796.04,Referral
+2135,1135,2024-05-25,2024-06-04,Neurology,Dr. Kavya Pillai,206,Migraine,44367.32,32893.46,Elective
+2136,1136,2023-10-14,2023-10-31,Orthopedics,Dr. Amit Verma,199,Fracture,19872.35,7325.31,Emergency
+2137,1137,2024-01-27,2024-02-15,Neurology,Dr. Suresh Iyer,301,Migraine,125186.34,82208.03,Elective
+2138,1138,2024-08-02,2024-08-11,Neurology,Dr. Kavya Pillai,229,Parkinson's Disease,129528.43,59686.99,Elective
+2139,1139,2023-11-23,2023-12-10,General Medicine,Dr. Deepak Patel,253,Typhoid,54993.31,22520.32,Elective
+2140,1140,2024-06-26,2024-07-05,Pediatrics,Dr. Arjun Shah,192,Fever,28252.98,19308.68,Emergency
+2141,1141,2023-09-11,2023-09-24,General Medicine,Dr. Deepak Patel,269,Typhoid,109679.74,46128.71,Referral
+2142,1142,2024-08-12,2024-08-28,Neurology,Dr. Suresh Iyer,317,Stroke,22044.94,17444.87,Elective
+2143,1143,2023-06-30,2023-07-08,Cardiology,Dr. Rajesh Khanna,161,Arrhythmia,130131.0,77591.88,Referral
+2144,1144,2024-12-21,2025-01-02,Pediatrics,Dr. Meera Gupta,280,Asthma,79665.34,37908.04,Referral
+2145,1145,2024-05-19,2024-05-20,Cardiology,Dr. Rajesh Khanna,239,Hypertension,55058.34,25025.48,Elective
+2146,1146,2023-02-27,2023-03-09,Neurology,Dr. Suresh Iyer,160,Stroke,132841.06,79815.08,Emergency
+2147,1147,2023-12-06,2023-12-21,Cardiology,Dr. Rajesh Khanna,335,Heart Failure,20275.1,12308.35,Emergency
+2148,1148,2023-11-28,2023-12-07,Orthopedics,Dr. Amit Verma,116,Back Pain,35724.68,11108.82,Referral
+2149,1149,2024-06-22,2024-06-29,Orthopedics,Dr. Amit Verma,321,Arthritis,13371.16,6450.85,Emergency
+2150,1150,2024-08-23,2024-09-11,Neurology,Dr. Kavya Pillai,126,Epilepsy,53672.71,25133.89,Elective
+2151,1151,2024-03-23,2024-03-31,General Medicine,Dr. Deepak Patel,303,Typhoid,148005.77,91709.26,Elective
+2152,1152,2024-12-25,2024-12-26,Neurology,Dr. Suresh Iyer,348,Epilepsy,67196.93,39040.65,Referral
+2153,1153,2024-11-12,2024-11-22,Pediatrics,Dr. Meera Gupta,251,Asthma,64720.39,45772.01,Elective
+2154,1154,2023-05-11,2023-05-29,General Medicine,Dr. Anjali Singh,146,Malaria,52495.06,34878.53,Referral
+2155,1155,2023-07-06,2023-07-07,Pediatrics,Dr. Meera Gupta,255,Malnutrition,96555.74,44329.56,Referral
+2156,1156,2024-05-23,2024-06-05,Pediatrics,Dr. Meera Gupta,137,Pneumonia,106010.95,49357.02,Emergency
+2157,1157,2023-11-24,2023-12-01,Pediatrics,Dr. Arjun Shah,143,Pneumonia,25712.08,15892.47,Emergency
+2158,1158,2023-01-12,2023-01-19,General Medicine,Dr. Anjali Singh,168,Malaria,21571.44,8733.03,Referral
+2159,1159,2023-09-20,2023-09-23,General Medicine,Dr. Anjali Singh,302,Diabetes,34625.88,12258.16,Emergency
+2160,1160,2024-03-24,2024-03-25,Pediatrics,Dr. Arjun Shah,288,Fever,7627.99,3888.95,Emergency
+2161,1161,2024-01-23,2024-01-26,Oncology,Dr. Lakshmi Desai,190,Colon Cancer,86298.35,49449.99,Emergency
+2162,1162,2023-06-16,2023-07-02,General Medicine,Dr. Deepak Patel,216,Viral Fever,6446.92,2171.68,Emergency
+2163,1163,2023-11-23,2023-11-24,General Medicine,Dr. Deepak Patel,167,Malaria,72433.01,56195.78,Emergency
+2164,1164,2024-01-20,2024-01-29,Emergency,Dr. Rohit Kumar,142,Burns,75338.73,50175.03,Referral
+2165,1165,2024-08-31,2024-09-09,Neurology,Dr. Kavya Pillai,258,Stroke,82078.72,61281.05,Referral
+2166,1166,2024-10-31,2024-11-19,Pediatrics,Dr. Arjun Shah,143,Fever,128971.23,77854.62,Elective
+2167,1167,2023-04-14,2023-04-17,Emergency,Dr. Rohit Kumar,185,Poisoning,6938.31,2794.58,Emergency
+2168,1168,2024-11-07,2024-11-15,Neurology,Dr. Kavya Pillai,173,Parkinson's Disease,7248.71,3252.5,Emergency
+2169,1169,2024-08-08,2024-08-10,Orthopedics,Dr. Priya Nair,241,Fracture,14711.17,10590.97,Emergency
+2170,1170,2023-01-04,2023-01-16,Emergency,Dr. Pooja Joshi,210,Accident Injury,31349.88,10778.53,Referral
+2171,1171,2023-04-10,2023-04-25,General Medicine,Dr. Deepak Patel,107,Viral Fever,14651.89,5911.69,Referral
+2172,1172,2024-04-29,2024-05-12,General Medicine,Dr. Deepak Patel,317,Malaria,70319.39,25157.08,Elective
+2173,1173,2024-11-07,2024-11-22,Pediatrics,Dr. Arjun Shah,168,Malnutrition,38574.52,13330.14,Referral
+2174,1174,2024-01-15,2024-01-25,Emergency,Dr. Rohit Kumar,327,Trauma,51568.51,25305.83,Emergency
+2175,1175,2023-09-27,2023-10-11,Orthopedics,Dr. Amit Verma,213,Joint Replacement,59017.32,31428.43,Emergency
+2176,1176,2023-06-04,2023-06-08,Cardiology,Dr. Rajesh Khanna,293,Arrhythmia,72314.59,46876.88,Emergency
+2177,1177,2024-07-08,2024-07-19,General Medicine,Dr. Anjali Singh,206,Diabetes,139746.82,109750.55,Referral
+2178,1178,2024-02-01,2024-02-03,Neurology,Dr. Suresh Iyer,310,Migraine,100944.22,56659.1,Referral
+2179,1179,2024-05-02,2024-05-04,Pediatrics,Dr. Meera Gupta,177,Malnutrition,117057.39,39738.35,Referral
+2180,1180,2023-05-04,2023-05-08,Pediatrics,Dr. Meera Gupta,344,Fever,116144.68,78815.13,Emergency
+2181,1181,2023-07-17,2023-07-22,General Medicine,Dr. Deepak Patel,133,Typhoid,80555.61,25885.57,Emergency
+2182,1182,2024-10-04,2024-10-21,Neurology,Dr. Suresh Iyer,138,Parkinson's Disease,7121.1,5106.21,Elective
+2183,1183,2023-03-31,2023-04-12,Orthopedics,Dr. Amit Verma,200,Back Pain,112626.71,65118.75,Referral
+2184,1184,2024-06-16,2024-06-25,Cardiology,Dr. Sunita Rao,218,Arrhythmia,55309.59,41956.8,Emergency
+2185,1185,2024-02-29,2024-03-17,Neurology,Dr. Suresh Iyer,139,Parkinson's Disease,42443.5,15878.11,Referral
+2186,1186,2024-07-30,2024-08-03,General Medicine,Dr. Deepak Patel,300,Diabetes,128624.82,45082.38,Elective
+2187,1187,2023-09-28,2023-10-08,Pediatrics,Dr. Arjun Shah,199,Asthma,49501.15,31056.72,Referral
+2188,1188,2023-06-26,2023-07-07,Neurology,Dr. Suresh Iyer,171,Parkinson's Disease,44286.69,22209.2,Referral
+2189,1189,2024-02-10,2024-02-18,Orthopedics,Dr. Amit Verma,328,Joint Replacement,91966.84,68007.53,Referral
+2190,1190,2024-05-01,2024-05-13,Emergency,Dr. Rohit Kumar,336,Poisoning,110029.94,47785.14,Elective
+2191,1191,2023-11-07,2023-11-23,General Medicine,Dr. Anjali Singh,180,Diabetes,16160.89,7113.59,Elective
+2192,1192,2023-05-18,2023-05-30,General Medicine,Dr. Deepak Patel,177,Diabetes,69359.58,54593.6,Elective
+2193,1193,2024-03-02,2024-03-19,Pediatrics,Dr. Arjun Shah,255,Asthma,44432.18,27671.36,Emergency
+2194,1194,2024-02-21,2024-03-07,General Medicine,Dr. Deepak Patel,290,Viral Fever,97330.45,52775.51,Referral
+2195,1195,2024-06-11,2024-06-12,General Medicine,Dr. Deepak Patel,303,Malaria,81665.04,30990.76,Elective
+2196,1196,2024-06-20,2024-07-04,Oncology,Dr. Vijay Reddy,326,Colon Cancer,36713.76,21453.18,Emergency
+2197,1197,2023-03-01,2023-03-11,General Medicine,Dr. Deepak Patel,164,Typhoid,100985.5,31965.5,Emergency
+2198,1198,2023-10-08,2023-10-12,Oncology,Dr. Vijay Reddy,195,Blood Cancer,71920.82,51189.87,Referral
+2199,1199,2024-11-28,2024-12-03,Gynecology,Dr. Divya Mehta,108,Menstrual Disorder,113436.59,47753.29,Elective
+2200,1200,2024-04-30,2024-05-08,Cardiology,Dr. Rajesh Khanna,251,Heart Failure,9516.62,5478.4,Elective
+2201,1201,2024-12-06,2024-12-12,Orthopedics,Dr. Priya Nair,124,Arthritis,65209.94,28857.66,Elective
+2202,1202,2024-08-08,2024-08-23,Emergency,Dr. Rohit Kumar,300,Accident Injury,85813.89,67145.83,Emergency
+2203,1203,2023-10-03,2023-10-21,Cardiology,Dr. Rajesh Khanna,267,Hypertension,118647.0,59887.5,Emergency
+2204,1204,2023-05-16,2023-05-30,Neurology,Dr. Kavya Pillai,266,Stroke,133777.14,51718.29,Emergency
+2205,1205,2024-09-14,2024-09-21,Orthopedics,Dr. Priya Nair,307,Arthritis,149442.86,115295.54,Referral
+2206,1206,2024-01-21,2024-01-23,Oncology,Dr. Lakshmi Desai,319,Blood Cancer,113460.69,53820.6,Elective
+2207,1207,2023-11-06,2023-11-12,Oncology,Dr. Lakshmi Desai,274,Lung Cancer,18763.1,10513.32,Referral
+2208,1208,2023-01-08,2023-01-19,Gynecology,Dr. Divya Mehta,231,Menstrual Disorder,140367.81,112254.2,Elective
+2209,1209,2024-12-01,2024-12-11,Oncology,Dr. Lakshmi Desai,128,Blood Cancer,5829.19,3152.83,Elective
+2210,1210,2023-10-11,2023-10-26,Pediatrics,Dr. Arjun Shah,167,Asthma,49084.39,30827.93,Referral
+2211,1211,2023-06-03,2023-06-06,Orthopedics,Dr. Amit Verma,233,Back Pain,8251.75,5633.78,Emergency
+2212,1212,2024-11-28,2024-12-17,Neurology,Dr. Kavya Pillai,136,Parkinson's Disease,63871.71,42196.31,Referral
+2213,1213,2023-09-23,2023-10-09,Cardiology,Dr. Sunita Rao,333,Heart Failure,50268.47,25600.87,Elective
+2214,1214,2023-12-18,2024-01-01,Cardiology,Dr. Rajesh Khanna,286,Heart Attack,137907.48,90561.72,Referral
+2215,1215,2024-06-03,2024-06-07,General Medicine,Dr. Anjali Singh,177,Viral Fever,10646.01,7693.97,Referral
+2216,1216,2023-04-10,2023-04-21,Oncology,Dr. Lakshmi Desai,221,Lung Cancer,5775.19,2102.01,Elective
+2217,1217,2024-11-01,2024-11-06,Emergency,Dr. Pooja Joshi,123,Poisoning,130342.82,53587.42,Emergency
+2218,1218,2023-12-06,2023-12-10,General Medicine,Dr. Anjali Singh,196,Malaria,148648.48,63960.41,Elective
+2219,1219,2024-04-26,2024-05-07,General Medicine,Dr. Deepak Patel,114,Viral Fever,103038.18,75547.25,Referral
+2220,1220,2023-07-19,2023-08-04,Cardiology,Dr. Sunita Rao,229,Heart Attack,91543.52,32947.24,Referral
+2221,1221,2024-02-28,2024-03-13,Emergency,Dr. Pooja Joshi,114,Trauma,58865.46,43291.11,Emergency
+2222,1222,2023-12-17,2023-12-22,General Medicine,Dr. Deepak Patel,205,Typhoid,149366.51,118536.63,Elective
+2223,1223,2023-07-04,2023-07-08,Gynecology,Dr. Neha Sharma,300,PCOS,129851.57,44202.22,Elective
+2224,1224,2024-10-11,2024-10-17,Pediatrics,Dr. Arjun Shah,115,Pneumonia,91007.94,27516.87,Elective
+2225,1225,2024-08-13,2024-08-24,Cardiology,Dr. Rajesh Khanna,296,Hypertension,125760.63,47690.64,Emergency
+2226,1226,2024-10-10,2024-10-28,Neurology,Dr. Kavya Pillai,210,Migraine,20959.18,10515.15,Elective
+2227,1227,2023-02-08,2023-02-20,Emergency,Dr. Rohit Kumar,237,Trauma,77552.12,30998.13,Elective
+2228,1228,2024-06-27,2024-07-06,General Medicine,Dr. Anjali Singh,149,Diabetes,15121.09,4671.78,Emergency
+2229,1229,2024-12-11,2024-12-12,Pediatrics,Dr. Meera Gupta,325,Pneumonia,97211.35,45900.76,Emergency
+2230,1230,2024-05-30,2024-06-14,General Medicine,Dr. Anjali Singh,251,Diabetes,34604.15,15677.67,Emergency
+2231,1231,2023-10-25,2023-11-12,Cardiology,Dr. Sunita Rao,217,Heart Attack,101825.29,67603.43,Referral
+2232,1232,2024-12-04,2024-12-18,Oncology,Dr. Lakshmi Desai,135,Blood Cancer,13787.71,6499.06,Elective
+2233,1233,2023-06-18,2023-06-19,General Medicine,Dr. Deepak Patel,343,Malaria,93406.13,70376.58,Elective
+2234,1234,2023-08-18,2023-08-30,General Medicine,Dr. Deepak Patel,287,Diabetes,70956.5,56228.75,Emergency
+2235,1235,2023-05-07,2023-05-13,General Medicine,Dr. Deepak Patel,194,Diabetes,82710.59,54221.34,Emergency
+2236,1236,2024-07-01,2024-07-14,Pediatrics,Dr. Arjun Shah,260,Malnutrition,27285.2,8848.41,Emergency
+2237,1237,2023-02-19,2023-02-25,Pediatrics,Dr. Meera Gupta,277,Fever,98173.75,35135.89,Elective
+2238,1238,2024-07-14,2024-07-25,Cardiology,Dr. Rajesh Khanna,165,Heart Failure,90961.83,48864.53,Emergency
+2239,1239,2023-11-05,2023-11-13,Neurology,Dr. Suresh Iyer,208,Migraine,14646.5,9239.49,Referral
+2240,1240,2024-03-04,2024-03-21,Orthopedics,Dr. Amit Verma,313,Back Pain,92992.81,69680.53,Referral
+2241,1241,2023-04-27,2023-05-13,Emergency,Dr. Pooja Joshi,301,Accident Injury,105148.57,37131.31,Emergency
+2242,1242,2024-06-19,2024-07-05,General Medicine,Dr. Anjali Singh,350,Typhoid,130134.54,52162.69,Referral
+2243,1243,2023-06-14,2023-06-30,Emergency,Dr. Pooja Joshi,111,Trauma,59438.96,34122.09,Emergency
+2244,1244,2023-08-29,2023-09-07,Oncology,Dr. Lakshmi Desai,101,Colon Cancer,149599.5,45833.5,Emergency
+2245,1245,2023-06-02,2023-06-12,Cardiology,Dr. Sunita Rao,344,Heart Attack,105225.71,36307.22,Referral
+2246,1246,2023-09-20,2023-09-28,General Medicine,Dr. Deepak Patel,265,Diabetes,141412.13,58768.07,Elective
+2247,1247,2023-02-21,2023-03-07,General Medicine,Dr. Anjali Singh,126,Malaria,53615.46,37884.11,Emergency
+2248,1248,2024-11-24,2024-12-06,Cardiology,Dr. Sunita Rao,181,Arrhythmia,123461.22,63335.31,Emergency
+2249,1249,2023-01-10,2023-01-29,Oncology,Dr. Vijay Reddy,319,Breast Cancer,85022.18,31389.95,Referral
+2250,1250,2024-01-02,2024-01-09,Oncology,Dr. Lakshmi Desai,329,Lung Cancer,35565.0,18453.16,Referral
+2251,1251,2024-01-17,2024-02-04,Orthopedics,Dr. Amit Verma,309,Back Pain,43941.51,20712.33,Emergency
+2252,1252,2024-04-12,2024-04-27,Cardiology,Dr. Sunita Rao,170,Heart Failure,26354.96,18919.02,Referral
+2253,1253,2024-10-26,2024-11-03,Gynecology,Dr. Neha Sharma,327,Menstrual Disorder,21592.57,15081.43,Emergency
+2254,1254,2023-06-13,2023-06-21,Cardiology,Dr. Rajesh Khanna,127,Hypertension,35054.58,17808.21,Referral
+2255,1255,2023-07-05,2023-07-15,General Medicine,Dr. Anjali Singh,257,Viral Fever,42187.14,20666.44,Elective
+2256,1256,2024-05-09,2024-05-22,Neurology,Dr. Suresh Iyer,336,Stroke,14071.9,7655.98,Elective
+2257,1257,2023-03-06,2023-03-10,Orthopedics,Dr. Amit Verma,167,Joint Replacement,26303.68,16505.21,Emergency
+2258,1258,2024-06-15,2024-06-17,Neurology,Dr. Kavya Pillai,234,Migraine,125250.56,80676.49,Referral
+2259,1259,2024-11-08,2024-11-22,General Medicine,Dr. Anjali Singh,287,Diabetes,121551.71,51572.99,Elective
+2260,1260,2024-07-25,2024-07-31,Cardiology,Dr. Rajesh Khanna,329,Heart Failure,118180.62,93823.1,Emergency
+2261,1261,2024-06-01,2024-06-04,Orthopedics,Dr. Amit Verma,318,Fracture,5455.43,2916.72,Elective
+2262,1262,2024-05-18,2024-06-04,Cardiology,Dr. Rajesh Khanna,183,Hypertension,69053.24,29033.15,Elective
+2263,1263,2024-07-17,2024-07-27,Gynecology,Dr. Divya Mehta,265,Pregnancy,124245.28,60795.55,Emergency
+2264,1264,2024-03-30,2024-04-01,Cardiology,Dr. Sunita Rao,306,Heart Attack,71472.56,41919.9,Emergency
+2265,1265,2023-11-20,2023-12-06,General Medicine,Dr. Anjali Singh,131,Viral Fever,84349.44,66664.35,Referral
+2266,1266,2024-02-18,2024-03-06,Gynecology,Dr. Divya Mehta,206,Pregnancy,130019.43,41335.25,Referral
+2267,1267,2024-09-10,2024-09-17,Orthopedics,Dr. Amit Verma,347,Fracture,86570.5,52767.58,Elective
+2268,1268,2023-12-16,2023-12-24,General Medicine,Dr. Anjali Singh,194,Typhoid,58862.75,41948.86,Emergency
+2269,1269,2024-07-27,2024-08-14,Orthopedics,Dr. Priya Nair,297,Joint Replacement,73275.77,44689.35,Elective
+2270,1270,2023-04-27,2023-05-09,General Medicine,Dr. Anjali Singh,125,Malaria,75061.23,51016.11,Emergency
+2271,1271,2023-12-30,2024-01-06,Oncology,Dr. Lakshmi Desai,313,Breast Cancer,21966.7,13549.73,Elective
+2272,1272,2023-02-16,2023-03-04,Oncology,Dr. Vijay Reddy,330,Blood Cancer,52593.8,20094.92,Emergency
+2273,1273,2023-09-18,2023-09-26,Pediatrics,Dr. Meera Gupta,257,Malnutrition,33480.79,13324.04,Emergency
+2274,1274,2024-04-13,2024-04-18,Gynecology,Dr. Divya Mehta,312,Menstrual Disorder,78971.52,54546.43,Referral
+2275,1275,2024-02-29,2024-03-14,General Medicine,Dr. Deepak Patel,112,Malaria,98488.06,75177.24,Referral
+2276,1276,2024-04-13,2024-04-20,Orthopedics,Dr. Priya Nair,269,Fracture,140186.8,83363.21,Referral
+2277,1277,2023-01-05,2023-01-11,General Medicine,Dr. Anjali Singh,236,Typhoid,24089.77,16094.54,Referral
+2278,1278,2024-06-04,2024-06-07,Oncology,Dr. Lakshmi Desai,300,Colon Cancer,36712.92,27923.16,Emergency
+2279,1279,2023-04-17,2023-04-19,Orthopedics,Dr. Amit Verma,200,Arthritis,135962.66,85488.01,Referral
+2280,1280,2024-03-04,2024-03-10,General Medicine,Dr. Anjali Singh,256,Malaria,145639.35,110388.09,Emergency
+2281,1281,2023-12-18,2023-12-24,Pediatrics,Dr. Arjun Shah,349,Asthma,59309.5,26516.49,Emergency
+2282,1282,2024-09-08,2024-09-11,Oncology,Dr. Lakshmi Desai,280,Lung Cancer,134627.85,100057.9,Referral
+2283,1283,2024-12-29,2025-01-03,Neurology,Dr. Kavya Pillai,289,Epilepsy,30392.86,23334.3,Referral
+2284,1284,2023-08-03,2023-08-12,General Medicine,Dr. Deepak Patel,260,Typhoid,41633.67,27361.33,Referral
+2285,1285,2024-12-28,2025-01-04,Pediatrics,Dr. Meera Gupta,267,Asthma,90395.3,71194.41,Emergency
+2286,1286,2023-12-27,2024-01-09,General Medicine,Dr. Deepak Patel,244,Malaria,131247.01,70897.66,Referral
+2287,1287,2024-03-08,2024-03-21,Oncology,Dr. Lakshmi Desai,307,Colon Cancer,38648.08,11841.2,Emergency
+2288,1288,2023-05-29,2023-05-30,Orthopedics,Dr. Priya Nair,114,Fracture,55926.81,35520.63,Emergency
+2289,1289,2023-10-21,2023-10-29,Cardiology,Dr. Rajesh Khanna,275,Arrhythmia,138507.25,58904.43,Emergency
+2290,1290,2024-07-08,2024-07-22,Cardiology,Dr. Rajesh Khanna,109,Arrhythmia,93441.53,44790.38,Elective
+2291,1291,2024-10-24,2024-11-08,Emergency,Dr. Rohit Kumar,244,Accident Injury,136723.01,67601.78,Referral
+2292,1292,2024-01-26,2024-02-12,Pediatrics,Dr. Meera Gupta,200,Asthma,117014.86,59476.68,Referral
+2293,1293,2023-01-14,2023-01-16,General Medicine,Dr. Deepak Patel,291,Malaria,115261.53,49063.44,Referral
+2294,1294,2024-10-10,2024-10-17,Pediatrics,Dr. Meera Gupta,281,Malnutrition,140599.95,92061.01,Elective
+2295,1295,2023-10-29,2023-11-12,Neurology,Dr. Suresh Iyer,215,Migraine,124995.19,48587.25,Referral
+2296,1296,2023-06-27,2023-07-13,Cardiology,Dr. Rajesh Khanna,289,Heart Attack,54359.68,30274.18,Elective
+2297,1297,2023-10-13,2023-10-28,Pediatrics,Dr. Arjun Shah,243,Fever,137037.83,59216.76,Emergency
+2298,1298,2023-12-05,2023-12-06,Pediatrics,Dr. Meera Gupta,220,Asthma,128682.39,84266.97,Emergency
+2299,1299,2023-11-27,2023-12-12,Emergency,Dr. Rohit Kumar,253,Accident Injury,28298.54,9209.13,Referral
+2300,1300,2024-08-09,2024-08-11,Cardiology,Dr. Sunita Rao,241,Arrhythmia,36247.61,17364.16,Referral
+2301,1301,2023-07-08,2023-07-20,Neurology,Dr. Suresh Iyer,234,Epilepsy,110066.75,36772.01,Referral
+2302,1302,2024-07-10,2024-07-18,Cardiology,Dr. Sunita Rao,238,Hypertension,45752.21,22954.27,Elective
+2303,1303,2024-11-10,2024-11-11,Cardiology,Dr. Rajesh Khanna,185,Hypertension,93561.76,43556.11,Elective
+2304,1304,2024-07-28,2024-08-16,Orthopedics,Dr. Priya Nair,311,Arthritis,113861.6,76978.06,Referral
+2305,1305,2024-11-15,2024-12-02,Cardiology,Dr. Rajesh Khanna,189,Heart Attack,35563.31,18593.69,Referral
+2306,1306,2024-11-29,2024-12-07,Pediatrics,Dr. Meera Gupta,327,Pneumonia,139725.98,64339.41,Emergency
+2307,1307,2024-07-07,2024-07-25,Neurology,Dr. Kavya Pillai,286,Parkinson's Disease,51117.19,22563.87,Referral
+2308,1308,2024-05-13,2024-06-01,General Medicine,Dr. Anjali Singh,112,Malaria,81086.67,36344.42,Referral
+2309,1309,2024-06-10,2024-06-13,General Medicine,Dr. Anjali Singh,122,Typhoid,65694.43,50854.45,Emergency
+2310,1310,2023-08-04,2023-08-23,Orthopedics,Dr. Amit Verma,272,Fracture,47597.51,29260.91,Emergency
+2311,1311,2023-07-30,2023-08-06,Cardiology,Dr. Rajesh Khanna,238,Heart Failure,43496.98,31073.13,Referral
+2312,1312,2024-12-03,2024-12-22,General Medicine,Dr. Deepak Patel,140,Viral Fever,32884.93,10256.04,Referral
+2313,1313,2023-03-31,2023-04-06,Orthopedics,Dr. Amit Verma,119,Back Pain,142338.41,46563.74,Elective
+2314,1314,2023-09-22,2023-09-26,Emergency,Dr. Rohit Kumar,205,Accident Injury,55809.92,27571.01,Referral
+2315,1315,2023-11-20,2023-11-24,Emergency,Dr. Pooja Joshi,105,Trauma,144687.25,71584.15,Emergency
+2316,1316,2024-08-22,2024-09-08,Cardiology,Dr. Rajesh Khanna,112,Heart Attack,107405.69,69861.07,Emergency
+2317,1317,2023-10-24,2023-11-07,General Medicine,Dr. Deepak Patel,302,Malaria,120199.72,77281.13,Referral
+2318,1318,2024-03-24,2024-04-07,Orthopedics,Dr. Priya Nair,198,Fracture,16446.21,8182.92,Referral
+2319,1319,2023-06-10,2023-06-11,Neurology,Dr. Kavya Pillai,237,Stroke,17903.51,7339.24,Referral
+2320,1320,2024-10-11,2024-10-12,Gynecology,Dr. Neha Sharma,137,Menstrual Disorder,140645.25,63153.69,Referral
+2321,1321,2024-07-20,2024-08-05,Orthopedics,Dr. Amit Verma,324,Back Pain,70657.99,40807.45,Emergency
+2322,1322,2024-08-09,2024-08-18,Orthopedics,Dr. Amit Verma,253,Fracture,39798.46,19781.46,Referral
+2323,1323,2023-08-04,2023-08-18,General Medicine,Dr. Anjali Singh,292,Diabetes,70072.93,46998.98,Referral
+2324,1324,2024-02-27,2024-03-01,Emergency,Dr. Rohit Kumar,332,Burns,40765.5,25395.51,Referral
+2325,1325,2023-07-08,2023-07-18,Pediatrics,Dr. Meera Gupta,157,Pneumonia,136191.12,82864.46,Elective
+2326,1326,2023-07-05,2023-07-13,General Medicine,Dr. Deepak Patel,272,Typhoid,88794.21,62140.85,Emergency
+2327,1327,2023-10-25,2023-10-30,Emergency,Dr. Rohit Kumar,272,Trauma,21645.55,7222.72,Emergency
+2328,1328,2023-12-05,2023-12-22,Emergency,Dr. Pooja Joshi,192,Poisoning,5997.3,2183.66,Referral
+2329,1329,2023-10-19,2023-10-31,Orthopedics,Dr. Amit Verma,259,Arthritis,64623.64,21642.74,Emergency
+2330,1330,2024-04-06,2024-04-24,Neurology,Dr. Kavya Pillai,185,Epilepsy,134856.61,82015.91,Elective
+2331,1331,2023-11-20,2023-12-06,Emergency,Dr. Pooja Joshi,346,Poisoning,105203.09,54090.56,Emergency
+2332,1332,2023-08-15,2023-08-17,Orthopedics,Dr. Amit Verma,283,Back Pain,31771.71,21284.13,Elective
+2333,1333,2023-05-18,2023-06-04,Neurology,Dr. Kavya Pillai,274,Epilepsy,124261.72,82818.75,Elective
+2334,1334,2024-01-03,2024-01-04,Cardiology,Dr. Sunita Rao,299,Heart Failure,21953.91,9939.32,Referral
+2335,1335,2024-10-23,2024-11-06,General Medicine,Dr. Deepak Patel,256,Diabetes,91431.88,31177.07,Elective
+2336,1336,2023-09-27,2023-10-02,Neurology,Dr. Suresh Iyer,288,Migraine,56494.09,41984.6,Emergency
+2337,1337,2024-06-03,2024-06-15,Cardiology,Dr. Rajesh Khanna,262,Heart Attack,111285.02,35121.23,Referral
+2338,1338,2023-02-07,2023-02-25,General Medicine,Dr. Deepak Patel,242,Viral Fever,20348.72,8756.22,Referral
+2339,1339,2024-01-10,2024-01-18,Emergency,Dr. Rohit Kumar,201,Trauma,100269.42,41276.24,Referral
+2340,1340,2024-04-20,2024-05-08,Emergency,Dr. Rohit Kumar,229,Burns,86284.07,47905.43,Elective
+2341,1341,2024-11-09,2024-11-17,Emergency,Dr. Rohit Kumar,162,Burns,124849.91,90390.2,Referral
+2342,1342,2024-04-01,2024-04-06,Oncology,Dr. Vijay Reddy,141,Lung Cancer,19316.89,7525.33,Referral
+2343,1343,2024-01-03,2024-01-08,Cardiology,Dr. Sunita Rao,111,Hypertension,22212.82,9094.14,Elective
+2344,1344,2023-09-28,2023-10-03,Gynecology,Dr. Divya Mehta,195,PCOS,14748.96,6150.45,Referral
+2345,1345,2024-02-02,2024-02-03,General Medicine,Dr. Anjali Singh,221,Typhoid,106457.25,80795.83,Emergency
+2346,1346,2023-04-16,2023-04-27,General Medicine,Dr. Anjali Singh,281,Diabetes,82182.32,64449.08,Referral
+2347,1347,2024-08-15,2024-08-28,Cardiology,Dr. Sunita Rao,240,Arrhythmia,87356.27,51110.41,Elective
+2348,1348,2024-08-24,2024-09-02,Orthopedics,Dr. Priya Nair,268,Joint Replacement,9607.88,7197.39,Emergency
+2349,1349,2023-08-17,2023-09-01,Oncology,Dr. Lakshmi Desai,233,Blood Cancer,25924.83,13038.14,Elective
+2350,1350,2024-09-10,2024-09-22,Cardiology,Dr. Sunita Rao,102,Heart Failure,80920.04,44580.35,Emergency
+2351,1351,2023-08-24,2023-08-29,Orthopedics,Dr. Amit Verma,120,Joint Replacement,94025.69,52397.76,Elective
+2352,1352,2023-07-11,2023-07-21,Orthopedics,Dr. Amit Verma,141,Arthritis,57085.27,27464.38,Referral
+2353,1353,2024-02-29,2024-03-17,Oncology,Dr. Vijay Reddy,308,Breast Cancer,16083.78,7480.77,Emergency
+2354,1354,2024-05-05,2024-05-21,Emergency,Dr. Pooja Joshi,154,Trauma,57571.17,34277.61,Referral
+2355,1355,2023-09-07,2023-09-24,Oncology,Dr. Vijay Reddy,112,Colon Cancer,85810.03,31229.92,Referral
+2356,1356,2024-10-06,2024-10-12,Cardiology,Dr. Rajesh Khanna,232,Hypertension,72670.5,23225.16,Referral
+2357,1357,2023-06-20,2023-06-26,Pediatrics,Dr. Meera Gupta,167,Pneumonia,87024.78,66245.3,Referral
+2358,1358,2024-11-08,2024-11-16,Orthopedics,Dr. Amit Verma,311,Joint Replacement,122218.83,53987.4,Emergency
+2359,1359,2024-09-13,2024-09-26,Oncology,Dr. Lakshmi Desai,221,Lung Cancer,71572.98,52509.6,Emergency
+2360,1360,2024-09-07,2024-09-10,Orthopedics,Dr. Priya Nair,137,Arthritis,7429.66,5180.76,Emergency
+2361,1361,2024-12-03,2024-12-20,General Medicine,Dr. Deepak Patel,188,Malaria,66010.37,50245.51,Referral
+2362,1362,2024-01-23,2024-02-07,General Medicine,Dr. Deepak Patel,199,Diabetes,73961.45,27077.77,Emergency
+2363,1363,2023-06-03,2023-06-09,Neurology,Dr. Kavya Pillai,256,Migraine,99853.22,34763.83,Elective
+2364,1364,2023-04-06,2023-04-10,General Medicine,Dr. Deepak Patel,224,Diabetes,86517.38,54479.67,Referral
+2365,1365,2024-06-18,2024-07-01,General Medicine,Dr. Anjali Singh,208,Diabetes,37477.47,18183.65,Emergency
+2366,1366,2024-05-08,2024-05-23,Orthopedics,Dr. Amit Verma,303,Joint Replacement,93855.4,64228.61,Elective
+2367,1367,2023-05-18,2023-05-30,Emergency,Dr. Pooja Joshi,166,Accident Injury,105533.6,56837.3,Emergency
+2368,1368,2024-09-04,2024-09-08,General Medicine,Dr. Anjali Singh,325,Diabetes,103796.19,59357.46,Elective
+2369,1369,2024-12-27,2025-01-08,Emergency,Dr. Rohit Kumar,291,Poisoning,123127.3,85537.92,Referral
+2370,1370,2024-01-20,2024-02-06,General Medicine,Dr. Deepak Patel,268,Diabetes,135392.75,54523.93,Elective
+2371,1371,2023-04-20,2023-04-23,Gynecology,Dr. Neha Sharma,140,Menstrual Disorder,56460.16,28966.08,Referral
+2372,1372,2024-07-02,2024-07-16,Neurology,Dr. Kavya Pillai,209,Epilepsy,45324.43,26394.01,Referral
+2373,1373,2023-07-28,2023-08-01,Orthopedics,Dr. Priya Nair,206,Back Pain,85667.56,49349.01,Referral
+2374,1374,2024-01-15,2024-01-31,Cardiology,Dr. Rajesh Khanna,244,Heart Failure,11077.71,6396.89,Elective
+2375,1375,2024-12-23,2025-01-05,Neurology,Dr. Kavya Pillai,202,Epilepsy,107966.64,72109.97,Referral
+2376,1376,2024-04-02,2024-04-10,Cardiology,Dr. Rajesh Khanna,301,Heart Attack,77851.96,50576.97,Emergency
+2377,1377,2024-06-04,2024-06-13,General Medicine,Dr. Deepak Patel,203,Diabetes,50392.27,34923.89,Referral
+2378,1378,2024-02-03,2024-02-10,Oncology,Dr. Vijay Reddy,347,Breast Cancer,140474.1,86804.33,Emergency
+2379,1379,2024-09-06,2024-09-16,Emergency,Dr. Pooja Joshi,212,Poisoning,50905.08,17514.93,Elective
+2380,1380,2023-03-23,2023-04-02,Orthopedics,Dr. Priya Nair,256,Arthritis,50649.75,16151.07,Elective
+2381,1381,2024-12-29,2025-01-05,Cardiology,Dr. Sunita Rao,347,Heart Failure,111066.99,66499.84,Emergency
+2382,1382,2023-01-11,2023-01-24,Oncology,Dr. Lakshmi Desai,152,Colon Cancer,100417.97,72831.53,Referral
+2383,1383,2023-02-04,2023-02-18,Cardiology,Dr. Rajesh Khanna,301,Arrhythmia,20604.06,12357.44,Referral
+2384,1384,2024-11-21,2024-11-27,General Medicine,Dr. Deepak Patel,110,Typhoid,41419.54,19875.99,Referral
+2385,1385,2023-03-30,2023-04-07,Oncology,Dr. Vijay Reddy,171,Breast Cancer,84383.37,58210.72,Elective
+2386,1386,2024-08-23,2024-09-02,Orthopedics,Dr. Priya Nair,152,Joint Replacement,88091.12,49231.6,Referral
+2387,1387,2024-07-16,2024-07-19,Orthopedics,Dr. Amit Verma,173,Fracture,125130.78,82970.39,Referral
+2388,1388,2023-10-11,2023-10-15,General Medicine,Dr. Anjali Singh,158,Malaria,52030.14,31383.63,Emergency
+2389,1389,2024-08-11,2024-08-30,Orthopedics,Dr. Priya Nair,102,Joint Replacement,55141.88,23741.54,Elective
+2390,1390,2024-05-30,2024-06-05,General Medicine,Dr. Deepak Patel,176,Diabetes,68883.16,32373.91,Emergency
+2391,1391,2024-12-11,2024-12-27,Cardiology,Dr. Sunita Rao,214,Arrhythmia,94804.8,74234.79,Referral
+2392,1392,2023-12-14,2023-12-24,Pediatrics,Dr. Meera Gupta,347,Malnutrition,8736.59,6009.02,Referral
+2393,1393,2024-05-08,2024-05-22,General Medicine,Dr. Deepak Patel,130,Viral Fever,104766.61,44935.43,Elective
+2394,1394,2023-11-20,2023-11-29,Cardiology,Dr. Rajesh Khanna,206,Hypertension,33723.85,26227.81,Referral
+2395,1395,2023-09-12,2023-09-27,Cardiology,Dr. Sunita Rao,174,Heart Attack,65878.06,22827.06,Referral
+2396,1396,2024-07-21,2024-07-23,Pediatrics,Dr. Meera Gupta,339,Asthma,29785.78,11593.9,Elective
+2397,1397,2024-08-10,2024-08-20,Neurology,Dr. Suresh Iyer,169,Epilepsy,135204.87,52918.14,Referral
+2398,1398,2023-07-24,2023-08-02,Cardiology,Dr. Sunita Rao,161,Hypertension,12596.74,8411.03,Elective
+2399,1399,2023-07-27,2023-08-12,Cardiology,Dr. Rajesh Khanna,314,Hypertension,28637.77,12166.69,Referral
+2400,1400,2023-04-20,2023-05-01,Orthopedics,Dr. Amit Verma,131,Back Pain,125371.89,95294.43,Referral
+2401,1401,2024-07-08,2024-07-15,Emergency,Dr. Rohit Kumar,346,Trauma,24641.63,7913.21,Elective
+2402,1402,2024-05-19,2024-05-21,Orthopedics,Dr. Priya Nair,330,Back Pain,139337.25,110449.94,Referral
+2403,1403,2023-07-07,2023-07-18,Neurology,Dr. Kavya Pillai,296,Epilepsy,65900.59,49952.87,Elective
+2404,1404,2024-08-13,2024-08-16,Cardiology,Dr. Rajesh Khanna,133,Heart Failure,9154.6,2994.23,Elective
+2405,1405,2024-05-29,2024-06-04,General Medicine,Dr. Deepak Patel,189,Viral Fever,118334.24,58795.37,Referral
+2406,1406,2023-05-04,2023-05-19,Orthopedics,Dr. Priya Nair,279,Arthritis,10837.41,6059.22,Elective
+2407,1407,2024-11-21,2024-12-04,General Medicine,Dr. Deepak Patel,154,Diabetes,87101.18,42654.67,Emergency
+2408,1408,2024-09-19,2024-10-04,Cardiology,Dr. Sunita Rao,321,Arrhythmia,44366.34,19070.89,Referral
+2409,1409,2023-10-03,2023-10-18,Emergency,Dr. Rohit Kumar,221,Burns,79411.55,61882.52,Elective
+2410,1410,2024-05-25,2024-06-06,Orthopedics,Dr. Amit Verma,209,Back Pain,64521.89,26148.54,Referral
+2411,1411,2024-02-15,2024-03-03,Cardiology,Dr. Sunita Rao,172,Arrhythmia,37781.47,19849.04,Referral
+2412,1412,2023-04-13,2023-04-18,Oncology,Dr. Vijay Reddy,285,Lung Cancer,18037.86,7846.01,Emergency
+2413,1413,2023-07-20,2023-08-04,Orthopedics,Dr. Priya Nair,138,Joint Replacement,131249.83,91877.34,Referral
+2414,1414,2023-01-10,2023-01-26,Cardiology,Dr. Sunita Rao,146,Hypertension,53139.75,27141.68,Emergency
+2415,1415,2023-11-04,2023-11-09,General Medicine,Dr. Anjali Singh,165,Malaria,110491.74,64203.35,Referral
+2416,1416,2023-04-12,2023-04-27,Pediatrics,Dr. Arjun Shah,277,Fever,81841.39,31236.48,Emergency
+2417,1417,2024-10-06,2024-10-16,Cardiology,Dr. Sunita Rao,125,Arrhythmia,35245.31,18501.23,Elective
+2418,1418,2024-01-04,2024-01-10,Orthopedics,Dr. Priya Nair,244,Back Pain,55251.02,31976.29,Elective
+2419,1419,2024-02-26,2024-03-13,Neurology,Dr. Suresh Iyer,132,Epilepsy,29837.77,14189.21,Referral
+2420,1420,2023-10-19,2023-11-01,Oncology,Dr. Vijay Reddy,191,Lung Cancer,53942.21,24950.71,Referral
+2421,1421,2023-03-22,2023-04-02,Oncology,Dr. Lakshmi Desai,198,Colon Cancer,98018.15,59480.54,Elective
+2422,1422,2024-10-17,2024-11-01,Orthopedics,Dr. Amit Verma,307,Arthritis,48106.64,36767.1,Elective
+2423,1423,2023-03-23,2023-04-11,Orthopedics,Dr. Amit Verma,142,Joint Replacement,98975.23,46697.77,Elective
+2424,1424,2024-12-28,2025-01-12,Emergency,Dr. Pooja Joshi,169,Burns,124779.38,75203.59,Elective
+2425,1425,2024-01-07,2024-01-11,General Medicine,Dr. Anjali Singh,292,Malaria,20310.77,12053.63,Elective
+2426,1426,2023-07-08,2023-07-19,Cardiology,Dr. Rajesh Khanna,319,Heart Failure,57268.8,17842.13,Referral
+2427,1427,2024-12-18,2024-12-30,General Medicine,Dr. Anjali Singh,292,Typhoid,16778.3,5705.17,Emergency
+2428,1428,2023-04-08,2023-04-18,Gynecology,Dr. Divya Mehta,117,Menstrual Disorder,78169.76,60065.4,Elective
+2429,1429,2024-02-11,2024-02-21,Cardiology,Dr. Rajesh Khanna,235,Heart Attack,120103.63,81970.51,Emergency
+2430,1430,2024-09-24,2024-10-13,General Medicine,Dr. Anjali Singh,140,Diabetes,147850.31,50587.82,Elective
+2431,1431,2023-09-11,2023-09-21,General Medicine,Dr. Deepak Patel,289,Malaria,66985.54,29613.48,Referral
+2432,1432,2024-06-23,2024-07-10,Neurology,Dr. Suresh Iyer,315,Migraine,77603.08,29900.78,Emergency
+2433,1433,2024-05-02,2024-05-09,General Medicine,Dr. Anjali Singh,220,Malaria,140492.79,110636.78,Referral
+2434,1434,2023-05-19,2023-05-20,General Medicine,Dr. Anjali Singh,349,Malaria,23730.29,18373.01,Referral
+2435,1435,2024-10-08,2024-10-15,Cardiology,Dr. Sunita Rao,292,Hypertension,7349.06,4541.17,Referral
+2436,1436,2023-12-22,2024-01-08,Oncology,Dr. Lakshmi Desai,224,Colon Cancer,134037.44,76379.1,Emergency
+2437,1437,2024-01-10,2024-01-11,Gynecology,Dr. Neha Sharma,206,Menstrual Disorder,99553.49,42798.4,Elective
+2438,1438,2024-06-19,2024-06-26,Oncology,Dr. Vijay Reddy,309,Breast Cancer,41688.82,28312.83,Emergency
+2439,1439,2024-04-25,2024-05-07,Emergency,Dr. Pooja Joshi,237,Burns,13846.04,4211.39,Elective
+2440,1440,2023-01-10,2023-01-28,Orthopedics,Dr. Priya Nair,297,Joint Replacement,102706.64,52916.27,Elective
+2441,1441,2024-07-15,2024-07-27,Oncology,Dr. Vijay Reddy,196,Lung Cancer,27007.43,10648.64,Referral
+2442,1442,2023-09-13,2023-09-15,Emergency,Dr. Pooja Joshi,142,Trauma,116045.21,76296.13,Referral
+2443,1443,2023-08-14,2023-08-20,Cardiology,Dr. Sunita Rao,168,Heart Failure,25792.33,8759.2,Referral
+2444,1444,2023-10-19,2023-10-29,Cardiology,Dr. Sunita Rao,267,Hypertension,105391.37,70766.45,Elective
+2445,1445,2023-03-12,2023-03-25,Orthopedics,Dr. Amit Verma,147,Joint Replacement,100865.4,37149.94,Emergency
+2446,1446,2023-10-06,2023-10-21,General Medicine,Dr. Anjali Singh,280,Viral Fever,13691.78,8370.84,Emergency
+2447,1447,2023-06-05,2023-06-23,Cardiology,Dr. Rajesh Khanna,113,Arrhythmia,11524.54,9045.13,Emergency
+2448,1448,2023-10-16,2023-10-18,General Medicine,Dr. Deepak Patel,169,Typhoid,31600.6,11455.84,Elective
+2449,1449,2023-04-03,2023-04-15,General Medicine,Dr. Deepak Patel,139,Diabetes,53135.87,16331.97,Emergency
+2450,1450,2023-11-16,2023-11-25,Pediatrics,Dr. Arjun Shah,302,Asthma,95296.18,66681.71,Elective
+2451,1451,2023-12-05,2023-12-21,Oncology,Dr. Vijay Reddy,121,Colon Cancer,9038.57,6523.8,Emergency
+2452,1452,2024-02-06,2024-02-07,General Medicine,Dr. Anjali Singh,119,Diabetes,102562.83,58624.5,Emergency
+2453,1453,2024-01-26,2024-01-28,General Medicine,Dr. Anjali Singh,313,Typhoid,101254.55,31015.05,Referral
+2454,1454,2024-03-29,2024-04-13,Gynecology,Dr. Neha Sharma,164,PCOS,134105.73,89691.19,Emergency
+2455,1455,2023-04-07,2023-04-14,Pediatrics,Dr. Arjun Shah,234,Pneumonia,77540.39,49083.37,Emergency
+2456,1456,2024-11-28,2024-12-12,Cardiology,Dr. Sunita Rao,347,Heart Failure,126773.95,57815.85,Elective
+2457,1457,2024-07-16,2024-07-18,Cardiology,Dr. Rajesh Khanna,234,Hypertension,138003.87,49829.16,Elective
+2458,1458,2024-01-05,2024-01-11,Neurology,Dr. Suresh Iyer,328,Epilepsy,108634.23,35419.51,Referral
+2459,1459,2023-08-30,2023-09-13,Orthopedics,Dr. Amit Verma,263,Arthritis,118791.6,61424.86,Emergency
+2460,1460,2024-08-21,2024-08-22,Gynecology,Dr. Neha Sharma,131,PCOS,126441.97,62955.98,Emergency
+2461,1461,2024-08-18,2024-08-24,General Medicine,Dr. Deepak Patel,301,Diabetes,47894.49,30909.94,Referral
+2462,1462,2023-04-02,2023-04-18,Cardiology,Dr. Sunita Rao,164,Hypertension,36594.25,13863.7,Emergency
+2463,1463,2023-03-03,2023-03-11,General Medicine,Dr. Deepak Patel,192,Malaria,23527.32,14640.76,Referral
+2464,1464,2024-05-14,2024-05-28,Neurology,Dr. Suresh Iyer,160,Stroke,110672.82,50729.08,Referral
+2465,1465,2023-07-17,2023-07-30,Orthopedics,Dr. Priya Nair,106,Back Pain,126403.14,81482.62,Elective
+2466,1466,2023-02-10,2023-02-24,Cardiology,Dr. Sunita Rao,225,Hypertension,24513.56,16015.03,Referral
+2467,1467,2023-07-14,2023-07-23,Cardiology,Dr. Sunita Rao,246,Arrhythmia,71797.13,28238.77,Elective
+2468,1468,2023-10-09,2023-10-14,Pediatrics,Dr. Arjun Shah,323,Asthma,19997.95,14312.03,Referral
+2469,1469,2024-06-27,2024-07-05,Neurology,Dr. Suresh Iyer,140,Migraine,46796.48,24553.74,Elective
+2470,1470,2023-01-01,2023-01-12,Orthopedics,Dr. Priya Nair,299,Back Pain,5004.45,3097.82,Elective
+2471,1471,2024-09-26,2024-10-13,General Medicine,Dr. Deepak Patel,320,Typhoid,85381.72,41157.2,Referral
+2472,1472,2023-03-06,2023-03-14,Cardiology,Dr. Sunita Rao,269,Hypertension,134688.64,105539.54,Elective
+2473,1473,2024-07-18,2024-07-23,Oncology,Dr. Lakshmi Desai,140,Lung Cancer,79596.89,48277.08,Elective
+2474,1474,2023-04-24,2023-04-26,Cardiology,Dr. Sunita Rao,125,Heart Failure,93034.62,52248.27,Emergency
+2475,1475,2023-07-02,2023-07-10,Neurology,Dr. Suresh Iyer,324,Stroke,18769.96,5924.49,Emergency
+2476,1476,2023-04-12,2023-04-23,Orthopedics,Dr. Amit Verma,109,Joint Replacement,125309.82,73369.66,Elective
+2477,1477,2023-02-20,2023-03-03,Gynecology,Dr. Neha Sharma,194,Menstrual Disorder,82121.41,33699.46,Referral
+2478,1478,2023-08-02,2023-08-05,Emergency,Dr. Rohit Kumar,268,Accident Injury,134241.14,73255.76,Emergency
+2479,1479,2024-01-05,2024-01-20,Pediatrics,Dr. Meera Gupta,243,Malnutrition,51154.09,34362.18,Elective
+2480,1480,2024-09-23,2024-09-29,Pediatrics,Dr. Meera Gupta,169,Asthma,90883.7,51304.8,Referral
+2481,1481,2023-03-21,2023-03-22,General Medicine,Dr. Anjali Singh,342,Diabetes,96697.46,39447.73,Referral
+2482,1482,2023-08-25,2023-09-06,Cardiology,Dr. Rajesh Khanna,237,Heart Attack,105546.21,51998.98,Emergency
+2483,1483,2024-07-25,2024-08-03,General Medicine,Dr. Deepak Patel,292,Typhoid,121593.87,70411.46,Referral
+2484,1484,2024-11-21,2024-12-10,Neurology,Dr. Kavya Pillai,218,Stroke,110886.13,72217.39,Elective
+2485,1485,2023-07-04,2023-07-17,General Medicine,Dr. Deepak Patel,241,Diabetes,102686.75,51423.33,Elective
+2486,1486,2023-12-27,2024-01-11,General Medicine,Dr. Anjali Singh,332,Typhoid,94480.36,43232.09,Elective
+2487,1487,2024-10-10,2024-10-29,Oncology,Dr. Lakshmi Desai,211,Blood Cancer,37774.81,26936.37,Elective
+2488,1488,2024-01-20,2024-02-05,Pediatrics,Dr. Meera Gupta,297,Pneumonia,45928.06,26414.12,Referral
+2489,1489,2024-04-08,2024-04-21,Orthopedics,Dr. Priya Nair,215,Back Pain,83499.29,65122.12,Emergency
+2490,1490,2024-09-02,2024-09-21,Cardiology,Dr. Sunita Rao,105,Heart Attack,125700.49,70242.02,Elective
+2491,1491,2023-08-16,2023-08-31,Gynecology,Dr. Neha Sharma,155,Pregnancy,83930.01,61089.31,Emergency
+2492,1492,2023-04-07,2023-04-17,Orthopedics,Dr. Amit Verma,110,Back Pain,123909.79,65695.1,Emergency
+2493,1493,2024-01-11,2024-01-22,Cardiology,Dr. Sunita Rao,328,Hypertension,44409.04,26249.2,Emergency
+2494,1494,2023-04-05,2023-04-11,Neurology,Dr. Kavya Pillai,247,Epilepsy,99677.7,49828.79,Emergency
+2495,1495,2024-05-09,2024-05-12,Cardiology,Dr. Sunita Rao,145,Heart Attack,122439.04,66623.76,Referral
+2496,1496,2023-02-08,2023-02-23,General Medicine,Dr. Anjali Singh,288,Diabetes,57899.26,40770.96,Elective
+2497,1497,2023-12-09,2023-12-13,General Medicine,Dr. Deepak Patel,190,Diabetes,32540.74,24076.77,Elective
+2498,1498,2023-08-21,2023-09-04,General Medicine,Dr. Deepak Patel,292,Viral Fever,53908.91,33767.98,Referral
+2499,1499,2023-02-25,2023-03-02,Emergency,Dr. Pooja Joshi,179,Accident Injury,8035.45,4517.46,Elective
+2500,1500,2024-05-29,2024-06-11,Orthopedics,Dr. Priya Nair,279,Arthritis,116146.46,47666.34,Emergency
+2501,1501,2024-09-01,2024-09-05,General Medicine,Dr. Anjali Singh,248,Viral Fever,62410.9,34473.58,Emergency
+2502,1502,2024-02-08,2024-02-22,General Medicine,Dr. Anjali Singh,138,Viral Fever,49549.65,18139.86,Emergency
+2503,1503,2024-07-15,2024-07-24,Neurology,Dr. Suresh Iyer,203,Parkinson's Disease,41377.47,17845.23,Elective
+2504,1504,2023-05-19,2023-05-30,Cardiology,Dr. Rajesh Khanna,224,Heart Failure,145551.66,84368.74,Elective
+2505,1505,2024-07-28,2024-08-16,Neurology,Dr. Suresh Iyer,258,Parkinson's Disease,16124.81,12876.3,Referral
+2506,1506,2023-03-15,2023-03-18,Cardiology,Dr. Rajesh Khanna,169,Hypertension,100424.82,69131.04,Elective
+2507,1507,2024-11-18,2024-12-04,Gynecology,Dr. Divya Mehta,206,Pregnancy,21550.3,11028.8,Elective
+2508,1508,2023-12-19,2024-01-01,Emergency,Dr. Pooja Joshi,253,Poisoning,21696.2,13618.81,Elective
+2509,1509,2024-09-23,2024-10-12,Emergency,Dr. Pooja Joshi,311,Poisoning,5027.05,3996.9,Elective
+2510,1510,2023-02-15,2023-02-21,General Medicine,Dr. Anjali Singh,337,Typhoid,71030.55,50366.77,Emergency
+2511,1511,2023-03-29,2023-04-05,Neurology,Dr. Suresh Iyer,129,Epilepsy,99070.98,66356.83,Emergency
+2512,1512,2023-01-15,2023-01-24,Gynecology,Dr. Neha Sharma,188,PCOS,31175.14,20167.12,Emergency
+2513,1513,2024-04-27,2024-05-13,Orthopedics,Dr. Priya Nair,106,Back Pain,89351.81,41632.44,Referral
+2514,1514,2024-07-13,2024-07-14,Neurology,Dr. Suresh Iyer,234,Migraine,23389.48,15792.05,Referral
+2515,1515,2024-12-12,2024-12-14,Neurology,Dr. Suresh Iyer,279,Parkinson's Disease,10522.51,6672.64,Elective
+2516,1516,2023-06-24,2023-06-28,General Medicine,Dr. Anjali Singh,116,Diabetes,85093.09,37611.72,Referral
+2517,1517,2024-04-21,2024-04-30,General Medicine,Dr. Deepak Patel,268,Malaria,19296.16,14907.99,Emergency
+2518,1518,2024-11-09,2024-11-28,Cardiology,Dr. Sunita Rao,319,Heart Failure,47842.85,36189.98,Elective
+2519,1519,2023-10-27,2023-11-07,Pediatrics,Dr. Meera Gupta,323,Fever,87048.33,64563.85,Elective
+2520,1520,2024-06-04,2024-06-22,Emergency,Dr. Pooja Joshi,282,Poisoning,29952.47,10477.43,Elective
+2521,1521,2023-07-10,2023-07-13,Emergency,Dr. Rohit Kumar,151,Trauma,26959.6,14836.55,Elective
+2522,1522,2023-09-11,2023-09-15,Neurology,Dr. Suresh Iyer,337,Stroke,94088.0,53132.22,Elective
+2523,1523,2023-06-10,2023-06-24,Pediatrics,Dr. Arjun Shah,105,Malnutrition,114494.37,54200.48,Elective
+2524,1524,2023-08-30,2023-09-03,General Medicine,Dr. Anjali Singh,229,Malaria,34111.79,14938.89,Emergency
+2525,1525,2023-01-31,2023-02-02,Orthopedics,Dr. Priya Nair,342,Back Pain,96363.5,55647.0,Elective
+2526,1526,2023-12-16,2024-01-03,Oncology,Dr. Vijay Reddy,330,Lung Cancer,49510.98,24578.4,Emergency
+2527,1527,2024-06-17,2024-06-18,Orthopedics,Dr. Priya Nair,346,Fracture,51849.46,33131.67,Referral
+2528,1528,2023-09-04,2023-09-17,Gynecology,Dr. Neha Sharma,247,PCOS,62149.73,23391.58,Elective
+2529,1529,2024-07-09,2024-07-28,General Medicine,Dr. Anjali Singh,134,Malaria,79861.08,32214.25,Emergency
+2530,1530,2023-11-13,2023-11-18,General Medicine,Dr. Deepak Patel,277,Typhoid,6521.58,4255.78,Referral
+2531,1531,2023-05-29,2023-06-08,Emergency,Dr. Pooja Joshi,268,Poisoning,122402.88,93823.64,Emergency
+2532,1532,2024-07-24,2024-07-31,Gynecology,Dr. Divya Mehta,237,Uterine Fibroids,147465.58,114182.71,Emergency
+2533,1533,2023-05-30,2023-05-31,Cardiology,Dr. Sunita Rao,287,Hypertension,87199.46,27445.3,Elective
+2534,1534,2023-11-07,2023-11-09,Neurology,Dr. Kavya Pillai,214,Parkinson's Disease,98373.7,66186.3,Referral
+2535,1535,2023-07-12,2023-07-30,Neurology,Dr. Suresh Iyer,128,Epilepsy,91921.87,33622.53,Emergency
+2536,1536,2024-09-02,2024-09-14,Emergency,Dr. Rohit Kumar,160,Burns,114058.66,47386.38,Emergency
+2537,1537,2024-12-05,2024-12-17,Emergency,Dr. Rohit Kumar,300,Burns,12012.59,6466.39,Referral
+2538,1538,2023-07-08,2023-07-12,Oncology,Dr. Lakshmi Desai,319,Colon Cancer,33914.68,16744.7,Elective
+2539,1539,2023-07-17,2023-07-19,Orthopedics,Dr. Amit Verma,158,Arthritis,120968.59,38239.96,Emergency
+2540,1540,2023-08-16,2023-08-28,Pediatrics,Dr. Arjun Shah,291,Asthma,140629.83,89394.1,Emergency
+2541,1541,2023-07-01,2023-07-17,Pediatrics,Dr. Meera Gupta,338,Pneumonia,130612.4,101531.49,Elective
+2542,1542,2024-04-13,2024-05-02,Cardiology,Dr. Sunita Rao,328,Heart Failure,95719.36,40526.8,Elective
+2543,1543,2023-11-17,2023-11-30,Pediatrics,Dr. Arjun Shah,201,Fever,123843.39,75018.44,Referral
+2544,1544,2024-04-07,2024-04-12,Oncology,Dr. Vijay Reddy,217,Breast Cancer,115735.38,82577.78,Emergency
+2545,1545,2023-02-10,2023-02-20,Pediatrics,Dr. Arjun Shah,243,Pneumonia,83734.73,41339.75,Referral
+2546,1546,2023-10-26,2023-11-02,Neurology,Dr. Suresh Iyer,213,Stroke,69065.89,34465.26,Elective
+2547,1547,2023-06-20,2023-07-09,Cardiology,Dr. Sunita Rao,209,Arrhythmia,112632.56,50370.39,Emergency
+2548,1548,2024-10-23,2024-10-26,Orthopedics,Dr. Priya Nair,216,Arthritis,12416.78,4286.53,Referral
+2549,1549,2024-08-22,2024-09-04,Neurology,Dr. Suresh Iyer,341,Stroke,143100.22,106919.33,Referral
+2550,1550,2024-02-28,2024-03-07,Emergency,Dr. Pooja Joshi,183,Poisoning,126676.26,66561.14,Emergency
+2551,1551,2024-04-10,2024-04-14,Cardiology,Dr. Rajesh Khanna,124,Heart Failure,6063.45,2577.22,Referral
+2552,1552,2023-04-04,2023-04-12,Cardiology,Dr. Rajesh Khanna,130,Hypertension,88210.55,57611.49,Referral
+2553,1553,2024-06-20,2024-07-06,Pediatrics,Dr. Meera Gupta,282,Asthma,34267.07,16860.9,Referral
+2554,1554,2024-07-17,2024-07-24,Orthopedics,Dr. Priya Nair,198,Arthritis,19211.11,6185.08,Emergency
+2555,1555,2023-06-16,2023-06-25,Cardiology,Dr. Rajesh Khanna,323,Arrhythmia,135900.75,50596.35,Referral
+2556,1556,2023-11-12,2023-11-24,Pediatrics,Dr. Arjun Shah,180,Fever,11609.85,7721.49,Elective
+2557,1557,2023-05-01,2023-05-15,Emergency,Dr. Rohit Kumar,331,Burns,70870.37,25923.35,Emergency
+2558,1558,2023-01-13,2023-01-31,Pediatrics,Dr. Arjun Shah,218,Fever,29633.63,16263.35,Elective
+2559,1559,2023-09-01,2023-09-15,Cardiology,Dr. Sunita Rao,156,Heart Attack,80191.44,47668.29,Elective
+2560,1560,2024-03-28,2024-04-08,Orthopedics,Dr. Priya Nair,121,Joint Replacement,105155.32,63157.16,Emergency
+2561,1561,2024-09-26,2024-10-14,General Medicine,Dr. Anjali Singh,261,Typhoid,139567.5,80778.09,Emergency
+2562,1562,2023-06-01,2023-06-19,Cardiology,Dr. Rajesh Khanna,115,Heart Attack,102496.52,64228.26,Emergency
+2563,1563,2024-11-14,2024-12-03,Cardiology,Dr. Rajesh Khanna,248,Hypertension,53016.24,38119.06,Elective
+2564,1564,2023-02-20,2023-03-01,General Medicine,Dr. Deepak Patel,128,Malaria,65239.24,33172.75,Emergency
+2565,1565,2024-09-17,2024-09-18,Cardiology,Dr. Sunita Rao,270,Hypertension,8221.68,5309.21,Referral
+2566,1566,2024-08-15,2024-08-31,Gynecology,Dr. Neha Sharma,193,PCOS,143724.46,110055.56,Emergency
+2567,1567,2024-01-13,2024-01-29,General Medicine,Dr. Anjali Singh,330,Malaria,144658.06,70805.73,Emergency
+2568,1568,2023-10-27,2023-11-09,Cardiology,Dr. Rajesh Khanna,221,Heart Failure,39353.98,14453.65,Referral
+2569,1569,2024-06-23,2024-07-11,Cardiology,Dr. Sunita Rao,206,Arrhythmia,120639.54,67838.4,Referral
+2570,1570,2023-04-22,2023-05-05,General Medicine,Dr. Deepak Patel,247,Typhoid,73888.03,49125.51,Referral
+2571,1571,2024-12-06,2024-12-21,Emergency,Dr. Pooja Joshi,255,Accident Injury,68372.47,52437.98,Referral
+2572,1572,2024-09-15,2024-09-26,General Medicine,Dr. Anjali Singh,318,Malaria,127344.48,58354.88,Referral
+2573,1573,2024-09-21,2024-10-05,Orthopedics,Dr. Amit Verma,245,Back Pain,144434.29,79178.66,Referral
+2574,1574,2023-07-04,2023-07-13,General Medicine,Dr. Anjali Singh,327,Viral Fever,96454.03,58326.03,Referral
+2575,1575,2023-01-02,2023-01-21,General Medicine,Dr. Deepak Patel,131,Malaria,53457.94,16678.52,Referral
+2576,1576,2024-09-22,2024-09-23,General Medicine,Dr. Deepak Patel,207,Diabetes,125728.71,63747.04,Elective
+2577,1577,2023-01-12,2023-01-29,Oncology,Dr. Vijay Reddy,264,Blood Cancer,143793.56,57602.78,Elective
+2578,1578,2023-11-12,2023-11-15,Emergency,Dr. Rohit Kumar,177,Burns,71648.47,39646.31,Elective
+2579,1579,2024-12-03,2024-12-19,General Medicine,Dr. Deepak Patel,186,Diabetes,96756.38,45541.37,Referral
+2580,1580,2023-07-18,2023-07-31,General Medicine,Dr. Deepak Patel,185,Diabetes,24286.42,17411.24,Referral
+2581,1581,2023-02-06,2023-02-14,Cardiology,Dr. Sunita Rao,266,Heart Failure,23497.68,8644.25,Emergency
+2582,1582,2024-04-18,2024-04-24,Neurology,Dr. Kavya Pillai,301,Parkinson's Disease,56538.7,39977.57,Referral
+2583,1583,2024-08-01,2024-08-12,General Medicine,Dr. Anjali Singh,286,Diabetes,106605.2,68131.26,Referral
+2584,1584,2024-08-14,2024-08-27,General Medicine,Dr. Deepak Patel,276,Diabetes,91098.19,42438.97,Elective
+2585,1585,2023-10-15,2023-10-16,Pediatrics,Dr. Meera Gupta,316,Fever,100105.98,31592.1,Elective
+2586,1586,2023-07-11,2023-07-24,Orthopedics,Dr. Priya Nair,253,Arthritis,37567.35,13464.98,Elective
+2587,1587,2023-10-06,2023-10-21,Cardiology,Dr. Rajesh Khanna,206,Arrhythmia,8653.87,2971.73,Emergency
+2588,1588,2023-11-06,2023-11-24,Neurology,Dr. Kavya Pillai,156,Epilepsy,11280.71,6345.97,Emergency
+2589,1589,2023-02-08,2023-02-17,General Medicine,Dr. Anjali Singh,300,Diabetes,112986.83,45313.28,Emergency
+2590,1590,2024-05-09,2024-05-17,Neurology,Dr. Suresh Iyer,332,Parkinson's Disease,93465.65,51408.65,Emergency
+2591,1591,2024-06-20,2024-06-25,Pediatrics,Dr. Arjun Shah,180,Asthma,137234.14,94385.06,Emergency
+2592,1592,2023-07-30,2023-08-08,Cardiology,Dr. Rajesh Khanna,286,Heart Attack,31498.92,10025.36,Elective
+2593,1593,2023-11-15,2023-11-24,Orthopedics,Dr. Amit Verma,339,Fracture,76954.69,24780.56,Referral
+2594,1594,2024-04-23,2024-04-29,Orthopedics,Dr. Priya Nair,328,Fracture,18239.78,5892.72,Referral
+2595,1595,2024-08-14,2024-08-16,Orthopedics,Dr. Amit Verma,295,Back Pain,141513.76,64540.39,Emergency
+2596,1596,2023-07-17,2023-07-20,Cardiology,Dr. Rajesh Khanna,174,Arrhythmia,13830.78,6062.37,Elective
+2597,1597,2023-10-07,2023-10-24,Cardiology,Dr. Rajesh Khanna,139,Heart Failure,57438.83,21754.84,Emergency
+2598,1598,2023-07-31,2023-08-03,Cardiology,Dr. Rajesh Khanna,239,Heart Attack,135003.33,64148.06,Elective
+2599,1599,2024-12-22,2025-01-04,Orthopedics,Dr. Amit Verma,306,Back Pain,76705.56,33875.77,Emergency
+2600,1600,2023-11-15,2023-11-17,Cardiology,Dr. Rajesh Khanna,257,Hypertension,134145.48,100088.83,Referral
+2601,1601,2023-05-14,2023-06-02,General Medicine,Dr. Deepak Patel,108,Viral Fever,122217.26,65431.18,Referral
+2602,1602,2024-01-28,2024-02-16,General Medicine,Dr. Deepak Patel,114,Diabetes,42082.84,14436.93,Elective
+2603,1603,2024-09-23,2024-09-24,Orthopedics,Dr. Priya Nair,192,Arthritis,43975.65,20062.59,Emergency
+2604,1604,2024-08-04,2024-08-22,Orthopedics,Dr. Priya Nair,134,Fracture,49430.24,17125.51,Referral
+2605,1605,2024-04-11,2024-04-17,Pediatrics,Dr. Meera Gupta,180,Malnutrition,90499.76,58122.47,Referral
+2606,1606,2023-08-26,2023-09-04,Cardiology,Dr. Sunita Rao,343,Heart Failure,16828.36,6931.55,Referral
+2607,1607,2024-02-06,2024-02-16,Cardiology,Dr. Sunita Rao,147,Arrhythmia,117037.29,76051.69,Referral
+2608,1608,2024-04-09,2024-04-27,General Medicine,Dr. Anjali Singh,225,Malaria,46076.24,14520.1,Elective
+2609,1609,2024-05-05,2024-05-14,Neurology,Dr. Kavya Pillai,219,Stroke,92701.72,67012.51,Elective
+2610,1610,2024-06-04,2024-06-12,Neurology,Dr. Suresh Iyer,127,Epilepsy,101987.1,51283.5,Referral
+2611,1611,2024-07-23,2024-07-27,Oncology,Dr. Lakshmi Desai,267,Breast Cancer,43569.67,14615.97,Elective
+2612,1612,2024-08-27,2024-09-01,Neurology,Dr. Kavya Pillai,206,Parkinson's Disease,71485.19,29972.86,Emergency
+2613,1613,2024-01-29,2024-02-16,Pediatrics,Dr. Arjun Shah,117,Pneumonia,133457.53,62772.69,Referral
+2614,1614,2024-08-03,2024-08-07,Oncology,Dr. Lakshmi Desai,302,Colon Cancer,149557.67,70456.68,Referral
+2615,1615,2024-11-09,2024-11-18,General Medicine,Dr. Deepak Patel,272,Typhoid,132564.1,44932.23,Referral
+2616,1616,2024-08-29,2024-09-12,Cardiology,Dr. Rajesh Khanna,253,Heart Failure,13281.99,7058.77,Referral
+2617,1617,2023-06-30,2023-07-11,Cardiology,Dr. Sunita Rao,179,Heart Attack,36994.4,28779.49,Emergency
+2618,1618,2023-12-02,2023-12-15,Cardiology,Dr. Sunita Rao,227,Heart Attack,35371.09,22018.31,Emergency
+2619,1619,2023-05-23,2023-05-28,Neurology,Dr. Suresh Iyer,328,Stroke,39664.63,23417.36,Referral
+2620,1620,2024-11-07,2024-11-14,General Medicine,Dr. Deepak Patel,139,Diabetes,50326.71,26496.37,Elective
+2621,1621,2023-07-20,2023-07-27,Neurology,Dr. Kavya Pillai,153,Parkinson's Disease,146601.35,93936.05,Elective
+2622,1622,2024-03-21,2024-04-04,General Medicine,Dr. Anjali Singh,284,Malaria,59222.33,46862.05,Elective
+2623,1623,2024-09-18,2024-10-06,Emergency,Dr. Rohit Kumar,231,Accident Injury,52640.93,26430.94,Emergency
+2624,1624,2024-01-14,2024-01-27,Cardiology,Dr. Rajesh Khanna,331,Arrhythmia,102397.78,58821.64,Emergency
+2625,1625,2023-04-23,2023-04-30,General Medicine,Dr. Anjali Singh,321,Diabetes,96642.79,42629.58,Emergency
+2626,1626,2024-12-20,2024-12-23,General Medicine,Dr. Anjali Singh,252,Typhoid,50267.51,24989.7,Elective
+2627,1627,2024-01-26,2024-01-31,Neurology,Dr. Kavya Pillai,212,Parkinson's Disease,38672.58,22142.35,Referral
+2628,1628,2023-05-23,2023-06-11,Neurology,Dr. Kavya Pillai,149,Migraine,80894.04,46733.36,Elective
+2629,1629,2023-10-23,2023-11-01,Emergency,Dr. Rohit Kumar,324,Trauma,58683.67,37266.07,Emergency
+2630,1630,2024-10-25,2024-10-28,General Medicine,Dr. Deepak Patel,105,Diabetes,127688.01,47499.68,Elective
+2631,1631,2023-03-28,2023-04-03,Orthopedics,Dr. Amit Verma,136,Joint Replacement,98027.44,60886.95,Elective
+2632,1632,2024-09-30,2024-10-17,Cardiology,Dr. Sunita Rao,147,Heart Failure,14052.54,7408.46,Elective
+2633,1633,2023-12-30,2024-01-07,Pediatrics,Dr. Arjun Shah,158,Malnutrition,122796.66,48246.26,Referral
+2634,1634,2023-08-31,2023-09-16,Cardiology,Dr. Sunita Rao,283,Heart Attack,122279.82,67359.6,Elective
+2635,1635,2023-02-08,2023-02-21,Emergency,Dr. Rohit Kumar,246,Burns,129511.23,70147.69,Elective
+2636,1636,2024-12-08,2024-12-10,Oncology,Dr. Lakshmi Desai,121,Breast Cancer,44686.28,16580.56,Referral
+2637,1637,2024-06-13,2024-07-01,Emergency,Dr. Pooja Joshi,121,Burns,142028.49,79774.33,Referral
+2638,1638,2024-04-28,2024-05-15,General Medicine,Dr. Deepak Patel,262,Diabetes,102056.76,68464.07,Referral
+2639,1639,2024-09-19,2024-10-08,Orthopedics,Dr. Priya Nair,114,Fracture,49376.84,37121.14,Referral
+2640,1640,2024-04-09,2024-04-20,Cardiology,Dr. Sunita Rao,232,Heart Attack,129905.62,97822.51,Referral
+2641,1641,2023-12-28,2024-01-13,Cardiology,Dr. Sunita Rao,346,Arrhythmia,52679.28,41557.64,Elective
+2642,1642,2023-02-06,2023-02-14,General Medicine,Dr. Deepak Patel,278,Malaria,131331.49,100000.03,Referral
+2643,1643,2023-03-04,2023-03-11,Orthopedics,Dr. Priya Nair,262,Back Pain,24094.6,12928.69,Emergency
+2644,1644,2024-10-01,2024-10-09,General Medicine,Dr. Anjali Singh,107,Diabetes,103269.87,45790.67,Emergency
+2645,1645,2023-10-12,2023-10-15,Orthopedics,Dr. Amit Verma,165,Arthritis,29484.48,10799.26,Elective
+2646,1646,2023-01-15,2023-01-16,Cardiology,Dr. Sunita Rao,290,Arrhythmia,73943.98,26307.4,Emergency
+2647,1647,2024-01-14,2024-01-26,Oncology,Dr. Lakshmi Desai,307,Lung Cancer,33207.58,12874.57,Referral
+2648,1648,2023-07-05,2023-07-15,Oncology,Dr. Lakshmi Desai,305,Lung Cancer,84591.9,47683.98,Emergency
+2649,1649,2023-05-29,2023-06-02,Orthopedics,Dr. Amit Verma,253,Back Pain,88785.06,68095.56,Emergency
+2650,1650,2024-01-28,2024-02-14,Orthopedics,Dr. Priya Nair,161,Joint Replacement,71830.26,45277.03,Referral
+2651,1651,2024-08-14,2024-08-17,Oncology,Dr. Vijay Reddy,288,Lung Cancer,107861.38,77759.05,Emergency
+2652,1652,2023-02-23,2023-03-09,Cardiology,Dr. Rajesh Khanna,143,Arrhythmia,102296.88,54422.7,Elective
+2653,1653,2024-06-29,2024-07-16,General Medicine,Dr. Anjali Singh,160,Malaria,49115.07,24061.49,Referral
+2654,1654,2023-09-26,2023-10-14,Cardiology,Dr. Sunita Rao,138,Heart Failure,64127.81,36246.39,Elective
+2655,1655,2024-04-04,2024-04-19,Emergency,Dr. Pooja Joshi,198,Accident Injury,15282.81,9769.49,Referral
+2656,1656,2024-06-28,2024-07-16,Neurology,Dr. Suresh Iyer,264,Stroke,96549.52,46045.82,Elective
+2657,1657,2023-10-04,2023-10-07,Orthopedics,Dr. Priya Nair,169,Back Pain,96296.11,67518.81,Elective
+2658,1658,2024-11-22,2024-11-24,Emergency,Dr. Pooja Joshi,292,Trauma,117448.27,49433.8,Referral
+2659,1659,2024-11-24,2024-12-11,Neurology,Dr. Kavya Pillai,277,Migraine,37120.0,29570.07,Elective
+2660,1660,2023-03-11,2023-03-26,Cardiology,Dr. Rajesh Khanna,104,Heart Attack,56792.89,28715.87,Referral
+2661,1661,2023-12-26,2023-12-28,Neurology,Dr. Kavya Pillai,157,Stroke,29281.66,19402.77,Elective
+2662,1662,2023-01-25,2023-01-31,Pediatrics,Dr. Meera Gupta,259,Pneumonia,14153.84,4896.81,Referral
+2663,1663,2024-12-26,2024-12-28,Neurology,Dr. Suresh Iyer,346,Migraine,15637.79,5629.43,Referral
+2664,1664,2024-11-03,2024-11-06,General Medicine,Dr. Anjali Singh,296,Typhoid,134783.21,101080.48,Referral
+2665,1665,2024-12-13,2024-12-30,Oncology,Dr. Vijay Reddy,148,Lung Cancer,24917.45,10631.48,Elective
+2666,1666,2023-10-11,2023-10-13,Orthopedics,Dr. Priya Nair,297,Fracture,139969.49,71873.17,Referral
+2667,1667,2023-06-15,2023-06-21,General Medicine,Dr. Anjali Singh,300,Malaria,50177.9,16909.88,Emergency
+2668,1668,2023-12-07,2023-12-12,Oncology,Dr. Lakshmi Desai,116,Colon Cancer,138500.25,59433.13,Elective
+2669,1669,2023-03-13,2023-03-22,Neurology,Dr. Kavya Pillai,226,Migraine,87760.41,69305.36,Emergency
+2670,1670,2024-10-22,2024-11-01,Pediatrics,Dr. Meera Gupta,226,Malnutrition,36847.06,13051.79,Referral
+2671,1671,2024-09-20,2024-09-24,Cardiology,Dr. Rajesh Khanna,265,Heart Failure,79382.01,28031.76,Elective
+2672,1672,2023-02-05,2023-02-07,Orthopedics,Dr. Amit Verma,119,Back Pain,29333.12,9832.64,Referral
+2673,1673,2023-01-20,2023-02-03,Cardiology,Dr. Sunita Rao,330,Arrhythmia,132047.91,72474.59,Referral
+2674,1674,2024-11-11,2024-11-12,General Medicine,Dr. Deepak Patel,200,Diabetes,107306.59,46487.17,Referral
+2675,1675,2024-08-11,2024-08-29,Orthopedics,Dr. Priya Nair,101,Back Pain,15585.52,8691.91,Elective
+2676,1676,2024-02-18,2024-02-19,General Medicine,Dr. Anjali Singh,317,Viral Fever,109214.13,72505.48,Emergency
+2677,1677,2024-01-29,2024-02-02,Cardiology,Dr. Rajesh Khanna,345,Hypertension,138086.93,89015.07,Elective
+2678,1678,2023-12-08,2023-12-10,Cardiology,Dr. Sunita Rao,275,Heart Attack,12805.43,5780.55,Emergency
+2679,1679,2024-07-01,2024-07-18,Orthopedics,Dr. Priya Nair,319,Fracture,61812.58,48242.42,Emergency
+2680,1680,2024-10-25,2024-11-07,Oncology,Dr. Lakshmi Desai,152,Colon Cancer,112168.26,43555.96,Emergency
+2681,1681,2023-11-03,2023-11-13,General Medicine,Dr. Deepak Patel,279,Viral Fever,132230.56,65461.05,Emergency
+2682,1682,2023-03-28,2023-04-16,General Medicine,Dr. Anjali Singh,327,Malaria,9599.76,5917.25,Referral
+2683,1683,2023-02-06,2023-02-10,Pediatrics,Dr. Meera Gupta,150,Pneumonia,148381.88,46396.39,Referral
+2684,1684,2024-02-03,2024-02-13,Pediatrics,Dr. Arjun Shah,117,Pneumonia,86552.26,60272.36,Referral
+2685,1685,2024-06-30,2024-07-01,Orthopedics,Dr. Priya Nair,348,Back Pain,133542.87,95766.95,Elective
+2686,1686,2023-12-14,2024-01-01,Neurology,Dr. Suresh Iyer,115,Stroke,19118.2,8963.75,Referral
+2687,1687,2023-05-02,2023-05-16,General Medicine,Dr. Anjali Singh,155,Diabetes,129520.41,91124.32,Referral
+2688,1688,2024-08-16,2024-08-26,Orthopedics,Dr. Amit Verma,160,Joint Replacement,39039.39,29763.94,Emergency
+2689,1689,2024-10-31,2024-11-06,Oncology,Dr. Lakshmi Desai,105,Lung Cancer,148823.93,79711.56,Referral
+2690,1690,2024-12-19,2025-01-05,Gynecology,Dr. Divya Mehta,267,Pregnancy,38867.27,14197.0,Emergency
+2691,1691,2023-04-10,2023-04-29,Cardiology,Dr. Sunita Rao,217,Heart Attack,67082.5,40626.03,Referral
+2692,1692,2023-04-27,2023-04-30,Cardiology,Dr. Rajesh Khanna,228,Heart Attack,57674.56,34459.9,Referral
+2693,1693,2023-07-27,2023-08-07,Neurology,Dr. Suresh Iyer,210,Migraine,136268.35,63865.1,Referral
+2694,1694,2023-05-04,2023-05-13,Pediatrics,Dr. Arjun Shah,350,Malnutrition,82870.99,53206.84,Referral
+2695,1695,2023-08-07,2023-08-23,Oncology,Dr. Lakshmi Desai,296,Lung Cancer,107790.37,34794.01,Emergency
+2696,1696,2023-05-04,2023-05-10,Gynecology,Dr. Divya Mehta,171,Uterine Fibroids,51458.19,19071.35,Elective
+2697,1697,2024-07-20,2024-08-03,Cardiology,Dr. Sunita Rao,143,Hypertension,137792.1,71559.65,Referral
+2698,1698,2023-04-13,2023-05-02,General Medicine,Dr. Deepak Patel,303,Diabetes,52310.91,37856.53,Referral
+2699,1699,2023-01-17,2023-02-04,Cardiology,Dr. Rajesh Khanna,326,Heart Failure,32568.67,17700.54,Emergency
+2700,1700,2023-04-02,2023-04-08,Oncology,Dr. Vijay Reddy,281,Breast Cancer,16289.2,10195.05,Elective
+2701,1701,2024-12-09,2024-12-25,Gynecology,Dr. Neha Sharma,133,Menstrual Disorder,29477.45,11881.77,Referral
+2702,1702,2024-02-26,2024-03-05,Oncology,Dr. Lakshmi Desai,162,Blood Cancer,35781.42,27517.52,Referral
+2703,1703,2024-05-26,2024-05-30,Cardiology,Dr. Rajesh Khanna,257,Heart Attack,140545.35,108943.59,Referral
+2704,1704,2024-03-04,2024-03-11,Emergency,Dr. Pooja Joshi,102,Burns,33886.85,19615.58,Emergency
+2705,1705,2024-09-25,2024-10-10,Orthopedics,Dr. Amit Verma,193,Fracture,132370.3,96811.07,Referral
+2706,1706,2024-10-03,2024-10-17,Gynecology,Dr. Neha Sharma,269,PCOS,83960.52,33924.61,Emergency
+2707,1707,2023-06-02,2023-06-21,Cardiology,Dr. Rajesh Khanna,276,Hypertension,106635.63,76979.29,Elective
+2708,1708,2023-06-13,2023-06-30,Orthopedics,Dr. Amit Verma,272,Joint Replacement,77985.04,59372.86,Emergency
+2709,1709,2023-08-03,2023-08-12,Oncology,Dr. Lakshmi Desai,212,Blood Cancer,98602.48,41974.18,Referral
+2710,1710,2023-04-17,2023-04-23,Cardiology,Dr. Rajesh Khanna,290,Heart Failure,120003.64,39148.58,Referral
+2711,1711,2023-01-30,2023-01-31,Orthopedics,Dr. Amit Verma,225,Arthritis,10772.66,6005.24,Emergency
+2712,1712,2024-08-29,2024-09-05,Orthopedics,Dr. Priya Nair,249,Arthritis,42833.19,19831.17,Emergency
+2713,1713,2023-04-23,2023-04-24,Gynecology,Dr. Divya Mehta,184,Uterine Fibroids,11249.52,4656.08,Emergency
+2714,1714,2024-01-20,2024-01-25,Cardiology,Dr. Rajesh Khanna,329,Heart Failure,25473.86,10452.72,Elective
+2715,1715,2024-03-22,2024-03-23,General Medicine,Dr. Deepak Patel,138,Viral Fever,78680.55,32108.16,Referral
+2716,1716,2024-02-01,2024-02-17,General Medicine,Dr. Deepak Patel,196,Viral Fever,117409.01,43230.27,Referral
+2717,1717,2023-10-04,2023-10-19,Neurology,Dr. Kavya Pillai,152,Migraine,96142.13,44989.29,Emergency
+2718,1718,2023-05-20,2023-05-21,General Medicine,Dr. Anjali Singh,129,Diabetes,141019.3,102355.43,Elective
+2719,1719,2023-12-18,2023-12-21,Emergency,Dr. Rohit Kumar,157,Trauma,124761.43,92723.25,Referral
+2720,1720,2024-08-14,2024-08-25,General Medicine,Dr. Deepak Patel,349,Typhoid,15010.36,8651.64,Emergency
+2721,1721,2024-06-18,2024-07-02,Neurology,Dr. Kavya Pillai,226,Stroke,102353.88,74830.87,Emergency
+2722,1722,2023-10-13,2023-10-23,Emergency,Dr. Pooja Joshi,104,Trauma,26533.48,17645.0,Referral
+2723,1723,2023-12-02,2023-12-06,General Medicine,Dr. Deepak Patel,212,Typhoid,85030.77,50145.49,Referral
+2724,1724,2024-03-03,2024-03-04,Orthopedics,Dr. Amit Verma,112,Arthritis,33519.79,10727.32,Elective
+2725,1725,2024-06-27,2024-07-07,Orthopedics,Dr. Priya Nair,201,Fracture,86837.33,46860.43,Referral
+2726,1726,2024-05-22,2024-06-07,Emergency,Dr. Pooja Joshi,162,Accident Injury,105931.58,36180.48,Emergency
+2727,1727,2023-05-16,2023-06-02,Neurology,Dr. Suresh Iyer,192,Parkinson's Disease,33008.2,14784.21,Referral
+2728,1728,2024-05-06,2024-05-08,Pediatrics,Dr. Meera Gupta,272,Fever,59842.55,27073.86,Referral
+2729,1729,2024-04-10,2024-04-23,Pediatrics,Dr. Meera Gupta,219,Malnutrition,54724.8,37536.7,Referral
+2730,1730,2024-01-15,2024-01-16,General Medicine,Dr. Deepak Patel,261,Viral Fever,128779.91,68529.96,Referral
+2731,1731,2024-01-30,2024-02-15,General Medicine,Dr. Deepak Patel,329,Diabetes,39916.55,25761.16,Referral
+2732,1732,2024-03-12,2024-03-25,Neurology,Dr. Kavya Pillai,293,Stroke,84096.1,36572.95,Referral
+2733,1733,2024-09-27,2024-09-28,Orthopedics,Dr. Amit Verma,326,Arthritis,18015.13,8428.33,Emergency
+2734,1734,2023-04-24,2023-04-26,Emergency,Dr. Rohit Kumar,199,Burns,62604.36,30225.1,Referral
+2735,1735,2024-01-11,2024-01-20,Orthopedics,Dr. Priya Nair,145,Fracture,54711.65,34144.79,Referral
+2736,1736,2023-05-22,2023-06-09,Cardiology,Dr. Rajesh Khanna,186,Heart Attack,145045.69,60820.03,Emergency
+2737,1737,2023-08-19,2023-08-30,Orthopedics,Dr. Amit Verma,183,Joint Replacement,39831.82,18974.12,Elective
+2738,1738,2023-02-25,2023-03-07,Neurology,Dr. Kavya Pillai,117,Parkinson's Disease,82511.09,40133.96,Elective
+2739,1739,2024-04-26,2024-05-12,Orthopedics,Dr. Amit Verma,282,Joint Replacement,48712.14,27568.74,Referral
+2740,1740,2024-09-27,2024-10-14,General Medicine,Dr. Anjali Singh,195,Malaria,58951.93,41263.52,Referral
+2741,1741,2024-04-13,2024-04-17,General Medicine,Dr. Deepak Patel,123,Diabetes,143049.05,48648.87,Emergency
+2742,1742,2023-04-22,2023-05-07,General Medicine,Dr. Deepak Patel,143,Malaria,132729.8,58131.85,Referral
+2743,1743,2023-06-04,2023-06-19,Cardiology,Dr. Sunita Rao,324,Hypertension,77383.85,31118.22,Referral
+2744,1744,2024-03-02,2024-03-21,Orthopedics,Dr. Priya Nair,349,Fracture,17630.85,11304.93,Emergency
+2745,1745,2024-03-06,2024-03-20,Pediatrics,Dr. Arjun Shah,214,Malnutrition,144424.86,96599.24,Emergency
+2746,1746,2023-03-06,2023-03-09,Neurology,Dr. Suresh Iyer,106,Epilepsy,55989.23,41202.3,Emergency
+2747,1747,2024-08-15,2024-09-01,Emergency,Dr. Pooja Joshi,188,Burns,48388.64,30382.27,Elective
+2748,1748,2024-04-13,2024-04-16,Neurology,Dr. Kavya Pillai,178,Parkinson's Disease,67885.68,39619.84,Elective
+2749,1749,2023-08-21,2023-08-24,Oncology,Dr. Lakshmi Desai,224,Lung Cancer,147936.4,71889.86,Elective
+2750,1750,2023-12-28,2024-01-04,Oncology,Dr. Vijay Reddy,173,Breast Cancer,54186.94,28608.71,Emergency
+2751,1751,2023-07-06,2023-07-07,Pediatrics,Dr. Arjun Shah,350,Pneumonia,12433.2,4820.1,Referral
+2752,1752,2023-09-01,2023-09-17,Neurology,Dr. Suresh Iyer,130,Migraine,61182.64,19613.67,Elective
+2753,1753,2023-09-24,2023-10-01,General Medicine,Dr. Anjali Singh,195,Typhoid,56762.45,22264.97,Referral
+2754,1754,2023-12-19,2024-01-04,General Medicine,Dr. Anjali Singh,138,Diabetes,100947.06,49106.45,Referral
+2755,1755,2023-05-05,2023-05-19,Orthopedics,Dr. Priya Nair,336,Arthritis,47327.12,14787.96,Elective
+2756,1756,2023-11-24,2023-12-07,General Medicine,Dr. Anjali Singh,140,Typhoid,60169.87,18180.15,Referral
+2757,1757,2024-04-30,2024-05-04,Cardiology,Dr. Sunita Rao,330,Arrhythmia,108693.13,48359.05,Referral
+2758,1758,2023-12-13,2023-12-27,Gynecology,Dr. Neha Sharma,277,PCOS,121812.32,43384.41,Elective
+2759,1759,2024-11-25,2024-12-07,Orthopedics,Dr. Amit Verma,242,Fracture,82667.0,29631.0,Emergency
+2760,1760,2024-04-01,2024-04-03,General Medicine,Dr. Deepak Patel,192,Viral Fever,101676.07,35204.38,Emergency
+2761,1761,2023-10-12,2023-10-28,Pediatrics,Dr. Meera Gupta,151,Pneumonia,5136.8,1598.95,Referral
+2762,1762,2024-06-08,2024-06-17,Cardiology,Dr. Rajesh Khanna,201,Heart Failure,56904.37,22603.84,Elective
+2763,1763,2024-02-12,2024-02-29,Neurology,Dr. Kavya Pillai,138,Stroke,126669.46,83346.21,Elective
+2764,1764,2024-01-17,2024-01-31,Pediatrics,Dr. Arjun Shah,104,Asthma,92036.45,40710.04,Elective
+2765,1765,2024-07-28,2024-07-30,General Medicine,Dr. Anjali Singh,123,Malaria,129054.91,52634.73,Elective
+2766,1766,2023-10-23,2023-11-11,Neurology,Dr. Kavya Pillai,142,Parkinson's Disease,54537.96,38331.26,Elective
+2767,1767,2024-08-24,2024-08-30,General Medicine,Dr. Deepak Patel,254,Viral Fever,77101.81,26448.93,Emergency
+2768,1768,2024-06-21,2024-07-09,Cardiology,Dr. Sunita Rao,186,Arrhythmia,52537.21,17497.93,Referral
+2769,1769,2023-01-07,2023-01-26,Oncology,Dr. Vijay Reddy,205,Colon Cancer,32801.75,20317.5,Elective
+2770,1770,2024-07-23,2024-08-11,Pediatrics,Dr. Meera Gupta,219,Malnutrition,54300.64,35573.63,Emergency
+2771,1771,2024-01-26,2024-02-06,Emergency,Dr. Rohit Kumar,175,Poisoning,17218.33,9933.83,Emergency
+2772,1772,2024-05-20,2024-05-25,Neurology,Dr. Kavya Pillai,244,Epilepsy,31363.56,21011.33,Emergency
+2773,1773,2023-06-07,2023-06-12,Neurology,Dr. Suresh Iyer,168,Stroke,107457.6,48365.02,Referral
+2774,1774,2024-10-31,2024-11-15,Pediatrics,Dr. Meera Gupta,271,Malnutrition,25379.33,18941.69,Elective
+2775,1775,2024-12-05,2024-12-13,Orthopedics,Dr. Priya Nair,266,Arthritis,51699.79,21836.71,Emergency
+2776,1776,2023-03-10,2023-03-18,Pediatrics,Dr. Arjun Shah,254,Asthma,139646.55,93951.8,Referral
+2777,1777,2023-09-22,2023-10-06,General Medicine,Dr. Anjali Singh,261,Viral Fever,43436.79,27927.96,Referral
+2778,1778,2024-06-08,2024-06-14,General Medicine,Dr. Anjali Singh,288,Diabetes,81500.26,47892.15,Elective
+2779,1779,2023-05-30,2023-06-08,Orthopedics,Dr. Amit Verma,182,Arthritis,124138.03,65857.95,Referral
+2780,1780,2023-06-17,2023-06-20,Cardiology,Dr. Sunita Rao,114,Hypertension,48902.39,21337.83,Elective
+2781,1781,2023-10-24,2023-11-05,Pediatrics,Dr. Meera Gupta,175,Asthma,13309.99,7517.56,Emergency
+2782,1782,2023-04-07,2023-04-09,Cardiology,Dr. Rajesh Khanna,254,Hypertension,60061.92,40620.73,Referral
+2783,1783,2024-12-02,2024-12-06,General Medicine,Dr. Anjali Singh,305,Malaria,89489.49,40318.25,Referral
+2784,1784,2024-07-01,2024-07-13,Cardiology,Dr. Rajesh Khanna,249,Arrhythmia,115520.75,54966.47,Emergency
+2785,1785,2024-06-14,2024-06-22,General Medicine,Dr. Deepak Patel,173,Diabetes,52615.9,25598.01,Elective
+2786,1786,2023-06-16,2023-06-28,Pediatrics,Dr. Arjun Shah,127,Malnutrition,76018.95,31087.05,Referral
+2787,1787,2024-07-26,2024-08-06,Pediatrics,Dr. Meera Gupta,258,Pneumonia,24773.7,15974.74,Referral
+2788,1788,2024-04-16,2024-05-02,General Medicine,Dr. Anjali Singh,335,Diabetes,31937.66,10801.32,Emergency
+2789,1789,2023-12-23,2024-01-04,Cardiology,Dr. Sunita Rao,180,Heart Attack,78469.44,50654.01,Emergency
+2790,1790,2023-06-26,2023-07-14,Oncology,Dr. Lakshmi Desai,282,Colon Cancer,45129.35,20413.91,Referral
+2791,1791,2023-05-12,2023-05-30,Pediatrics,Dr. Meera Gupta,320,Fever,15109.32,9777.58,Referral
+2792,1792,2023-05-09,2023-05-16,Emergency,Dr. Pooja Joshi,154,Poisoning,46742.55,17066.13,Emergency
+2793,1793,2023-03-21,2023-03-27,General Medicine,Dr. Deepak Patel,105,Viral Fever,10323.38,7095.74,Elective
+2794,1794,2023-04-21,2023-05-03,Pediatrics,Dr. Meera Gupta,109,Fever,128570.8,89553.11,Referral
+2795,1795,2023-05-02,2023-05-08,Cardiology,Dr. Sunita Rao,333,Heart Attack,85158.16,36320.49,Emergency
+2796,1796,2023-04-09,2023-04-28,General Medicine,Dr. Deepak Patel,301,Malaria,17383.44,6291.01,Referral
+2797,1797,2023-07-09,2023-07-15,Gynecology,Dr. Divya Mehta,272,PCOS,94057.01,44749.21,Emergency
+2798,1798,2024-08-16,2024-08-17,Orthopedics,Dr. Priya Nair,190,Arthritis,67226.68,32006.73,Referral
+2799,1799,2023-04-12,2023-04-24,Cardiology,Dr. Rajesh Khanna,310,Hypertension,39773.89,23429.48,Emergency
+2800,1800,2023-10-16,2023-10-30,Orthopedics,Dr. Amit Verma,144,Arthritis,125056.59,93896.26,Referral
+2801,1801,2023-08-08,2023-08-18,Neurology,Dr. Suresh Iyer,336,Stroke,88637.15,48936.36,Referral
+2802,1802,2024-12-15,2024-12-17,Cardiology,Dr. Sunita Rao,251,Heart Failure,63334.52,24862.78,Referral
+2803,1803,2023-12-30,2024-01-06,Neurology,Dr. Suresh Iyer,198,Stroke,68495.48,35072.83,Referral
+2804,1804,2023-04-26,2023-05-14,Oncology,Dr. Lakshmi Desai,295,Lung Cancer,19581.6,15514.63,Emergency
+2805,1805,2024-06-16,2024-06-19,Neurology,Dr. Suresh Iyer,135,Parkinson's Disease,129815.85,71127.14,Elective
+2806,1806,2023-03-26,2023-04-13,Neurology,Dr. Suresh Iyer,184,Epilepsy,53201.87,29093.78,Elective
+2807,1807,2024-09-06,2024-09-18,Orthopedics,Dr. Priya Nair,289,Back Pain,38546.86,17577.5,Elective
+2808,1808,2023-10-25,2023-11-11,Neurology,Dr. Kavya Pillai,319,Migraine,145109.77,74583.64,Emergency
+2809,1809,2023-07-03,2023-07-07,Gynecology,Dr. Neha Sharma,104,Menstrual Disorder,79911.0,63877.79,Elective
+2810,1810,2024-03-24,2024-03-28,Orthopedics,Dr. Priya Nair,234,Fracture,127986.32,80538.48,Emergency
+2811,1811,2024-02-09,2024-02-28,General Medicine,Dr. Deepak Patel,203,Diabetes,34212.27,22153.08,Emergency
+2812,1812,2024-01-08,2024-01-24,Orthopedics,Dr. Amit Verma,350,Arthritis,51115.74,20422.95,Emergency
+2813,1813,2023-08-27,2023-09-04,Emergency,Dr. Rohit Kumar,315,Trauma,29927.32,15333.33,Elective
+2814,1814,2024-10-21,2024-11-03,Pediatrics,Dr. Arjun Shah,342,Asthma,51021.38,25516.7,Elective
+2815,1815,2024-06-07,2024-06-15,Orthopedics,Dr. Priya Nair,172,Joint Replacement,86086.63,32169.46,Elective
+2816,1816,2023-09-14,2023-09-26,Pediatrics,Dr. Meera Gupta,226,Fever,136403.86,74836.19,Referral
+2817,1817,2023-04-12,2023-04-30,General Medicine,Dr. Deepak Patel,289,Typhoid,59662.99,19475.56,Emergency
+2818,1818,2023-07-03,2023-07-05,General Medicine,Dr. Deepak Patel,198,Viral Fever,6529.91,3932.91,Elective
+2819,1819,2024-09-28,2024-10-10,Neurology,Dr. Kavya Pillai,260,Migraine,23286.72,8107.66,Emergency
+2820,1820,2023-07-26,2023-08-04,General Medicine,Dr. Anjali Singh,176,Viral Fever,63930.4,40343.06,Elective
+2821,1821,2024-07-07,2024-07-12,Emergency,Dr. Pooja Joshi,240,Burns,32833.54,10140.15,Emergency
+2822,1822,2024-01-28,2024-02-06,General Medicine,Dr. Deepak Patel,216,Viral Fever,24036.76,10991.52,Elective
+2823,1823,2023-02-06,2023-02-16,Orthopedics,Dr. Priya Nair,109,Joint Replacement,74066.74,28770.08,Referral
+2824,1824,2024-05-18,2024-05-21,General Medicine,Dr. Deepak Patel,211,Malaria,48640.12,17862.8,Referral
+2825,1825,2023-04-23,2023-04-29,Orthopedics,Dr. Priya Nair,246,Joint Replacement,73752.9,47018.38,Referral
+2826,1826,2024-07-29,2024-08-03,Orthopedics,Dr. Priya Nair,319,Joint Replacement,149349.09,56477.18,Emergency
+2827,1827,2024-05-21,2024-06-03,Pediatrics,Dr. Arjun Shah,252,Malnutrition,26453.96,20777.88,Referral
+2828,1828,2023-11-25,2023-12-03,Gynecology,Dr. Neha Sharma,116,Uterine Fibroids,34870.82,10952.0,Emergency
+2829,1829,2023-12-24,2023-12-28,Gynecology,Dr. Neha Sharma,308,PCOS,126598.29,84951.07,Emergency
+2830,1830,2023-04-10,2023-04-20,Oncology,Dr. Lakshmi Desai,210,Blood Cancer,9992.54,4722.19,Elective
+2831,1831,2023-02-27,2023-03-04,Neurology,Dr. Kavya Pillai,270,Parkinson's Disease,48762.36,20583.3,Emergency
+2832,1832,2024-12-05,2024-12-14,Cardiology,Dr. Rajesh Khanna,117,Arrhythmia,83062.65,61007.02,Emergency
+2833,1833,2023-01-21,2023-01-24,Emergency,Dr. Rohit Kumar,238,Burns,24385.87,11292.08,Elective
+2834,1834,2023-10-01,2023-10-14,Emergency,Dr. Pooja Joshi,106,Trauma,69564.73,45076.5,Referral
+2835,1835,2024-01-22,2024-02-05,Pediatrics,Dr. Arjun Shah,247,Fever,19388.29,9600.12,Referral
+2836,1836,2023-04-13,2023-04-14,Neurology,Dr. Kavya Pillai,277,Stroke,36197.57,23077.97,Elective
+2837,1837,2023-06-20,2023-06-25,General Medicine,Dr. Anjali Singh,258,Viral Fever,139763.51,62860.1,Elective
+2838,1838,2024-10-12,2024-10-27,Orthopedics,Dr. Priya Nair,317,Arthritis,112089.18,88220.2,Emergency
+2839,1839,2023-09-29,2023-10-18,Cardiology,Dr. Sunita Rao,113,Hypertension,40127.29,18003.52,Referral
+2840,1840,2024-10-01,2024-10-05,Orthopedics,Dr. Amit Verma,291,Joint Replacement,138185.63,107642.53,Referral
+2841,1841,2023-10-07,2023-10-11,Cardiology,Dr. Sunita Rao,118,Heart Attack,146609.56,85504.77,Referral
+2842,1842,2023-08-03,2023-08-07,Neurology,Dr. Kavya Pillai,189,Parkinson's Disease,96186.57,67121.48,Referral
+2843,1843,2024-03-19,2024-04-06,General Medicine,Dr. Anjali Singh,270,Malaria,112426.04,64079.9,Emergency
+2844,1844,2023-09-15,2023-09-17,Pediatrics,Dr. Arjun Shah,260,Malnutrition,114647.87,63937.35,Referral
+2845,1845,2024-10-04,2024-10-13,Neurology,Dr. Suresh Iyer,281,Migraine,24334.95,13581.63,Emergency
+2846,1846,2024-11-07,2024-11-17,Orthopedics,Dr. Amit Verma,347,Joint Replacement,139024.89,98979.33,Elective
+2847,1847,2024-08-02,2024-08-04,Orthopedics,Dr. Priya Nair,287,Back Pain,73774.76,45251.91,Referral
+2848,1848,2024-04-18,2024-05-05,Cardiology,Dr. Sunita Rao,138,Hypertension,62997.54,26470.75,Referral
+2849,1849,2024-02-25,2024-02-28,Cardiology,Dr. Sunita Rao,182,Arrhythmia,88696.33,64756.57,Emergency
+2850,1850,2023-10-01,2023-10-18,General Medicine,Dr. Anjali Singh,311,Typhoid,54146.99,24015.4,Emergency
+2851,1851,2024-02-20,2024-02-24,Oncology,Dr. Vijay Reddy,162,Blood Cancer,106659.15,38053.78,Emergency
+2852,1852,2023-11-14,2023-11-21,Neurology,Dr. Suresh Iyer,219,Stroke,42179.89,22890.65,Elective
+2853,1853,2023-07-26,2023-08-03,Emergency,Dr. Rohit Kumar,141,Trauma,100894.69,44026.0,Emergency
+2854,1854,2024-11-05,2024-11-20,Cardiology,Dr. Sunita Rao,241,Arrhythmia,146959.62,57019.25,Emergency
+2855,1855,2023-02-26,2023-02-28,Neurology,Dr. Suresh Iyer,321,Parkinson's Disease,129241.13,96705.03,Elective
+2856,1856,2024-02-21,2024-03-08,Pediatrics,Dr. Meera Gupta,330,Asthma,82742.53,39858.49,Referral
+2857,1857,2023-05-24,2023-05-28,General Medicine,Dr. Anjali Singh,161,Diabetes,141137.16,50240.06,Referral
+2858,1858,2024-05-23,2024-05-27,Orthopedics,Dr. Priya Nair,327,Fracture,114754.51,39604.58,Referral
+2859,1859,2023-12-04,2023-12-22,General Medicine,Dr. Anjali Singh,314,Diabetes,130129.15,77057.68,Elective
+2860,1860,2023-08-12,2023-08-29,Pediatrics,Dr. Arjun Shah,137,Pneumonia,21116.88,7462.85,Emergency
+2861,1861,2024-02-23,2024-02-27,Cardiology,Dr. Sunita Rao,166,Arrhythmia,132273.66,96751.56,Emergency
+2862,1862,2024-12-17,2025-01-01,Orthopedics,Dr. Priya Nair,343,Joint Replacement,124291.92,44307.67,Referral
+2863,1863,2024-11-30,2024-12-15,Orthopedics,Dr. Priya Nair,164,Joint Replacement,77898.78,60890.18,Emergency
+2864,1864,2024-01-12,2024-01-31,Oncology,Dr. Lakshmi Desai,311,Blood Cancer,49210.95,22345.99,Referral
+2865,1865,2024-12-08,2024-12-12,Orthopedics,Dr. Amit Verma,335,Fracture,48189.61,33462.93,Emergency
+2866,1866,2023-11-13,2023-11-26,Oncology,Dr. Lakshmi Desai,264,Blood Cancer,34203.91,26653.12,Elective
+2867,1867,2024-03-29,2024-04-02,Cardiology,Dr. Rajesh Khanna,200,Heart Attack,59498.61,18083.59,Elective
+2868,1868,2023-04-03,2023-04-13,Oncology,Dr. Lakshmi Desai,340,Blood Cancer,71225.94,50666.85,Emergency
+2869,1869,2023-06-14,2023-06-21,Orthopedics,Dr. Amit Verma,335,Back Pain,134215.31,69714.51,Elective
+2870,1870,2023-10-08,2023-10-14,Pediatrics,Dr. Meera Gupta,322,Malnutrition,56023.3,19050.57,Elective
+2871,1871,2023-12-07,2023-12-15,General Medicine,Dr. Anjali Singh,284,Viral Fever,23073.88,11794.98,Emergency
+2872,1872,2024-06-02,2024-06-16,Gynecology,Dr. Neha Sharma,117,PCOS,31723.7,15098.2,Referral
+2873,1873,2024-12-12,2024-12-21,Cardiology,Dr. Sunita Rao,108,Arrhythmia,11823.47,8051.64,Referral
+2874,1874,2024-10-18,2024-10-26,Cardiology,Dr. Sunita Rao,135,Hypertension,67111.01,20236.51,Emergency
+2875,1875,2024-08-12,2024-08-16,Cardiology,Dr. Sunita Rao,122,Arrhythmia,86480.61,30736.43,Emergency
+2876,1876,2023-11-24,2023-11-25,Cardiology,Dr. Sunita Rao,216,Hypertension,87422.63,47136.77,Referral
+2877,1877,2023-06-27,2023-07-01,Oncology,Dr. Lakshmi Desai,276,Lung Cancer,74162.59,44238.74,Elective
+2878,1878,2023-03-28,2023-04-03,Neurology,Dr. Suresh Iyer,207,Epilepsy,136785.48,66176.79,Elective
+2879,1879,2023-01-22,2023-02-07,Oncology,Dr. Vijay Reddy,343,Colon Cancer,144498.48,45009.12,Referral
+2880,1880,2024-04-18,2024-04-24,Pediatrics,Dr. Meera Gupta,151,Pneumonia,45410.68,19567.08,Emergency
+2881,1881,2024-09-24,2024-10-12,Gynecology,Dr. Neha Sharma,210,Pregnancy,52027.69,31226.83,Emergency
+2882,1882,2023-06-24,2023-07-13,Gynecology,Dr. Neha Sharma,343,Pregnancy,63720.45,37188.62,Emergency
+2883,1883,2024-11-20,2024-11-23,Gynecology,Dr. Neha Sharma,227,Menstrual Disorder,123985.81,44542.67,Referral
+2884,1884,2023-09-30,2023-10-08,Neurology,Dr. Suresh Iyer,174,Migraine,27405.52,18449.99,Elective
+2885,1885,2023-07-31,2023-08-06,Neurology,Dr. Kavya Pillai,254,Migraine,14265.64,5817.29,Elective
+2886,1886,2023-07-04,2023-07-16,Cardiology,Dr. Sunita Rao,205,Hypertension,17610.22,12260.79,Emergency
+2887,1887,2023-08-30,2023-09-15,Orthopedics,Dr. Priya Nair,259,Back Pain,141982.57,74610.19,Emergency
+2888,1888,2023-03-29,2023-04-11,Neurology,Dr. Kavya Pillai,103,Epilepsy,55342.86,29577.48,Elective
+2889,1889,2024-01-28,2024-01-30,Oncology,Dr. Vijay Reddy,282,Colon Cancer,140957.77,72120.41,Referral
+2890,1890,2023-04-08,2023-04-18,General Medicine,Dr. Deepak Patel,243,Malaria,144308.21,47531.68,Elective
+2891,1891,2023-12-29,2024-01-15,Pediatrics,Dr. Arjun Shah,256,Pneumonia,8485.98,6531.33,Referral
+2892,1892,2023-09-17,2023-09-21,Pediatrics,Dr. Meera Gupta,230,Fever,113561.28,69252.95,Elective
+2893,1893,2023-05-16,2023-06-03,Orthopedics,Dr. Priya Nair,348,Joint Replacement,46689.12,34835.36,Emergency
+2894,1894,2023-06-23,2023-07-10,Pediatrics,Dr. Arjun Shah,229,Pneumonia,132979.24,72662.5,Elective
+2895,1895,2023-04-02,2023-04-06,Cardiology,Dr. Rajesh Khanna,182,Heart Failure,146731.2,96127.69,Elective
+2896,1896,2023-04-30,2023-05-12,Oncology,Dr. Lakshmi Desai,181,Lung Cancer,127526.77,41073.96,Emergency
+2897,1897,2024-01-05,2024-01-09,Cardiology,Dr. Sunita Rao,338,Heart Failure,83849.13,43185.91,Elective
+2898,1898,2024-03-22,2024-04-09,General Medicine,Dr. Anjali Singh,329,Malaria,18131.12,6935.01,Referral
+2899,1899,2024-07-23,2024-08-10,General Medicine,Dr. Deepak Patel,319,Viral Fever,58791.19,44765.16,Referral
+2900,1900,2023-07-13,2023-07-16,General Medicine,Dr. Deepak Patel,139,Viral Fever,6980.94,2284.75,Emergency
+2901,1901,2023-09-24,2023-10-03,Emergency,Dr. Pooja Joshi,142,Accident Injury,118358.07,77285.62,Elective
+2902,1902,2023-02-11,2023-02-14,Pediatrics,Dr. Arjun Shah,214,Fever,88590.89,42369.48,Referral
+2903,1903,2024-05-19,2024-05-31,Neurology,Dr. Kavya Pillai,129,Parkinson's Disease,107296.05,77566.37,Emergency
+2904,1904,2023-04-06,2023-04-19,Orthopedics,Dr. Priya Nair,153,Fracture,78152.92,57371.01,Emergency
+2905,1905,2024-07-30,2024-08-06,Orthopedics,Dr. Priya Nair,329,Arthritis,79108.6,49962.53,Emergency
+2906,1906,2024-03-02,2024-03-16,Neurology,Dr. Suresh Iyer,336,Stroke,16542.74,5598.36,Elective
+2907,1907,2023-01-27,2023-02-03,General Medicine,Dr. Anjali Singh,173,Diabetes,131515.39,84256.15,Referral
+2908,1908,2024-01-18,2024-01-26,Orthopedics,Dr. Priya Nair,252,Fracture,89550.33,68467.87,Emergency
+2909,1909,2023-01-30,2023-02-06,General Medicine,Dr. Deepak Patel,121,Malaria,61371.42,32534.01,Referral
+2910,1910,2024-10-05,2024-10-14,Cardiology,Dr. Sunita Rao,345,Heart Failure,130723.73,56820.27,Referral
+2911,1911,2023-02-14,2023-03-05,Orthopedics,Dr. Priya Nair,268,Fracture,143930.03,87967.51,Elective
+2912,1912,2023-08-05,2023-08-09,Orthopedics,Dr. Amit Verma,321,Back Pain,126430.19,41006.51,Referral
+2913,1913,2023-02-26,2023-03-10,Orthopedics,Dr. Priya Nair,291,Back Pain,28291.87,9488.02,Referral
+2914,1914,2024-02-13,2024-02-29,Cardiology,Dr. Rajesh Khanna,166,Heart Failure,111788.61,43486.37,Elective
+2915,1915,2023-08-02,2023-08-06,Cardiology,Dr. Rajesh Khanna,142,Heart Attack,124154.1,61363.34,Elective
+2916,1916,2023-05-04,2023-05-11,Cardiology,Dr. Rajesh Khanna,177,Arrhythmia,50766.82,27689.37,Elective
+2917,1917,2024-01-03,2024-01-08,Pediatrics,Dr. Meera Gupta,271,Asthma,108118.21,37631.16,Elective
+2918,1918,2024-04-01,2024-04-13,Cardiology,Dr. Sunita Rao,327,Hypertension,79541.88,39297.25,Elective
+2919,1919,2024-03-08,2024-03-23,General Medicine,Dr. Deepak Patel,308,Viral Fever,88599.02,42892.38,Emergency
+2920,1920,2023-04-06,2023-04-10,Gynecology,Dr. Neha Sharma,111,Menstrual Disorder,63740.67,35482.57,Elective
+2921,1921,2024-05-22,2024-06-10,Cardiology,Dr. Rajesh Khanna,235,Hypertension,93062.04,57212.66,Referral
+2922,1922,2024-04-24,2024-04-26,Cardiology,Dr. Sunita Rao,212,Heart Attack,14293.73,4854.03,Elective
+2923,1923,2023-05-11,2023-05-30,General Medicine,Dr. Deepak Patel,276,Malaria,35590.63,26744.64,Emergency
+2924,1924,2024-08-05,2024-08-19,Oncology,Dr. Lakshmi Desai,113,Colon Cancer,123145.08,70869.64,Emergency
+2925,1925,2024-02-27,2024-03-01,Neurology,Dr. Kavya Pillai,125,Stroke,140984.74,75050.16,Referral
+2926,1926,2023-09-18,2023-10-07,General Medicine,Dr. Anjali Singh,250,Malaria,15536.51,5296.16,Referral
+2927,1927,2024-11-08,2024-11-24,Orthopedics,Dr. Amit Verma,219,Fracture,36913.06,14387.83,Emergency
+2928,1928,2023-03-27,2023-03-29,Orthopedics,Dr. Amit Verma,207,Joint Replacement,23218.31,17143.88,Elective
+2929,1929,2024-11-17,2024-12-04,Orthopedics,Dr. Priya Nair,216,Back Pain,44315.63,27116.96,Elective
+2930,1930,2023-08-05,2023-08-15,General Medicine,Dr. Deepak Patel,148,Malaria,6071.83,2059.02,Referral
+2931,1931,2024-03-20,2024-03-26,Pediatrics,Dr. Meera Gupta,237,Asthma,146586.2,45288.92,Elective
+2932,1932,2023-06-25,2023-06-28,Gynecology,Dr. Divya Mehta,268,Pregnancy,69437.36,37396.18,Referral
+2933,1933,2023-11-07,2023-11-23,Orthopedics,Dr. Priya Nair,259,Joint Replacement,50951.1,36000.33,Referral
+2934,1934,2023-11-06,2023-11-18,Orthopedics,Dr. Priya Nair,123,Back Pain,67673.5,24534.67,Emergency
+2935,1935,2023-01-17,2023-01-31,Cardiology,Dr. Rajesh Khanna,279,Hypertension,127505.29,100124.83,Emergency
+2936,1936,2024-10-26,2024-11-12,Neurology,Dr. Kavya Pillai,138,Migraine,31515.36,19693.0,Elective
+2937,1937,2023-11-05,2023-11-22,Orthopedics,Dr. Amit Verma,298,Arthritis,106726.96,56748.09,Elective
+2938,1938,2023-04-30,2023-05-02,Cardiology,Dr. Rajesh Khanna,143,Heart Failure,52759.99,39633.71,Referral
+2939,1939,2024-04-27,2024-05-12,General Medicine,Dr. Anjali Singh,106,Viral Fever,24872.66,18154.51,Referral
+2940,1940,2023-10-29,2023-11-10,Emergency,Dr. Rohit Kumar,246,Poisoning,110417.69,78918.33,Elective
+2941,1941,2023-01-09,2023-01-16,General Medicine,Dr. Anjali Singh,127,Diabetes,12623.29,7765.91,Referral
+2942,1942,2024-05-22,2024-06-04,Cardiology,Dr. Sunita Rao,289,Heart Failure,93403.88,55045.77,Referral
+2943,1943,2024-05-14,2024-05-15,Emergency,Dr. Rohit Kumar,203,Burns,62534.45,33959.36,Referral
+2944,1944,2023-03-04,2023-03-17,Neurology,Dr. Suresh Iyer,236,Parkinson's Disease,5301.1,1640.74,Referral
+2945,1945,2023-10-02,2023-10-13,Orthopedics,Dr. Amit Verma,329,Back Pain,109721.33,68482.58,Elective
+2946,1946,2024-09-29,2024-10-09,Cardiology,Dr. Sunita Rao,341,Heart Attack,96599.75,60190.33,Elective
+2947,1947,2023-06-15,2023-06-23,Pediatrics,Dr. Meera Gupta,174,Malnutrition,8926.76,5919.38,Elective
+2948,1948,2023-08-26,2023-09-08,Neurology,Dr. Kavya Pillai,230,Epilepsy,49984.12,20486.05,Referral
+2949,1949,2023-05-15,2023-05-17,Orthopedics,Dr. Priya Nair,327,Back Pain,42425.61,18951.39,Referral
+2950,1950,2024-11-20,2024-11-27,Pediatrics,Dr. Arjun Shah,268,Malnutrition,48203.47,32165.81,Elective
+2951,1951,2023-10-17,2023-10-23,Pediatrics,Dr. Meera Gupta,277,Pneumonia,107604.98,72593.24,Referral
+2952,1952,2023-06-27,2023-07-03,Cardiology,Dr. Rajesh Khanna,152,Heart Failure,48761.01,18439.32,Elective
+2953,1953,2024-05-20,2024-06-04,Emergency,Dr. Pooja Joshi,178,Accident Injury,98366.65,41054.25,Referral
+2954,1954,2024-01-03,2024-01-08,Oncology,Dr. Vijay Reddy,326,Breast Cancer,115892.56,49880.62,Referral
+2955,1955,2024-05-30,2024-06-17,Orthopedics,Dr. Amit Verma,109,Arthritis,81662.56,57442.08,Elective
+2956,1956,2024-09-24,2024-09-30,Cardiology,Dr. Rajesh Khanna,159,Heart Failure,17363.91,6256.98,Emergency
+2957,1957,2023-12-15,2024-01-03,Emergency,Dr. Pooja Joshi,301,Trauma,47434.99,22655.92,Emergency
+2958,1958,2024-12-07,2024-12-17,Pediatrics,Dr. Meera Gupta,324,Asthma,67641.53,37723.26,Referral
+2959,1959,2024-03-24,2024-03-25,Gynecology,Dr. Divya Mehta,305,Pregnancy,19966.41,10553.6,Emergency
+2960,1960,2024-07-29,2024-07-31,General Medicine,Dr. Deepak Patel,111,Diabetes,132183.5,73183.77,Emergency
+2961,1961,2024-01-06,2024-01-15,Pediatrics,Dr. Meera Gupta,141,Fever,43735.89,29048.27,Referral
+2962,1962,2023-04-12,2023-04-19,Emergency,Dr. Pooja Joshi,140,Trauma,125086.95,77997.53,Elective
+2963,1963,2023-07-26,2023-08-08,General Medicine,Dr. Deepak Patel,213,Typhoid,12149.8,9535.39,Emergency
+2964,1964,2023-12-16,2023-12-26,Orthopedics,Dr. Priya Nair,174,Arthritis,135414.82,74818.23,Emergency
+2965,1965,2024-02-29,2024-03-05,Cardiology,Dr. Sunita Rao,193,Arrhythmia,141732.5,87125.83,Emergency
+2966,1966,2023-08-22,2023-09-06,General Medicine,Dr. Anjali Singh,136,Typhoid,70819.29,49636.13,Elective
+2967,1967,2024-06-12,2024-07-01,Pediatrics,Dr. Arjun Shah,304,Malnutrition,111708.46,71616.22,Emergency
+2968,1968,2023-01-11,2023-01-30,Orthopedics,Dr. Amit Verma,284,Joint Replacement,68329.88,48044.34,Emergency
+2969,1969,2023-11-19,2023-11-30,Pediatrics,Dr. Arjun Shah,203,Fever,8573.44,6781.35,Emergency
+2970,1970,2024-02-07,2024-02-08,General Medicine,Dr. Deepak Patel,295,Viral Fever,126274.89,40224.47,Referral
+2971,1971,2024-10-08,2024-10-22,Gynecology,Dr. Divya Mehta,283,PCOS,8138.61,5693.25,Referral
+2972,1972,2024-02-16,2024-03-02,Cardiology,Dr. Sunita Rao,327,Arrhythmia,98714.94,63220.54,Referral
+2973,1973,2023-12-19,2023-12-22,General Medicine,Dr. Anjali Singh,103,Malaria,83182.71,59351.01,Referral
+2974,1974,2024-04-01,2024-04-02,Orthopedics,Dr. Priya Nair,265,Arthritis,137213.69,55237.67,Referral
+2975,1975,2024-10-26,2024-10-29,Neurology,Dr. Kavya Pillai,204,Parkinson's Disease,35836.32,24644.64,Elective
+2976,1976,2024-07-04,2024-07-16,Cardiology,Dr. Rajesh Khanna,186,Heart Attack,90940.93,45015.47,Referral
+2977,1977,2023-08-07,2023-08-16,Oncology,Dr. Lakshmi Desai,124,Lung Cancer,66899.74,37185.27,Elective
+2978,1978,2023-01-24,2023-02-03,Pediatrics,Dr. Meera Gupta,108,Asthma,44899.67,33457.42,Referral
+2979,1979,2023-11-08,2023-11-25,Neurology,Dr. Suresh Iyer,286,Epilepsy,54043.49,27636.38,Referral
+2980,1980,2024-01-17,2024-01-20,Emergency,Dr. Rohit Kumar,167,Accident Injury,74290.77,45577.0,Elective
+2981,1981,2024-10-28,2024-11-10,Neurology,Dr. Suresh Iyer,341,Stroke,106432.47,38568.46,Elective
+2982,1982,2023-12-14,2023-12-22,Orthopedics,Dr. Priya Nair,161,Fracture,54742.5,38467.21,Referral
+2983,1983,2023-11-03,2023-11-19,General Medicine,Dr. Anjali Singh,173,Typhoid,10770.58,6822.74,Referral
+2984,1984,2024-06-16,2024-07-01,General Medicine,Dr. Anjali Singh,289,Typhoid,134170.66,56863.76,Elective
+2985,1985,2024-04-10,2024-04-21,Neurology,Dr. Kavya Pillai,126,Migraine,16160.53,6032.35,Elective
+2986,1986,2023-04-05,2023-04-11,General Medicine,Dr. Deepak Patel,116,Viral Fever,77650.83,39791.65,Emergency
+2987,1987,2024-04-01,2024-04-07,Pediatrics,Dr. Meera Gupta,120,Malnutrition,126631.7,61371.69,Referral
+2988,1988,2023-09-28,2023-10-06,Emergency,Dr. Pooja Joshi,250,Trauma,69691.64,38289.54,Elective
+2989,1989,2024-03-02,2024-03-08,General Medicine,Dr. Anjali Singh,311,Viral Fever,19772.42,7541.62,Referral
+2990,1990,2024-12-29,2025-01-06,Emergency,Dr. Pooja Joshi,218,Poisoning,127340.67,46440.2,Referral
+2991,1991,2024-04-11,2024-04-27,Neurology,Dr. Suresh Iyer,222,Stroke,89467.4,28298.87,Emergency
+2992,1992,2024-09-08,2024-09-18,General Medicine,Dr. Deepak Patel,319,Malaria,89453.09,45112.08,Emergency
+2993,1993,2023-02-11,2023-02-24,Orthopedics,Dr. Priya Nair,234,Back Pain,31716.05,11945.92,Elective
+2994,1994,2023-11-07,2023-11-16,Cardiology,Dr. Sunita Rao,176,Arrhythmia,126850.49,68875.09,Emergency
+2995,1995,2023-02-19,2023-03-07,Cardiology,Dr. Sunita Rao,340,Hypertension,88051.69,65785.75,Elective
+2996,1996,2024-05-15,2024-05-16,Oncology,Dr. Vijay Reddy,101,Lung Cancer,83497.58,30156.32,Elective
+2997,1997,2024-03-03,2024-03-16,Orthopedics,Dr. Amit Verma,224,Fracture,8858.21,5195.6,Referral
+2998,1998,2024-01-22,2024-02-02,General Medicine,Dr. Anjali Singh,222,Viral Fever,126567.95,90778.33,Referral
+2999,1999,2024-05-31,2024-06-05,General Medicine,Dr. Deepak Patel,263,Typhoid,134501.49,71348.75,Elective
+3000,2000,2023-11-30,2023-12-09,General Medicine,Dr. Deepak Patel,123,Viral Fever,23285.97,16297.99,Referral

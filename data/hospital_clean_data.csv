@@ -1,0 +1,1001 @@
+admission_id,name,age,gender,blood_type,city,department,doctor_name,medical_condition,admission_type,billing_amount,insurance_covered,admission_date,discharge_date,length_of_stay,admission_month,admission_year,admission_month_name
+2001,Sneha Sharma,56,Male,AB+,Pune,General Medicine,Dr. Deepak Patel,Malaria,Elective,38645.78,16771.73,2023-03-17,2023-04-01,15,3,2023,Mar
+2002,Suresh Rao,19,Female,AB+,Pune,Pediatrics,Dr. Arjun Shah,Pneumonia,Emergency,28591.46,10100.66,2023-11-21,2023-12-08,17,11,2023,Nov
+2003,Neha Verma,76,Female,AB-,Bangalore,Pediatrics,Dr. Arjun Shah,Asthma,Emergency,6754.95,2937.61,2024-01-04,2024-01-16,12,1,2024,Jan
+2004,Sneha Desai,65,Male,AB-,Bangalore,Cardiology,Dr. Rajesh Khanna,Heart Attack,Referral,59662.9,34514.54,2024-03-17,2024-03-22,5,3,2024,Mar
+2005,Rahul Bhat,25,Female,O-,Nagpur,Pediatrics,Dr. Meera Gupta,Malnutrition,Emergency,11678.23,5570.02,2023-01-27,2023-02-07,11,1,2023,Jan
+2006,Meera Patel,79,Female,O-,Bangalore,Oncology,Dr. Lakshmi Desai,Blood Cancer,Emergency,127966.1,64866.66,2023-01-13,2023-01-21,8,1,2023,Jan
+2007,Aarav Singh,79,Female,O-,Hyderabad,General Medicine,Dr. Deepak Patel,Typhoid,Elective,40642.08,15637.08,2024-12-02,2024-12-07,5,12,2024,Dec
+2008,Vijay Rao,28,Female,A-,Kolkata,Neurology,Dr. Kavya Pillai,Epilepsy,Elective,101052.93,33512.54,2024-05-19,2024-05-31,12,5,2024,May
+2009,Kiran Kulkarni,7,Male,AB-,Pune,Cardiology,Dr. Sunita Rao,Arrhythmia,Elective,27302.02,18874.8,2023-11-03,2023-11-12,9,11,2023,Nov
+2010,Aarav Desai,26,Male,O+,Chennai,Gynecology,Dr. Divya Mehta,Uterine Fibroids,Emergency,149021.98,88951.7,2024-10-02,2024-10-04,2,10,2024,Oct
+2011,Vijay Desai,57,Male,O-,Pune,Cardiology,Dr. Rajesh Khanna,Heart Failure,Elective,58899.99,17869.3,2023-05-19,2023-05-26,7,5,2023,May
+2012,Meera Rao,6,Female,O-,Pune,Neurology,Dr. Kavya Pillai,Epilepsy,Referral,13366.92,6247.27,2023-12-04,2023-12-07,3,12,2023,Dec
+2013,Arjun Bhat,34,Male,B-,Hyderabad,Neurology,Dr. Kavya Pillai,Migraine,Emergency,95195.74,73647.18,2023-11-25,2023-12-09,14,11,2023,Nov
+2014,Suresh Sharma,42,Male,A+,Bangalore,Gynecology,Dr. Neha Sharma,Menstrual Disorder,Elective,100211.51,50017.55,2023-07-01,2023-07-19,18,7,2023,Jul
+2015,Pooja Pandey,6,Male,O+,Chennai,Orthopedics,Dr. Priya Nair,Back Pain,Elective,146283.97,61616.59,2024-08-12,2024-08-25,13,8,2024,Aug
+2016,Rohit Mehta,68,Female,O-,Hyderabad,Cardiology,Dr. Sunita Rao,Arrhythmia,Emergency,114006.97,87333.17,2024-01-09,2024-01-20,11,1,2024,Jan
+2017,Amit Joshi,64,Female,O-,Nagpur,Orthopedics,Dr. Amit Verma,Arthritis,Elective,30407.16,19891.86,2024-04-17,2024-04-18,1,4,2024,Apr
+2018,Rohit Kumar,25,Male,O-,Kolkata,Emergency,Dr. Rohit Kumar,Burns,Referral,37609.08,20671.89,2024-02-23,2024-03-07,13,2,2024,Feb
+2019,Rahul Mishra,37,Male,A+,Delhi,Neurology,Dr. Suresh Iyer,Epilepsy,Elective,86682.07,32685.35,2023-09-16,2023-09-27,11,9,2023,Sep
+2020,Sneha Shah,80,Female,A+,Pune,Neurology,Dr. Suresh Iyer,Parkinson's Disease,Elective,115022.56,62068.17,2024-04-04,2024-04-16,12,4,2024,Apr
+2021,Anjali Kulkarni,62,Male,A-,Delhi,Orthopedics,Dr. Amit Verma,Joint Replacement,Referral,134643.67,100679.91,2024-01-04,2024-01-11,7,1,2024,Jan
+2022,Suresh Patel,26,Male,O+,Kolkata,Emergency,Dr. Rohit Kumar,Accident Injury,Emergency,63136.56,39924.21,2023-09-12,2023-09-20,8,9,2023,Sep
+2023,Arjun Desai,53,Male,A-,Kolkata,General Medicine,Dr. Anjali Singh,Diabetes,Emergency,133888.68,93469.77,2023-12-06,2023-12-16,10,12,2023,Dec
+2024,Sneha Mishra,63,Male,B+,Hyderabad,Pediatrics,Dr. Meera Gupta,Fever,Referral,90713.89,50376.88,2023-09-22,2023-10-05,13,9,2023,Sep
+2025,Rahul Desai,46,Male,A+,Hyderabad,Orthopedics,Dr. Priya Nair,Arthritis,Referral,91101.36,48423.25,2024-01-19,2024-02-07,19,1,2024,Jan
+2026,Kavya Kulkarni,64,Male,B-,Hyderabad,Cardiology,Dr. Sunita Rao,Hypertension,Elective,15317.95,5396.13,2023-01-26,2023-02-09,14,1,2023,Jan
+2027,Anjali Bhat,84,Male,AB-,Delhi,Cardiology,Dr. Rajesh Khanna,Heart Attack,Elective,132527.0,60425.05,2023-05-26,2023-06-10,15,5,2023,May
+2028,Vijay Singh,19,Female,B-,Hyderabad,Pediatrics,Dr. Arjun Shah,Pneumonia,Referral,122577.39,42756.41,2023-12-23,2024-01-07,15,12,2023,Dec
+2029,Priya Rao,66,Male,AB-,Kolkata,Oncology,Dr. Lakshmi Desai,Colon Cancer,Referral,105574.62,34031.08,2023-03-10,2023-03-14,4,3,2023,Mar
+2030,Kavya Singh,66,Female,A+,Nagpur,General Medicine,Dr. Deepak Patel,Diabetes,Emergency,124594.24,44191.25,2023-12-18,2023-12-28,10,12,2023,Dec
+2031,Neha Kumar,51,Female,A+,Hyderabad,Pediatrics,Dr. Meera Gupta,Pneumonia,Elective,83168.71,38714.6,2024-07-19,2024-08-05,17,7,2024,Jul
+2032,Deepak Mehta,66,Male,A+,Mumbai,Orthopedics,Dr. Amit Verma,Joint Replacement,Referral,10447.81,4097.9,2024-02-19,2024-03-03,13,2,2024,Feb
+2033,Arjun Shah,55,Female,A-,Bangalore,Cardiology,Dr. Sunita Rao,Heart Failure,Emergency,5001.69,3036.29,2023-01-30,2023-02-08,9,1,2023,Jan
+2034,Pooja Shah,59,Male,O+,Delhi,Neurology,Dr. Kavya Pillai,Parkinson's Disease,Emergency,12921.99,8429.89,2024-02-03,2024-02-09,6,2,2024,Feb
+2035,Anjali Joshi,68,Female,AB-,Mumbai,Gynecology,Dr. Divya Mehta,Uterine Fibroids,Referral,34518.86,24154.61,2024-08-14,2024-08-21,7,8,2024,Aug
+2036,Suresh Singh,7,Male,O+,Hyderabad,Cardiology,Dr. Sunita Rao,Hypertension,Elective,132996.49,70325.25,2023-11-30,2023-12-03,3,11,2023,Nov
+2037,Lakshmi Gupta,55,Male,A-,Kolkata,Cardiology,Dr. Sunita Rao,Heart Failure,Referral,145192.6,87936.51,2024-09-03,2024-09-07,4,9,2024,Sep
+2038,Sunita Rao,11,Male,A-,Nagpur,Orthopedics,Dr. Priya Nair,Fracture,Emergency,112574.97,59544.31,2023-12-27,2023-12-31,4,12,2023,Dec
+2039,Pooja Chauhan,25,Female,AB+,Pune,Oncology,Dr. Vijay Reddy,Blood Cancer,Emergency,134925.92,61606.21,2024-11-19,2024-12-07,18,11,2024,Nov
+2040,Deepak Mehta,77,Female,B-,Chennai,Oncology,Dr. Vijay Reddy,Blood Cancer,Referral,123433.02,79826.39,2023-07-07,2023-07-23,16,7,2023,Jul
+2041,Sunita Rao,43,Female,B-,Bangalore,Orthopedics,Dr. Priya Nair,Joint Replacement,Elective,135781.33,79758.36,2024-09-02,2024-09-18,16,9,2024,Sep
+2042,Rohit Patel,22,Male,B+,Chennai,Oncology,Dr. Lakshmi Desai,Lung Cancer,Referral,36970.82,23909.64,2024-10-12,2024-10-19,7,10,2024,Oct
+2043,Neha Patel,8,Female,O-,Hyderabad,General Medicine,Dr. Deepak Patel,Typhoid,Elective,100847.07,37328.37,2024-05-16,2024-05-24,8,5,2024,May
+2044,Rohit Mishra,64,Male,A-,Bangalore,Cardiology,Dr. Rajesh Khanna,Heart Failure,Emergency,107851.52,32872.25,2024-01-03,2024-01-13,10,1,2024,Jan
+2045,Suresh Singh,18,Female,AB-,Bangalore,Cardiology,Dr. Sunita Rao,Hypertension,Elective,43982.78,27556.75,2024-07-29,2024-08-07,9,7,2024,Jul
+2046,Vijay Bhat,13,Male,AB+,Nagpur,General Medicine,Dr. Anjali Singh,Viral Fever,Emergency,92225.31,48134.78,2024-12-28,2025-01-14,17,12,2024,Dec
+2047,Rohit Joshi,57,Male,AB+,Bangalore,Orthopedics,Dr. Amit Verma,Fracture,Emergency,19864.81,6284.18,2023-08-14,2023-08-19,5,8,2023,Aug
+2048,Divya Mishra,6,Male,O-,Delhi,Pediatrics,Dr. Meera Gupta,Asthma,Elective,58545.71,39299.34,2024-04-13,2024-05-02,19,4,2024,Apr
+2049,Arjun Verma,64,Male,O+,Mumbai,Emergency,Dr. Rohit Kumar,Accident Injury,Elective,106095.36,60639.13,2023-10-02,2023-10-04,2,10,2023,Oct
+2050,Suresh Verma,75,Female,O-,Mumbai,General Medicine,Dr. Anjali Singh,Diabetes,Emergency,138544.21,110127.11,2024-07-13,2024-07-19,6,7,2024,Jul
+2051,Neha Desai,48,Male,O-,Mumbai,General Medicine,Dr. Anjali Singh,Typhoid,Emergency,128318.38,55357.53,2023-02-03,2023-02-10,7,2,2023,Feb
+2052,Sunita Mehta,12,Female,O-,Delhi,Neurology,Dr. Suresh Iyer,Parkinson's Disease,Referral,122025.28,86070.7,2023-08-31,2023-09-02,2,8,2023,Aug
+2053,Manoj Pandey,51,Male,B-,Chennai,Orthopedics,Dr. Priya Nair,Back Pain,Emergency,35942.04,13284.81,2023-06-19,2023-07-02,13,6,2023,Jun
+2054,Manoj Mishra,39,Female,A-,Nagpur,General Medicine,Dr. Deepak Patel,Typhoid,Referral,22236.79,12589.15,2024-08-06,2024-08-09,3,8,2024,Aug
+2055,Anjali Rao,82,Male,B+,Bangalore,General Medicine,Dr. Anjali Singh,Typhoid,Elective,86500.56,38463.91,2024-12-21,2025-01-06,16,12,2024,Dec
+2056,Amit Pillai,40,Male,A-,Delhi,Emergency,Dr. Rohit Kumar,Accident Injury,Elective,50237.68,16560.5,2024-02-26,2024-02-27,1,2,2024,Feb
+2057,Divya Singh,54,Female,O+,Mumbai,Pediatrics,Dr. Meera Gupta,Pneumonia,Emergency,118999.82,78027.88,2023-09-13,2023-09-17,4,9,2023,Sep
+2058,Priya Kumar,8,Male,A+,Hyderabad,General Medicine,Dr. Anjali Singh,Viral Fever,Referral,7328.97,4516.12,2023-05-26,2023-06-13,18,5,2023,May
+2059,Amit Gupta,6,Male,O-,Pune,Oncology,Dr. Lakshmi Desai,Colon Cancer,Emergency,6655.61,4105.27,2024-04-07,2024-04-10,3,4,2024,Apr
+2060,Meera Kulkarni,10,Female,A-,Bangalore,General Medicine,Dr. Anjali Singh,Viral Fever,Elective,127275.32,94013.02,2024-12-12,2024-12-26,14,12,2024,Dec
+2061,Rahul Mishra,58,Female,O+,Delhi,Cardiology,Dr. Sunita Rao,Heart Failure,Referral,107398.01,78878.89,2024-08-18,2024-09-06,19,8,2024,Aug
+2062,Deepak Kulkarni,8,Male,A+,Kolkata,Pediatrics,Dr. Arjun Shah,Fever,Emergency,12491.96,8102.84,2024-10-12,2024-10-20,8,10,2024,Oct
+2063,Arjun Pillai,58,Male,A+,Delhi,Pediatrics,Dr. Meera Gupta,Malnutrition,Elective,130082.87,52803.98,2024-03-15,2024-03-31,16,3,2024,Mar
+2064,Suresh Desai,67,Female,O-,Nagpur,Cardiology,Dr. Sunita Rao,Arrhythmia,Referral,143107.73,84285.7,2023-12-12,2023-12-15,3,12,2023,Dec
+2065,Aarav Kumar,22,Male,B+,Nagpur,Orthopedics,Dr. Priya Nair,Joint Replacement,Emergency,130467.89,42298.29,2024-11-29,2024-12-10,11,11,2024,Nov
+2066,Sunita Mehta,48,Male,AB-,Delhi,Cardiology,Dr. Rajesh Khanna,Heart Failure,Elective,95629.23,69697.05,2023-05-08,2023-05-12,4,5,2023,May
+2067,Rohit Kumar,38,Male,B-,Mumbai,Orthopedics,Dr. Amit Verma,Joint Replacement,Emergency,77719.74,62008.46,2024-03-14,2024-04-02,19,3,2024,Mar
+2068,Kavya Pandey,78,Female,A-,Pune,Cardiology,Dr. Rajesh Khanna,Arrhythmia,Elective,95606.74,59973.53,2023-10-08,2023-10-22,14,10,2023,Oct
+2069,Pooja Chauhan,66,Female,A+,Bangalore,Pediatrics,Dr. Arjun Shah,Fever,Emergency,147376.33,92029.98,2024-11-11,2024-11-27,16,11,2024,Nov
+2070,Aarav Mehta,18,Male,A-,Nagpur,General Medicine,Dr. Anjali Singh,Viral Fever,Referral,28608.18,11931.67,2024-12-17,2025-01-02,16,12,2024,Dec
+2071,Kiran Gupta,52,Male,AB-,Bangalore,Orthopedics,Dr. Amit Verma,Fracture,Emergency,46706.75,25147.07,2023-01-02,2023-01-14,12,1,2023,Jan
+2072,Kiran Kumar,19,Male,B-,Mumbai,Orthopedics,Dr. Priya Nair,Arthritis,Emergency,95087.41,61597.49,2023-01-10,2023-01-22,12,1,2023,Jan
+2073,Kavya Pillai,76,Female,AB-,Bangalore,Neurology,Dr. Suresh Iyer,Parkinson's Disease,Emergency,92798.19,38462.38,2024-05-04,2024-05-18,14,5,2024,May
+2074,Lakshmi Joshi,82,Male,B-,Hyderabad,Orthopedics,Dr. Amit Verma,Fracture,Emergency,46434.96,34384.83,2023-11-17,2023-11-18,1,11,2023,Nov
+2075,Amit Shah,66,Male,AB+,Nagpur,Neurology,Dr. Suresh Iyer,Parkinson's Disease,Referral,103243.44,38347.35,2024-10-18,2024-11-06,19,10,2024,Oct
+2076,Pooja Desai,44,Female,B-,Mumbai,Cardiology,Dr. Rajesh Khanna,Heart Attack,Referral,60308.95,39877.24,2024-03-26,2024-04-10,15,3,2024,Mar
+2077,Kiran Sharma,84,Male,O-,Mumbai,Gynecology,Dr. Neha Sharma,PCOS,Emergency,96680.91,50389.31,2024-09-22,2024-09-29,7,9,2024,Sep
+2078,Lakshmi Reddy,57,Female,B+,Pune,Orthopedics,Dr. Amit Verma,Fracture,Referral,118863.98,42978.67,2023-05-24,2023-06-12,19,5,2023,May
+2079,Divya Sharma,28,Male,AB-,Pune,General Medicine,Dr. Anjali Singh,Viral Fever,Emergency,141484.5,98407.89,2024-03-15,2024-04-02,18,3,2024,Mar
+2080,Sneha Shah,30,Male,A+,Hyderabad,Emergency,Dr. Rohit Kumar,Burns,Referral,14787.87,8880.11,2023-09-12,2023-09-20,8,9,2023,Sep
+2081,Kavya Rao,64,Male,O-,Mumbai,Pediatrics,Dr. Meera Gupta,Asthma,Referral,19952.6,8995.12,2024-11-05,2024-11-22,17,11,2024,Nov
+2082,Priya Rao,45,Female,AB+,Chennai,Pediatrics,Dr. Arjun Shah,Pneumonia,Emergency,111993.32,36653.69,2023-10-30,2023-11-08,9,10,2023,Oct
+2083,Manoj Singh,33,Female,B+,Mumbai,General Medicine,Dr. Anjali Singh,Viral Fever,Referral,34643.88,19046.9,2023-04-26,2023-05-05,9,4,2023,Apr
+2084,Rahul Iyer,19,Female,A-,Pune,Pediatrics,Dr. Meera Gupta,Fever,Elective,43320.06,19850.83,2024-01-05,2024-01-12,7,1,2024,Jan
+2085,Rahul Desai,49,Male,O-,Chennai,Orthopedics,Dr. Priya Nair,Joint Replacement,Elective,43937.39,16976.76,2024-07-13,2024-07-16,3,7,2024,Jul
+2086,Amit Verma,69,Female,AB-,Nagpur,Orthopedics,Dr. Amit Verma,Fracture,Emergency,105017.93,32229.66,2024-08-24,2024-09-03,10,8,2024,Aug
+2087,Divya Desai,75,Male,O+,Nagpur,Cardiology,Dr. Rajesh Khanna,Heart Attack,Referral,29956.04,13277.83,2024-02-12,2024-02-19,7,2,2024,Feb
+2088,Pooja Mehta,13,Male,O+,Bangalore,Emergency,Dr. Pooja Joshi,Trauma,Referral,18349.71,6261.18,2024-12-19,2024-12-28,9,12,2024,Dec
+2089,Kiran Kulkarni,5,Female,A+,Delhi,General Medicine,Dr. Anjali Singh,Typhoid,Emergency,99033.2,33622.84,2023-03-27,2023-03-30,3,3,2023,Mar
+2090,Meera Joshi,12,Male,B-,Pune,Orthopedics,Dr. Priya Nair,Arthritis,Referral,107049.89,66065.53,2024-02-05,2024-02-07,2,2,2024,Feb
+2091,Sunita Joshi,67,Male,A+,Delhi,Neurology,Dr. Kavya Pillai,Stroke,Emergency,70349.54,46780.98,2024-12-16,2024-12-26,10,12,2024,Dec
+2092,Kavya Mishra,15,Male,O+,Chennai,General Medicine,Dr. Deepak Patel,Diabetes,Elective,50371.57,26054.28,2023-03-30,2023-04-05,6,3,2023,Mar
+2093,Anjali Chauhan,12,Male,A-,Pune,Orthopedics,Dr. Priya Nair,Fracture,Emergency,130583.87,82140.67,2024-11-13,2024-11-15,2,11,2024,Nov
+2094,Kiran Chauhan,39,Male,AB+,Hyderabad,Emergency,Dr. Rohit Kumar,Accident Injury,Emergency,93777.43,61025.64,2024-12-25,2025-01-04,10,12,2024,Dec
+2095,Sneha Rao,39,Female,AB+,Mumbai,Orthopedics,Dr. Priya Nair,Joint Replacement,Referral,133034.1,91992.22,2024-06-19,2024-07-08,19,6,2024,Jun
+2096,Neha Singh,37,Male,AB-,Hyderabad,Orthopedics,Dr. Amit Verma,Back Pain,Elective,106665.24,71987.11,2024-01-16,2024-01-20,4,1,2024,Jan
+2097,Rohit Sharma,9,Female,AB+,Chennai,General Medicine,Dr. Deepak Patel,Diabetes,Referral,7232.26,3722.17,2023-12-10,2023-12-11,1,12,2023,Dec
+2098,Manoj Desai,45,Female,AB-,Pune,General Medicine,Dr. Anjali Singh,Diabetes,Emergency,83588.56,49177.31,2024-12-30,2025-01-16,17,12,2024,Dec
+2099,Neha Bhat,32,Male,O-,Kolkata,Emergency,Dr. Pooja Joshi,Trauma,Referral,62860.12,20600.49,2024-06-07,2024-06-17,10,6,2024,Jun
+2100,Neha Sharma,11,Male,AB-,Chennai,Oncology,Dr. Lakshmi Desai,Lung Cancer,Referral,112214.19,77053.5,2023-06-11,2023-06-21,10,6,2023,Jun
+2101,Rahul Patel,77,Male,O-,Kolkata,Orthopedics,Dr. Amit Verma,Fracture,Emergency,19774.5,6367.76,2024-06-05,2024-06-11,6,6,2024,Jun
+2102,Neha Singh,76,Female,AB-,Mumbai,Cardiology,Dr. Rajesh Khanna,Hypertension,Emergency,18430.7,9058.5,2024-04-28,2024-05-16,18,4,2024,Apr
+2103,Priya Reddy,16,Male,O+,Nagpur,General Medicine,Dr. Deepak Patel,Typhoid,Referral,42513.19,32181.37,2024-07-20,2024-08-04,15,7,2024,Jul
+2104,Rahul Pillai,38,Female,O+,Nagpur,Neurology,Dr. Suresh Iyer,Parkinson's Disease,Referral,68565.82,34840.23,2023-11-26,2023-12-05,9,11,2023,Nov
+2105,Neha Mehta,37,Male,B-,Chennai,Gynecology,Dr. Neha Sharma,Uterine Fibroids,Referral,84297.02,41002.41,2023-03-21,2023-04-07,17,3,2023,Mar
+2106,Divya Joshi,52,Female,O-,Delhi,General Medicine,Dr. Deepak Patel,Diabetes,Emergency,108537.64,60551.75,2023-08-17,2023-09-04,18,8,2023,Aug
+2107,Sunita Verma,27,Male,B+,Pune,Cardiology,Dr. Rajesh Khanna,Heart Failure,Elective,123663.59,54554.62,2024-04-21,2024-05-08,17,4,2024,Apr
+2108,Manoj Bhat,66,Male,O-,Pune,Cardiology,Dr. Rajesh Khanna,Arrhythmia,Emergency,9278.09,2820.4,2024-07-20,2024-08-04,15,7,2024,Jul
+2109,Divya Rao,41,Female,AB-,Nagpur,Neurology,Dr. Kavya Pillai,Epilepsy,Referral,44266.92,23548.38,2024-09-29,2024-10-13,14,9,2024,Sep
+2110,Divya Pandey,48,Female,AB-,Bangalore,Orthopedics,Dr. Amit Verma,Joint Replacement,Emergency,56454.82,39404.72,2024-07-13,2024-07-21,8,7,2024,Jul
+2111,Vijay Kumar,39,Male,B+,Hyderabad,Neurology,Dr. Kavya Pillai,Stroke,Referral,102566.39,58542.09,2023-01-25,2023-01-26,1,1,2023,Jan
+2112,Sneha Pandey,69,Female,A+,Bangalore,Cardiology,Dr. Sunita Rao,Heart Attack,Referral,53290.06,33500.9,2023-01-02,2023-01-18,16,1,2023,Jan
+2113,Anjali Pandey,51,Male,AB-,Mumbai,Emergency,Dr. Rohit Kumar,Burns,Elective,76557.64,60599.8,2023-07-30,2023-08-18,19,7,2023,Jul
+2114,Meera Chauhan,82,Female,B-,Hyderabad,Orthopedics,Dr. Amit Verma,Joint Replacement,Emergency,62629.98,27551.72,2023-05-26,2023-06-09,14,5,2023,May
+2115,Priya Kumar,7,Female,AB+,Hyderabad,Pediatrics,Dr. Arjun Shah,Pneumonia,Referral,47266.88,22983.33,2024-12-18,2025-01-01,14,12,2024,Dec
+2116,Priya Mishra,5,Male,AB+,Chennai,General Medicine,Dr. Deepak Patel,Diabetes,Elective,138511.16,85684.09,2024-06-01,2024-06-18,17,6,2024,Jun
+2117,Rohit Kumar,9,Male,A-,Nagpur,General Medicine,Dr. Deepak Patel,Diabetes,Emergency,43983.76,34400.1,2024-03-21,2024-03-28,7,3,2024,Mar
+2118,Neha Joshi,18,Male,A-,Bangalore,Neurology,Dr. Kavya Pillai,Epilepsy,Referral,101637.14,71187.51,2023-11-19,2023-11-24,5,11,2023,Nov
+2119,Vijay Desai,31,Female,AB+,Bangalore,Oncology,Dr. Lakshmi Desai,Blood Cancer,Emergency,96385.85,40174.16,2024-04-08,2024-04-10,2,4,2024,Apr
+2120,Arjun Verma,13,Female,AB+,Nagpur,Orthopedics,Dr. Amit Verma,Arthritis,Elective,67002.19,25607.4,2023-06-09,2023-06-15,6,6,2023,Jun
+2121,Meera Gupta,83,Male,O+,Bangalore,Neurology,Dr. Kavya Pillai,Epilepsy,Emergency,140760.69,67444.6,2023-05-04,2023-05-15,11,5,2023,May
+2122,Suresh Chauhan,19,Male,B-,Kolkata,Cardiology,Dr. Sunita Rao,Heart Failure,Emergency,77511.62,56292.12,2024-04-19,2024-04-21,2,4,2024,Apr
+2123,Neha Singh,46,Female,B+,Nagpur,Oncology,Dr. Lakshmi Desai,Lung Cancer,Emergency,48651.68,29271.34,2024-12-22,2025-01-04,13,12,2024,Dec
+2124,Arjun Desai,81,Female,A-,Chennai,Pediatrics,Dr. Meera Gupta,Asthma,Elective,76208.88,32320.9,2023-04-04,2023-04-15,11,4,2023,Apr
+2125,Sneha Patel,55,Female,O+,Delhi,Emergency,Dr. Rohit Kumar,Trauma,Emergency,45750.52,19676.54,2024-11-24,2024-12-09,15,11,2024,Nov
+2126,Sunita Sharma,67,Male,O+,Hyderabad,General Medicine,Dr. Anjali Singh,Diabetes,Emergency,100000.19,67404.05,2024-04-08,2024-04-14,6,4,2024,Apr
+2127,Rahul Rao,56,Male,B+,Chennai,Orthopedics,Dr. Priya Nair,Fracture,Emergency,21222.69,14790.2,2023-04-15,2023-04-21,6,4,2023,Apr
+2128,Pooja Pandey,8,Male,O+,Pune,Pediatrics,Dr. Meera Gupta,Fever,Elective,31918.77,12737.71,2023-08-16,2023-09-02,17,8,2023,Aug
+2129,Divya Iyer,27,Female,O-,Mumbai,General Medicine,Dr. Deepak Patel,Malaria,Emergency,109482.0,47012.7,2024-08-19,2024-08-26,7,8,2024,Aug
+2130,Vijay Mishra,19,Male,B-,Delhi,Oncology,Dr. Vijay Reddy,Breast Cancer,Emergency,21012.62,13090.72,2023-07-22,2023-08-10,19,7,2023,Jul
+2131,Priya Gupta,47,Female,AB+,Pune,Orthopedics,Dr. Priya Nair,Fracture,Emergency,139061.35,107235.82,2023-05-06,2023-05-10,4,5,2023,May
+2132,Deepak Sharma,33,Male,AB-,Hyderabad,Neurology,Dr. Kavya Pillai,Migraine,Referral,82655.3,26015.02,2024-02-09,2024-02-19,10,2,2024,Feb
+2133,Deepak Mehta,40,Female,B+,Bangalore,Neurology,Dr. Suresh Iyer,Parkinson's Disease,Elective,49630.4,37428.87,2023-12-29,2024-01-11,13,12,2023,Dec
+2134,Arjun Nair,17,Female,AB+,Nagpur,Emergency,Dr. Pooja Joshi,Burns,Referral,52377.67,31796.04,2023-06-02,2023-06-07,5,6,2023,Jun
+2135,Meera Desai,36,Female,AB+,Hyderabad,Neurology,Dr. Kavya Pillai,Migraine,Elective,44367.32,32893.46,2024-05-25,2024-06-04,10,5,2024,May
+2136,Divya Verma,75,Male,A+,Chennai,Orthopedics,Dr. Amit Verma,Fracture,Emergency,19872.35,7325.31,2023-10-14,2023-10-31,17,10,2023,Oct
+2137,Vijay Nair,63,Male,O-,Mumbai,Neurology,Dr. Suresh Iyer,Migraine,Elective,125186.34,82208.03,2024-01-27,2024-02-15,19,1,2024,Jan
+2138,Vijay Patel,32,Male,B+,Chennai,Neurology,Dr. Kavya Pillai,Parkinson's Disease,Elective,129528.43,59686.99,2024-08-02,2024-08-11,9,8,2024,Aug
+2139,Manoj Desai,70,Female,O+,Delhi,General Medicine,Dr. Deepak Patel,Typhoid,Elective,54993.31,22520.32,2023-11-23,2023-12-10,17,11,2023,Nov
+2140,Priya Reddy,46,Female,AB-,Delhi,Pediatrics,Dr. Arjun Shah,Fever,Emergency,28252.98,19308.68,2024-06-26,2024-07-05,9,6,2024,Jun
+2141,Priya Patel,49,Female,B+,Mumbai,General Medicine,Dr. Deepak Patel,Typhoid,Referral,109679.74,46128.71,2023-09-11,2023-09-24,13,9,2023,Sep
+2142,Manoj Iyer,66,Female,O+,Kolkata,Neurology,Dr. Suresh Iyer,Stroke,Elective,22044.94,17444.87,2024-08-12,2024-08-28,16,8,2024,Aug
+2143,Kiran Pillai,61,Female,AB+,Pune,Cardiology,Dr. Rajesh Khanna,Arrhythmia,Referral,130131.0,77591.88,2023-06-30,2023-07-08,8,6,2023,Jun
+2144,Pooja Patel,10,Male,AB-,Pune,Pediatrics,Dr. Meera Gupta,Asthma,Referral,79665.34,37908.04,2024-12-21,2025-01-02,12,12,2024,Dec
+2145,Kiran Singh,32,Female,O+,Delhi,Cardiology,Dr. Rajesh Khanna,Hypertension,Elective,55058.34,25025.48,2024-05-19,2024-05-20,1,5,2024,May
+2146,Pooja Singh,32,Male,B-,Delhi,Neurology,Dr. Suresh Iyer,Stroke,Emergency,132841.06,79815.08,2023-02-27,2023-03-09,10,2,2023,Feb
+2147,Lakshmi Singh,48,Male,O+,Bangalore,Cardiology,Dr. Rajesh Khanna,Heart Failure,Emergency,20275.1,12308.35,2023-12-06,2023-12-21,15,12,2023,Dec
+2148,Neha Mishra,34,Female,A+,Nagpur,Orthopedics,Dr. Amit Verma,Back Pain,Referral,35724.68,11108.82,2023-11-28,2023-12-07,9,11,2023,Nov
+2149,Sneha Bhat,66,Male,O-,Bangalore,Orthopedics,Dr. Amit Verma,Arthritis,Emergency,13371.16,6450.85,2024-06-22,2024-06-29,7,6,2024,Jun
+2150,Neha Bhat,79,Male,AB+,Bangalore,Neurology,Dr. Kavya Pillai,Epilepsy,Elective,53672.71,25133.89,2024-08-23,2024-09-11,19,8,2024,Aug
+2151,Lakshmi Patel,66,Female,O+,Kolkata,General Medicine,Dr. Deepak Patel,Typhoid,Elective,148005.77,91709.26,2024-03-23,2024-03-31,8,3,2024,Mar
+2152,Lakshmi Singh,5,Male,O-,Pune,Neurology,Dr. Suresh Iyer,Epilepsy,Referral,67196.93,39040.65,2024-12-25,2024-12-26,1,12,2024,Dec
+2153,Meera Bhat,31,Female,A-,Kolkata,Pediatrics,Dr. Meera Gupta,Asthma,Elective,64720.39,45772.01,2024-11-12,2024-11-22,10,11,2024,Nov
+2154,Manoj Pillai,66,Male,A-,Kolkata,General Medicine,Dr. Anjali Singh,Malaria,Referral,52495.06,34878.53,2023-05-11,2023-05-29,18,5,2023,May
+2155,Rohit Mehta,81,Male,O-,Mumbai,Pediatrics,Dr. Meera Gupta,Malnutrition,Referral,96555.74,44329.56,2023-07-06,2023-07-07,1,7,2023,Jul
+2156,Vijay Reddy,7,Male,O-,Pune,Pediatrics,Dr. Meera Gupta,Pneumonia,Emergency,106010.95,49357.02,2024-05-23,2024-06-05,13,5,2024,May
+2157,Neha Mehta,74,Male,A+,Nagpur,Pediatrics,Dr. Arjun Shah,Pneumonia,Emergency,25712.08,15892.47,2023-11-24,2023-12-01,7,11,2023,Nov
+2158,Deepak Verma,76,Female,B-,Chennai,General Medicine,Dr. Anjali Singh,Malaria,Referral,21571.44,8733.03,2023-01-12,2023-01-19,7,1,2023,Jan
+2159,Kavya Chauhan,31,Male,AB+,Delhi,General Medicine,Dr. Anjali Singh,Diabetes,Emergency,34625.88,12258.16,2023-09-20,2023-09-23,3,9,2023,Sep
+2160,Rohit Singh,13,Female,B+,Delhi,Pediatrics,Dr. Arjun Shah,Fever,Emergency,7627.99,3888.95,2024-03-24,2024-03-25,1,3,2024,Mar
+2161,Aarav Chauhan,66,Male,A+,Nagpur,Oncology,Dr. Lakshmi Desai,Colon Cancer,Emergency,86298.35,49449.99,2024-01-23,2024-01-26,3,1,2024,Jan
+2162,Lakshmi Bhat,41,Female,B-,Kolkata,General Medicine,Dr. Deepak Patel,Viral Fever,Emergency,6446.92,2171.68,2023-06-16,2023-07-02,16,6,2023,Jun
+2163,Sneha Singh,55,Female,O-,Bangalore,General Medicine,Dr. Deepak Patel,Malaria,Emergency,72433.01,56195.78,2023-11-23,2023-11-24,1,11,2023,Nov
+2164,Sunita Joshi,48,Female,B+,Mumbai,Emergency,Dr. Rohit Kumar,Burns,Referral,75338.73,50175.03,2024-01-20,2024-01-29,9,1,2024,Jan
+2165,Kiran Mehta,28,Male,O-,Kolkata,Neurology,Dr. Kavya Pillai,Stroke,Referral,82078.72,61281.05,2024-08-31,2024-09-09,9,8,2024,Aug
+2166,Amit Shah,83,Male,O-,Delhi,Pediatrics,Dr. Arjun Shah,Fever,Elective,128971.23,77854.62,2024-10-31,2024-11-19,19,10,2024,Oct
+2167,Rahul Rao,63,Male,A-,Hyderabad,Emergency,Dr. Rohit Kumar,Poisoning,Emergency,6938.31,2794.58,2023-04-14,2023-04-17,3,4,2023,Apr
+2168,Anjali Nair,36,Female,A-,Bangalore,Neurology,Dr. Kavya Pillai,Parkinson's Disease,Emergency,7248.71,3252.5,2024-11-07,2024-11-15,8,11,2024,Nov
+2169,Pooja Chauhan,56,Male,B+,Delhi,Orthopedics,Dr. Priya Nair,Fracture,Emergency,14711.17,10590.97,2024-08-08,2024-08-10,2,8,2024,Aug
+2170,Sunita Nair,66,Male,A+,Hyderabad,Emergency,Dr. Pooja Joshi,Accident Injury,Referral,31349.88,10778.53,2023-01-04,2023-01-16,12,1,2023,Jan
+2171,Lakshmi Pillai,62,Female,A-,Kolkata,General Medicine,Dr. Deepak Patel,Viral Fever,Referral,14651.89,5911.69,2023-04-10,2023-04-25,15,4,2023,Apr
+2172,Aarav Desai,56,Male,AB+,Nagpur,General Medicine,Dr. Deepak Patel,Malaria,Elective,70319.39,25157.08,2024-04-29,2024-05-12,13,4,2024,Apr
+2173,Kavya Kumar,16,Female,O-,Nagpur,Pediatrics,Dr. Arjun Shah,Malnutrition,Referral,38574.52,13330.14,2024-11-07,2024-11-22,15,11,2024,Nov
+2174,Amit Mehta,43,Male,AB-,Bangalore,Emergency,Dr. Rohit Kumar,Trauma,Emergency,51568.51,25305.83,2024-01-15,2024-01-25,10,1,2024,Jan
+2175,Sneha Kumar,6,Male,O+,Delhi,Orthopedics,Dr. Amit Verma,Joint Replacement,Emergency,59017.32,31428.43,2023-09-27,2023-10-11,14,9,2023,Sep
+2176,Sunita Verma,7,Female,B+,Pune,Cardiology,Dr. Rajesh Khanna,Arrhythmia,Emergency,72314.59,46876.88,2023-06-04,2023-06-08,4,6,2023,Jun
+2177,Suresh Nair,60,Male,B+,Hyderabad,General Medicine,Dr. Anjali Singh,Diabetes,Referral,139746.82,109750.55,2024-07-08,2024-07-19,11,7,2024,Jul
+2178,Lakshmi Joshi,63,Female,A-,Mumbai,Neurology,Dr. Suresh Iyer,Migraine,Referral,100944.22,56659.1,2024-02-01,2024-02-03,2,2,2024,Feb
+2179,Rohit Joshi,6,Male,A+,Delhi,Pediatrics,Dr. Meera Gupta,Malnutrition,Referral,117057.39,39738.35,2024-05-02,2024-05-04,2,5,2024,May
+2180,Suresh Pillai,6,Male,O-,Mumbai,Pediatrics,Dr. Meera Gupta,Fever,Emergency,116144.68,78815.13,2023-05-04,2023-05-08,4,5,2023,May
+2181,Divya Mehta,58,Female,AB+,Delhi,General Medicine,Dr. Deepak Patel,Typhoid,Emergency,80555.61,25885.57,2023-07-17,2023-07-22,5,7,2023,Jul
+2182,Priya Singh,5,Female,A+,Pune,Neurology,Dr. Suresh Iyer,Parkinson's Disease,Elective,7121.1,5106.21,2024-10-04,2024-10-21,17,10,2024,Oct
+2183,Meera Mehta,23,Female,B-,Pune,Orthopedics,Dr. Amit Verma,Back Pain,Referral,112626.71,65118.75,2023-03-31,2023-04-12,12,3,2023,Mar
+2184,Priya Sharma,6,Male,B-,Bangalore,Cardiology,Dr. Sunita Rao,Arrhythmia,Emergency,55309.59,41956.8,2024-06-16,2024-06-25,9,6,2024,Jun
+2185,Rohit Verma,57,Female,AB-,Bangalore,Neurology,Dr. Suresh Iyer,Parkinson's Disease,Referral,42443.5,15878.11,2024-02-29,2024-03-17,17,2,2024,Feb
+2186,Suresh Gupta,48,Male,A-,Pune,General Medicine,Dr. Deepak Patel,Diabetes,Elective,128624.82,45082.38,2024-07-30,2024-08-03,4,7,2024,Jul
+2187,Arjun Desai,36,Male,A-,Chennai,Pediatrics,Dr. Arjun Shah,Asthma,Referral,49501.15,31056.72,2023-09-28,2023-10-08,10,9,2023,Sep
+2188,Meera Desai,74,Female,A-,Pune,Neurology,Dr. Suresh Iyer,Parkinson's Disease,Referral,44286.69,22209.2,2023-06-26,2023-07-07,11,6,2023,Jun
+2189,Aarav Kumar,36,Male,AB-,Nagpur,Orthopedics,Dr. Amit Verma,Joint Replacement,Referral,91966.84,68007.53,2024-02-10,2024-02-18,8,2,2024,Feb
+2190,Rahul Verma,72,Female,B-,Nagpur,Emergency,Dr. Rohit Kumar,Poisoning,Elective,110029.94,47785.14,2024-05-01,2024-05-13,12,5,2024,May
+2191,Sunita Patel,59,Male,A+,Chennai,General Medicine,Dr. Anjali Singh,Diabetes,Elective,16160.89,7113.59,2023-11-07,2023-11-23,16,11,2023,Nov
+2192,Anjali Bhat,79,Male,AB-,Kolkata,General Medicine,Dr. Deepak Patel,Diabetes,Elective,69359.58,54593.6,2023-05-18,2023-05-30,12,5,2023,May
+2193,Sunita Verma,60,Female,AB-,Hyderabad,Pediatrics,Dr. Arjun Shah,Asthma,Emergency,44432.18,27671.36,2024-03-02,2024-03-19,17,3,2024,Mar
+2194,Meera Verma,21,Female,A+,Kolkata,General Medicine,Dr. Deepak Patel,Viral Fever,Referral,97330.45,52775.51,2024-02-21,2024-03-07,15,2,2024,Feb
+2195,Priya Nair,42,Female,A-,Mumbai,General Medicine,Dr. Deepak Patel,Malaria,Elective,81665.04,30990.76,2024-06-11,2024-06-12,1,6,2024,Jun
+2196,Anjali Patel,28,Female,AB+,Kolkata,Oncology,Dr. Vijay Reddy,Colon Cancer,Emergency,36713.76,21453.18,2024-06-20,2024-07-04,14,6,2024,Jun
+2197,Anjali Joshi,73,Female,A+,Delhi,General Medicine,Dr. Deepak Patel,Typhoid,Emergency,100985.5,31965.5,2023-03-01,2023-03-11,10,3,2023,Mar
+2198,Neha Kumar,74,Female,B-,Kolkata,Oncology,Dr. Vijay Reddy,Blood Cancer,Referral,71920.82,51189.87,2023-10-08,2023-10-12,4,10,2023,Oct
+2199,Anjali Desai,15,Female,B+,Delhi,Gynecology,Dr. Divya Mehta,Menstrual Disorder,Elective,113436.59,47753.29,2024-11-28,2024-12-03,5,11,2024,Nov
+2200,Meera Kulkarni,20,Male,O-,Chennai,Cardiology,Dr. Rajesh Khanna,Heart Failure,Elective,9516.62,5478.4,2024-04-30,2024-05-08,8,4,2024,Apr
+2201,Amit Rao,77,Male,B+,Nagpur,Orthopedics,Dr. Priya Nair,Arthritis,Elective,65209.94,28857.66,2024-12-06,2024-12-12,6,12,2024,Dec
+2202,Pooja Gupta,63,Male,O+,Bangalore,Emergency,Dr. Rohit Kumar,Accident Injury,Emergency,85813.89,67145.83,2024-08-08,2024-08-23,15,8,2024,Aug
+2203,Meera Sharma,74,Female,O+,Delhi,Cardiology,Dr. Rajesh Khanna,Hypertension,Emergency,118647.0,59887.5,2023-10-03,2023-10-21,18,10,2023,Oct
+2204,Pooja Reddy,84,Female,AB-,Nagpur,Neurology,Dr. Kavya Pillai,Stroke,Emergency,133777.14,51718.29,2023-05-16,2023-05-30,14,5,2023,May
+2205,Meera Rao,7,Male,O-,Hyderabad,Orthopedics,Dr. Priya Nair,Arthritis,Referral,149442.86,115295.54,2024-09-14,2024-09-21,7,9,2024,Sep
+2206,Suresh Gupta,24,Female,B+,Mumbai,Oncology,Dr. Lakshmi Desai,Blood Cancer,Elective,113460.69,53820.6,2024-01-21,2024-01-23,2,1,2024,Jan
+2207,Sneha Mishra,63,Female,AB+,Hyderabad,Oncology,Dr. Lakshmi Desai,Lung Cancer,Referral,18763.1,10513.32,2023-11-06,2023-11-12,6,11,2023,Nov
+2208,Priya Iyer,40,Male,A-,Chennai,Gynecology,Dr. Divya Mehta,Menstrual Disorder,Elective,140367.81,112254.2,2023-01-08,2023-01-19,11,1,2023,Jan
+2209,Neha Joshi,23,Female,B-,Kolkata,Oncology,Dr. Lakshmi Desai,Blood Cancer,Elective,5829.19,3152.83,2024-12-01,2024-12-11,10,12,2024,Dec
+2210,Arjun Shah,71,Female,O+,Kolkata,Pediatrics,Dr. Arjun Shah,Asthma,Referral,49084.39,30827.93,2023-10-11,2023-10-26,15,10,2023,Oct
+2211,Kavya Rao,23,Male,AB+,Pune,Orthopedics,Dr. Amit Verma,Back Pain,Emergency,8251.75,5633.78,2023-06-03,2023-06-06,3,6,2023,Jun
+2212,Neha Sharma,24,Female,B-,Pune,Neurology,Dr. Kavya Pillai,Parkinson's Disease,Referral,63871.71,42196.31,2024-11-28,2024-12-17,19,11,2024,Nov
+2213,Vijay Mishra,75,Male,B-,Pune,Cardiology,Dr. Sunita Rao,Heart Failure,Elective,50268.47,25600.87,2023-09-23,2023-10-09,16,9,2023,Sep
+2214,Rohit Mehta,56,Female,A-,Hyderabad,Cardiology,Dr. Rajesh Khanna,Heart Attack,Referral,137907.48,90561.72,2023-12-18,2024-01-01,14,12,2023,Dec
+2215,Rahul Mehta,37,Female,O-,Delhi,General Medicine,Dr. Anjali Singh,Viral Fever,Referral,10646.01,7693.97,2024-06-03,2024-06-07,4,6,2024,Jun
+2216,Anjali Pillai,44,Female,AB-,Mumbai,Oncology,Dr. Lakshmi Desai,Lung Cancer,Elective,5775.19,2102.01,2023-04-10,2023-04-21,11,4,2023,Apr
+2217,Deepak Desai,43,Male,B+,Pune,Emergency,Dr. Pooja Joshi,Poisoning,Emergency,130342.82,53587.42,2024-11-01,2024-11-06,5,11,2024,Nov
+2218,Rohit Sharma,5,Female,A-,Chennai,General Medicine,Dr. Anjali Singh,Malaria,Elective,148648.48,63960.41,2023-12-06,2023-12-10,4,12,2023,Dec
+2219,Sneha Mehta,15,Female,AB+,Chennai,General Medicine,Dr. Deepak Patel,Viral Fever,Referral,103038.18,75547.25,2024-04-26,2024-05-07,11,4,2024,Apr
+2220,Pooja Bhat,61,Male,AB-,Pune,Cardiology,Dr. Sunita Rao,Heart Attack,Referral,91543.52,32947.24,2023-07-19,2023-08-04,16,7,2023,Jul
+2221,Suresh Patel,54,Female,AB+,Kolkata,Emergency,Dr. Pooja Joshi,Trauma,Emergency,58865.46,43291.11,2024-02-28,2024-03-13,14,2,2024,Feb
+2222,Sneha Kulkarni,27,Male,AB-,Pune,General Medicine,Dr. Deepak Patel,Typhoid,Elective,149366.51,118536.63,2023-12-17,2023-12-22,5,12,2023,Dec
+2223,Meera Shah,35,Female,O-,Mumbai,Gynecology,Dr. Neha Sharma,PCOS,Elective,129851.57,44202.22,2023-07-04,2023-07-08,4,7,2023,Jul
+2224,Rohit Pandey,46,Male,O+,Pune,Pediatrics,Dr. Arjun Shah,Pneumonia,Elective,91007.94,27516.87,2024-10-11,2024-10-17,6,10,2024,Oct
+2225,Lakshmi Pillai,11,Male,AB+,Mumbai,Cardiology,Dr. Rajesh Khanna,Hypertension,Emergency,125760.63,47690.64,2024-08-13,2024-08-24,11,8,2024,Aug
+2226,Sneha Mishra,20,Male,A-,Chennai,Neurology,Dr. Kavya Pillai,Migraine,Elective,20959.18,10515.15,2024-10-10,2024-10-28,18,10,2024,Oct
+2227,Manoj Joshi,64,Female,AB-,Pune,Emergency,Dr. Rohit Kumar,Trauma,Elective,77552.12,30998.13,2023-02-08,2023-02-20,12,2,2023,Feb
+2228,Suresh Patel,6,Male,AB-,Hyderabad,General Medicine,Dr. Anjali Singh,Diabetes,Emergency,15121.09,4671.78,2024-06-27,2024-07-06,9,6,2024,Jun
+2229,Meera Sharma,5,Female,B-,Bangalore,Pediatrics,Dr. Meera Gupta,Pneumonia,Emergency,97211.35,45900.76,2024-12-11,2024-12-12,1,12,2024,Dec
+2230,Kiran Desai,52,Male,B-,Hyderabad,General Medicine,Dr. Anjali Singh,Diabetes,Emergency,34604.15,15677.67,2024-05-30,2024-06-14,15,5,2024,May
+2231,Vijay Shah,16,Male,A+,Chennai,Cardiology,Dr. Sunita Rao,Heart Attack,Referral,101825.29,67603.43,2023-10-25,2023-11-12,18,10,2023,Oct
+2232,Meera Singh,73,Female,AB+,Mumbai,Oncology,Dr. Lakshmi Desai,Blood Cancer,Elective,13787.71,6499.06,2024-12-04,2024-12-18,14,12,2024,Dec
+2233,Rohit Kulkarni,41,Female,B-,Hyderabad,General Medicine,Dr. Deepak Patel,Malaria,Elective,93406.13,70376.58,2023-06-18,2023-06-19,1,6,2023,Jun
+2234,Rohit Kumar,36,Male,A+,Mumbai,General Medicine,Dr. Deepak Patel,Diabetes,Emergency,70956.5,56228.75,2023-08-18,2023-08-30,12,8,2023,Aug
+2235,Kavya Pillai,13,Female,O+,Hyderabad,General Medicine,Dr. Deepak Patel,Diabetes,Emergency,82710.59,54221.34,2023-05-07,2023-05-13,6,5,2023,May
+2236,Kavya Pandey,23,Female,O+,Hyderabad,Pediatrics,Dr. Arjun Shah,Malnutrition,Emergency,27285.2,8848.41,2024-07-01,2024-07-14,13,7,2024,Jul
+2237,Rohit Mishra,52,Female,B-,Mumbai,Pediatrics,Dr. Meera Gupta,Fever,Elective,98173.75,35135.89,2023-02-19,2023-02-25,6,2,2023,Feb
+2238,Kavya Desai,84,Male,AB+,Delhi,Cardiology,Dr. Rajesh Khanna,Heart Failure,Emergency,90961.83,48864.53,2024-07-14,2024-07-25,11,7,2024,Jul
+2239,Amit Joshi,7,Male,AB-,Hyderabad,Neurology,Dr. Suresh Iyer,Migraine,Referral,14646.5,9239.49,2023-11-05,2023-11-13,8,11,2023,Nov
+2240,Meera Mishra,24,Female,B+,Pune,Orthopedics,Dr. Amit Verma,Back Pain,Referral,92992.81,69680.53,2024-03-04,2024-03-21,17,3,2024,Mar
+2241,Pooja Kulkarni,28,Male,O-,Bangalore,Emergency,Dr. Pooja Joshi,Accident Injury,Emergency,105148.57,37131.31,2023-04-27,2023-05-13,16,4,2023,Apr
+2242,Manoj Nair,58,Female,AB+,Chennai,General Medicine,Dr. Anjali Singh,Typhoid,Referral,130134.54,52162.69,2024-06-19,2024-07-05,16,6,2024,Jun
+2243,Deepak Desai,37,Female,O-,Delhi,Emergency,Dr. Pooja Joshi,Trauma,Emergency,59438.96,34122.09,2023-06-14,2023-06-30,16,6,2023,Jun
+2244,Aarav Nair,28,Female,A-,Mumbai,Oncology,Dr. Lakshmi Desai,Colon Cancer,Emergency,149599.5,45833.5,2023-08-29,2023-09-07,9,8,2023,Aug
+2245,Kavya Joshi,79,Female,O+,Delhi,Cardiology,Dr. Sunita Rao,Heart Attack,Referral,105225.71,36307.22,2023-06-02,2023-06-12,10,6,2023,Jun
+2246,Meera Bhat,76,Female,B-,Nagpur,General Medicine,Dr. Deepak Patel,Diabetes,Elective,141412.13,58768.07,2023-09-20,2023-09-28,8,9,2023,Sep
+2247,Lakshmi Reddy,40,Male,B-,Nagpur,General Medicine,Dr. Anjali Singh,Malaria,Emergency,53615.46,37884.11,2023-02-21,2023-03-07,14,2,2023,Feb
+2248,Arjun Chauhan,42,Female,O-,Hyderabad,Cardiology,Dr. Sunita Rao,Arrhythmia,Emergency,123461.22,63335.31,2024-11-24,2024-12-06,12,11,2024,Nov
+2249,Arjun Joshi,29,Male,AB-,Hyderabad,Oncology,Dr. Vijay Reddy,Breast Cancer,Referral,85022.18,31389.95,2023-01-10,2023-01-29,19,1,2023,Jan
+2250,Kiran Iyer,22,Male,O-,Pune,Oncology,Dr. Lakshmi Desai,Lung Cancer,Referral,35565.0,18453.16,2024-01-02,2024-01-09,7,1,2024,Jan
+2251,Pooja Singh,70,Female,A-,Bangalore,Orthopedics,Dr. Amit Verma,Back Pain,Emergency,43941.51,20712.33,2024-01-17,2024-02-04,18,1,2024,Jan
+2252,Kavya Pillai,58,Female,AB-,Chennai,Cardiology,Dr. Sunita Rao,Heart Failure,Referral,26354.96,18919.02,2024-04-12,2024-04-27,15,4,2024,Apr
+2253,Lakshmi Reddy,39,Female,A-,Delhi,Gynecology,Dr. Neha Sharma,Menstrual Disorder,Emergency,21592.57,15081.43,2024-10-26,2024-11-03,8,10,2024,Oct
+2254,Rahul Rao,84,Female,B+,Nagpur,Cardiology,Dr. Rajesh Khanna,Hypertension,Referral,35054.58,17808.21,2023-06-13,2023-06-21,8,6,2023,Jun
+2255,Kavya Rao,65,Male,O+,Hyderabad,General Medicine,Dr. Anjali Singh,Viral Fever,Elective,42187.14,20666.44,2023-07-05,2023-07-15,10,7,2023,Jul
+2256,Vijay Verma,45,Male,B-,Kolkata,Neurology,Dr. Suresh Iyer,Stroke,Elective,14071.9,7655.98,2024-05-09,2024-05-22,13,5,2024,May
+2257,Aarav Patel,37,Female,B-,Kolkata,Orthopedics,Dr. Amit Verma,Joint Replacement,Emergency,26303.68,16505.21,2023-03-06,2023-03-10,4,3,2023,Mar
+2258,Neha Iyer,72,Male,B+,Chennai,Neurology,Dr. Kavya Pillai,Migraine,Referral,125250.56,80676.49,2024-06-15,2024-06-17,2,6,2024,Jun
+2259,Lakshmi Singh,37,Male,A+,Delhi,General Medicine,Dr. Anjali Singh,Diabetes,Elective,121551.71,51572.99,2024-11-08,2024-11-22,14,11,2024,Nov
+2260,Arjun Pandey,18,Male,O+,Hyderabad,Cardiology,Dr. Rajesh Khanna,Heart Failure,Emergency,118180.62,93823.1,2024-07-25,2024-07-31,6,7,2024,Jul
+2261,Manoj Joshi,25,Male,AB-,Hyderabad,Orthopedics,Dr. Amit Verma,Fracture,Elective,5455.43,2916.72,2024-06-01,2024-06-04,3,6,2024,Jun
+2262,Deepak Iyer,52,Male,B+,Nagpur,Cardiology,Dr. Rajesh Khanna,Hypertension,Elective,69053.24,29033.15,2024-05-18,2024-06-04,17,5,2024,May
+2263,Deepak Rao,24,Male,AB-,Nagpur,Gynecology,Dr. Divya Mehta,Pregnancy,Emergency,124245.28,60795.55,2024-07-17,2024-07-27,10,7,2024,Jul
+2264,Amit Sharma,12,Male,O-,Hyderabad,Cardiology,Dr. Sunita Rao,Heart Attack,Emergency,71472.56,41919.9,2024-03-30,2024-04-01,2,3,2024,Mar
+2265,Sneha Pandey,11,Male,AB+,Mumbai,General Medicine,Dr. Anjali Singh,Viral Fever,Referral,84349.44,66664.35,2023-11-20,2023-12-06,16,11,2023,Nov
+2266,Neha Gupta,71,Female,B-,Hyderabad,Gynecology,Dr. Divya Mehta,Pregnancy,Referral,130019.43,41335.25,2024-02-18,2024-03-06,17,2,2024,Feb
+2267,Kiran Chauhan,21,Male,AB-,Chennai,Orthopedics,Dr. Amit Verma,Fracture,Elective,86570.5,52767.58,2024-09-10,2024-09-17,7,9,2024,Sep
+2268,Priya Desai,37,Male,A-,Hyderabad,General Medicine,Dr. Anjali Singh,Typhoid,Emergency,58862.75,41948.86,2023-12-16,2023-12-24,8,12,2023,Dec
+2269,Neha Kumar,52,Female,AB-,Pune,Orthopedics,Dr. Priya Nair,Joint Replacement,Elective,73275.77,44689.35,2024-07-27,2024-08-14,18,7,2024,Jul
+2270,Arjun Verma,80,Male,AB+,Bangalore,General Medicine,Dr. Anjali Singh,Malaria,Emergency,75061.23,51016.11,2023-04-27,2023-05-09,12,4,2023,Apr
+2271,Arjun Pillai,63,Female,O+,Pune,Oncology,Dr. Lakshmi Desai,Breast Cancer,Elective,21966.7,13549.73,2023-12-30,2024-01-06,7,12,2023,Dec
+2272,Sunita Kulkarni,26,Female,B-,Pune,Oncology,Dr. Vijay Reddy,Blood Cancer,Emergency,52593.8,20094.92,2023-02-16,2023-03-04,16,2,2023,Feb
+2273,Rohit Chauhan,34,Male,O-,Mumbai,Pediatrics,Dr. Meera Gupta,Malnutrition,Emergency,33480.79,13324.04,2023-09-18,2023-09-26,8,9,2023,Sep
+2274,Lakshmi Pillai,42,Male,B+,Mumbai,Gynecology,Dr. Divya Mehta,Menstrual Disorder,Referral,78971.52,54546.43,2024-04-13,2024-04-18,5,4,2024,Apr
+2275,Meera Desai,55,Female,O-,Kolkata,General Medicine,Dr. Deepak Patel,Malaria,Referral,98488.06,75177.24,2024-02-29,2024-03-14,14,2,2024,Feb
+2276,Arjun Gupta,58,Female,AB+,Hyderabad,Orthopedics,Dr. Priya Nair,Fracture,Referral,140186.8,83363.21,2024-04-13,2024-04-20,7,4,2024,Apr
+2277,Divya Chauhan,12,Male,B-,Pune,General Medicine,Dr. Anjali Singh,Typhoid,Referral,24089.77,16094.54,2023-01-05,2023-01-11,6,1,2023,Jan
+2278,Suresh Rao,31,Female,AB-,Mumbai,Oncology,Dr. Lakshmi Desai,Colon Cancer,Emergency,36712.92,27923.16,2024-06-04,2024-06-07,3,6,2024,Jun
+2279,Suresh Pillai,31,Male,O+,Nagpur,Orthopedics,Dr. Amit Verma,Arthritis,Referral,135962.66,85488.01,2023-04-17,2023-04-19,2,4,2023,Apr
+2280,Divya Rao,25,Female,A+,Hyderabad,General Medicine,Dr. Anjali Singh,Malaria,Emergency,145639.35,110388.09,2024-03-04,2024-03-10,6,3,2024,Mar
+2281,Suresh Chauhan,34,Male,O+,Chennai,Pediatrics,Dr. Arjun Shah,Asthma,Emergency,59309.5,26516.49,2023-12-18,2023-12-24,6,12,2023,Dec
+2282,Rahul Nair,32,Female,A+,Bangalore,Oncology,Dr. Lakshmi Desai,Lung Cancer,Referral,134627.85,100057.9,2024-09-08,2024-09-11,3,9,2024,Sep
+2283,Neha Mehta,68,Female,A-,Delhi,Neurology,Dr. Kavya Pillai,Epilepsy,Referral,30392.86,23334.3,2024-12-29,2025-01-03,5,12,2024,Dec
+2284,Rohit Reddy,73,Female,O+,Hyderabad,General Medicine,Dr. Deepak Patel,Typhoid,Referral,41633.67,27361.33,2023-08-03,2023-08-12,9,8,2023,Aug
+2285,Sunita Singh,65,Female,B-,Delhi,Pediatrics,Dr. Meera Gupta,Asthma,Emergency,90395.3,71194.41,2024-12-28,2025-01-04,7,12,2024,Dec
+2286,Amit Verma,52,Male,A+,Pune,General Medicine,Dr. Deepak Patel,Malaria,Referral,131247.01,70897.66,2023-12-27,2024-01-09,13,12,2023,Dec
+2287,Neha Mishra,23,Male,B+,Bangalore,Oncology,Dr. Lakshmi Desai,Colon Cancer,Emergency,38648.08,11841.2,2024-03-08,2024-03-21,13,3,2024,Mar
+2288,Amit Joshi,8,Male,B-,Delhi,Orthopedics,Dr. Priya Nair,Fracture,Emergency,55926.81,35520.63,2023-05-29,2023-05-30,1,5,2023,May
+2289,Rahul Pandey,39,Male,B+,Pune,Cardiology,Dr. Rajesh Khanna,Arrhythmia,Emergency,138507.25,58904.43,2023-10-21,2023-10-29,8,10,2023,Oct
+2290,Meera Reddy,68,Female,O+,Nagpur,Cardiology,Dr. Rajesh Khanna,Arrhythmia,Elective,93441.53,44790.38,2024-07-08,2024-07-22,14,7,2024,Jul
+2291,Sunita Chauhan,53,Male,B+,Delhi,Emergency,Dr. Rohit Kumar,Accident Injury,Referral,136723.01,67601.78,2024-10-24,2024-11-08,15,10,2024,Oct
+2292,Meera Patel,21,Male,A+,Bangalore,Pediatrics,Dr. Meera Gupta,Asthma,Referral,117014.86,59476.68,2024-01-26,2024-02-12,17,1,2024,Jan
+2293,Vijay Pandey,48,Female,B-,Kolkata,General Medicine,Dr. Deepak Patel,Malaria,Referral,115261.53,49063.44,2023-01-14,2023-01-16,2,1,2023,Jan
+2294,Deepak Bhat,34,Female,AB-,Hyderabad,Pediatrics,Dr. Meera Gupta,Malnutrition,Elective,140599.95,92061.01,2024-10-10,2024-10-17,7,10,2024,Oct
+2295,Aarav Bhat,50,Female,AB+,Pune,Neurology,Dr. Suresh Iyer,Migraine,Referral,124995.19,48587.25,2023-10-29,2023-11-12,14,10,2023,Oct
+2296,Deepak Iyer,10,Female,A+,Hyderabad,Cardiology,Dr. Rajesh Khanna,Heart Attack,Elective,54359.68,30274.18,2023-06-27,2023-07-13,16,6,2023,Jun
+2297,Aarav Shah,41,Male,A+,Bangalore,Pediatrics,Dr. Arjun Shah,Fever,Emergency,137037.83,59216.76,2023-10-13,2023-10-28,15,10,2023,Oct
+2298,Kavya Mishra,28,Male,AB-,Mumbai,Pediatrics,Dr. Meera Gupta,Asthma,Emergency,128682.39,84266.97,2023-12-05,2023-12-06,1,12,2023,Dec
+2299,Meera Desai,50,Female,B-,Pune,Emergency,Dr. Rohit Kumar,Accident Injury,Referral,28298.54,9209.13,2023-11-27,2023-12-12,15,11,2023,Nov
+2300,Sunita Kulkarni,57,Female,B-,Delhi,Cardiology,Dr. Sunita Rao,Arrhythmia,Referral,36247.61,17364.16,2024-08-09,2024-08-11,2,8,2024,Aug
+2301,Neha Iyer,64,Male,O-,Pune,Neurology,Dr. Suresh Iyer,Epilepsy,Referral,110066.75,36772.01,2023-07-08,2023-07-20,12,7,2023,Jul
+2302,Neha Mehta,67,Female,O+,Hyderabad,Cardiology,Dr. Sunita Rao,Hypertension,Elective,45752.21,22954.27,2024-07-10,2024-07-18,8,7,2024,Jul
+2303,Meera Iyer,36,Male,B+,Nagpur,Cardiology,Dr. Rajesh Khanna,Hypertension,Elective,93561.76,43556.11,2024-11-10,2024-11-11,1,11,2024,Nov
+2304,Aarav Mishra,37,Male,O+,Pune,Orthopedics,Dr. Priya Nair,Arthritis,Referral,113861.6,76978.06,2024-07-28,2024-08-16,19,7,2024,Jul
+2305,Rohit Mishra,71,Female,AB-,Delhi,Cardiology,Dr. Rajesh Khanna,Heart Attack,Referral,35563.31,18593.69,2024-11-15,2024-12-02,17,11,2024,Nov
+2306,Pooja Chauhan,22,Female,O+,Mumbai,Pediatrics,Dr. Meera Gupta,Pneumonia,Emergency,139725.98,64339.41,2024-11-29,2024-12-07,8,11,2024,Nov
+2307,Amit Kulkarni,29,Female,AB-,Kolkata,Neurology,Dr. Kavya Pillai,Parkinson's Disease,Referral,51117.19,22563.87,2024-07-07,2024-07-25,18,7,2024,Jul
+2308,Sunita Sharma,58,Male,B-,Chennai,General Medicine,Dr. Anjali Singh,Malaria,Referral,81086.67,36344.42,2024-05-13,2024-06-01,19,5,2024,May
+2309,Deepak Bhat,62,Female,B+,Nagpur,General Medicine,Dr. Anjali Singh,Typhoid,Emergency,65694.43,50854.45,2024-06-10,2024-06-13,3,6,2024,Jun
+2310,Manoj Sharma,71,Male,O+,Kolkata,Orthopedics,Dr. Amit Verma,Fracture,Emergency,47597.51,29260.91,2023-08-04,2023-08-23,19,8,2023,Aug
+2311,Rahul Pandey,50,Male,A+,Mumbai,Cardiology,Dr. Rajesh Khanna,Heart Failure,Referral,43496.98,31073.13,2023-07-30,2023-08-06,7,7,2023,Jul
+2312,Amit Chauhan,28,Female,A-,Pune,General Medicine,Dr. Deepak Patel,Viral Fever,Referral,32884.93,10256.04,2024-12-03,2024-12-22,19,12,2024,Dec
+2313,Pooja Patel,36,Female,O-,Hyderabad,Orthopedics,Dr. Amit Verma,Back Pain,Elective,142338.41,46563.74,2023-03-31,2023-04-06,6,3,2023,Mar
+2314,Suresh Mishra,51,Female,AB+,Bangalore,Emergency,Dr. Rohit Kumar,Accident Injury,Referral,55809.92,27571.01,2023-09-22,2023-09-26,4,9,2023,Sep
+2315,Rohit Joshi,27,Female,A+,Hyderabad,Emergency,Dr. Pooja Joshi,Trauma,Emergency,144687.25,71584.15,2023-11-20,2023-11-24,4,11,2023,Nov
+2316,Arjun Reddy,70,Female,B-,Kolkata,Cardiology,Dr. Rajesh Khanna,Heart Attack,Emergency,107405.69,69861.07,2024-08-22,2024-09-08,17,8,2024,Aug
+2317,Rohit Mishra,31,Female,AB+,Delhi,General Medicine,Dr. Deepak Patel,Malaria,Referral,120199.72,77281.13,2023-10-24,2023-11-07,14,10,2023,Oct
+2318,Suresh Pandey,6,Male,A-,Hyderabad,Orthopedics,Dr. Priya Nair,Fracture,Referral,16446.21,8182.92,2024-03-24,2024-04-07,14,3,2024,Mar
+2319,Suresh Singh,21,Male,A-,Nagpur,Neurology,Dr. Kavya Pillai,Stroke,Referral,17903.51,7339.24,2023-06-10,2023-06-11,1,6,2023,Jun
+2320,Divya Sharma,37,Male,B+,Hyderabad,Gynecology,Dr. Neha Sharma,Menstrual Disorder,Referral,140645.25,63153.69,2024-10-11,2024-10-12,1,10,2024,Oct
+2321,Sunita Patel,13,Male,AB+,Delhi,Orthopedics,Dr. Amit Verma,Back Pain,Emergency,70657.99,40807.45,2024-07-20,2024-08-05,16,7,2024,Jul
+2322,Anjali Rao,47,Female,B+,Chennai,Orthopedics,Dr. Amit Verma,Fracture,Referral,39798.46,19781.46,2024-08-09,2024-08-18,9,8,2024,Aug
+2323,Rahul Patel,52,Male,A+,Pune,General Medicine,Dr. Anjali Singh,Diabetes,Referral,70072.93,46998.98,2023-08-04,2023-08-18,14,8,2023,Aug
+2324,Aarav Rao,43,Male,AB-,Bangalore,Emergency,Dr. Rohit Kumar,Burns,Referral,40765.5,25395.51,2024-02-27,2024-03-01,3,2,2024,Feb
+2325,Vijay Sharma,46,Male,AB-,Kolkata,Pediatrics,Dr. Meera Gupta,Pneumonia,Elective,136191.12,82864.46,2023-07-08,2023-07-18,10,7,2023,Jul
+2326,Lakshmi Verma,30,Female,AB-,Pune,General Medicine,Dr. Deepak Patel,Typhoid,Emergency,88794.21,62140.85,2023-07-05,2023-07-13,8,7,2023,Jul
+2327,Neha Verma,54,Male,AB+,Hyderabad,Emergency,Dr. Rohit Kumar,Trauma,Emergency,21645.55,7222.72,2023-10-25,2023-10-30,5,10,2023,Oct
+2328,Divya Kumar,29,Female,AB-,Mumbai,Emergency,Dr. Pooja Joshi,Poisoning,Referral,5997.3,2183.66,2023-12-05,2023-12-22,17,12,2023,Dec
+2329,Manoj Joshi,28,Male,A+,Pune,Orthopedics,Dr. Amit Verma,Arthritis,Emergency,64623.64,21642.74,2023-10-19,2023-10-31,12,10,2023,Oct
+2330,Arjun Mehta,17,Male,B+,Chennai,Neurology,Dr. Kavya Pillai,Epilepsy,Elective,134856.61,82015.91,2024-04-06,2024-04-24,18,4,2024,Apr
+2331,Anjali Gupta,64,Female,AB+,Hyderabad,Emergency,Dr. Pooja Joshi,Poisoning,Emergency,105203.09,54090.56,2023-11-20,2023-12-06,16,11,2023,Nov
+2332,Lakshmi Kulkarni,11,Female,B+,Bangalore,Orthopedics,Dr. Amit Verma,Back Pain,Elective,31771.71,21284.13,2023-08-15,2023-08-17,2,8,2023,Aug
+2333,Sneha Gupta,61,Male,AB+,Delhi,Neurology,Dr. Kavya Pillai,Epilepsy,Elective,124261.72,82818.75,2023-05-18,2023-06-04,17,5,2023,May
+2334,Kavya Kumar,40,Female,B+,Chennai,Cardiology,Dr. Sunita Rao,Heart Failure,Referral,21953.91,9939.32,2024-01-03,2024-01-04,1,1,2024,Jan
+2335,Manoj Sharma,49,Female,A-,Hyderabad,General Medicine,Dr. Deepak Patel,Diabetes,Elective,91431.88,31177.07,2024-10-23,2024-11-06,14,10,2024,Oct
+2336,Kavya Bhat,24,Male,B+,Chennai,Neurology,Dr. Suresh Iyer,Migraine,Emergency,56494.09,41984.6,2023-09-27,2023-10-02,5,9,2023,Sep
+2337,Deepak Mishra,69,Female,AB-,Pune,Cardiology,Dr. Rajesh Khanna,Heart Attack,Referral,111285.02,35121.23,2024-06-03,2024-06-15,12,6,2024,Jun
+2338,Vijay Singh,12,Female,A-,Bangalore,General Medicine,Dr. Deepak Patel,Viral Fever,Referral,20348.72,8756.22,2023-02-07,2023-02-25,18,2,2023,Feb
+2339,Manoj Rao,20,Female,B+,Delhi,Emergency,Dr. Rohit Kumar,Trauma,Referral,100269.42,41276.24,2024-01-10,2024-01-18,8,1,2024,Jan
+2340,Sneha Nair,18,Female,AB+,Hyderabad,Emergency,Dr. Rohit Kumar,Burns,Elective,86284.07,47905.43,2024-04-20,2024-05-08,18,4,2024,Apr
+2341,Lakshmi Kumar,80,Female,AB+,Nagpur,Emergency,Dr. Rohit Kumar,Burns,Referral,124849.91,90390.2,2024-11-09,2024-11-17,8,11,2024,Nov
+2342,Manoj Patel,19,Female,O-,Kolkata,Oncology,Dr. Vijay Reddy,Lung Cancer,Referral,19316.89,7525.33,2024-04-01,2024-04-06,5,4,2024,Apr
+2343,Anjali Desai,70,Female,AB+,Delhi,Cardiology,Dr. Sunita Rao,Hypertension,Elective,22212.82,9094.14,2024-01-03,2024-01-08,5,1,2024,Jan
+2344,Meera Shah,36,Female,B-,Nagpur,Gynecology,Dr. Divya Mehta,PCOS,Referral,14748.96,6150.45,2023-09-28,2023-10-03,5,9,2023,Sep
+2345,Rahul Pillai,67,Female,A+,Chennai,General Medicine,Dr. Anjali Singh,Typhoid,Emergency,106457.25,80795.83,2024-02-02,2024-02-03,1,2,2024,Feb
+2346,Rohit Sharma,55,Female,AB+,Mumbai,General Medicine,Dr. Anjali Singh,Diabetes,Referral,82182.32,64449.08,2023-04-16,2023-04-27,11,4,2023,Apr
+2347,Meera Iyer,29,Female,A-,Delhi,Cardiology,Dr. Sunita Rao,Arrhythmia,Elective,87356.27,51110.41,2024-08-15,2024-08-28,13,8,2024,Aug
+2348,Sneha Pandey,62,Male,O-,Chennai,Orthopedics,Dr. Priya Nair,Joint Replacement,Emergency,9607.88,7197.39,2024-08-24,2024-09-02,9,8,2024,Aug
+2349,Anjali Chauhan,67,Female,AB+,Nagpur,Oncology,Dr. Lakshmi Desai,Blood Cancer,Elective,25924.83,13038.14,2023-08-17,2023-09-01,15,8,2023,Aug
+2350,Amit Pandey,66,Female,B-,Pune,Cardiology,Dr. Sunita Rao,Heart Failure,Emergency,80920.04,44580.35,2024-09-10,2024-09-22,12,9,2024,Sep
+2351,Pooja Pillai,26,Male,AB-,Pune,Orthopedics,Dr. Amit Verma,Joint Replacement,Elective,94025.69,52397.76,2023-08-24,2023-08-29,5,8,2023,Aug
+2352,Suresh Kulkarni,62,Female,A-,Mumbai,Orthopedics,Dr. Amit Verma,Arthritis,Referral,57085.27,27464.38,2023-07-11,2023-07-21,10,7,2023,Jul
+2353,Sunita Iyer,62,Male,B-,Kolkata,Oncology,Dr. Vijay Reddy,Breast Cancer,Emergency,16083.78,7480.77,2024-02-29,2024-03-17,17,2,2024,Feb
+2354,Arjun Pandey,53,Male,AB-,Delhi,Emergency,Dr. Pooja Joshi,Trauma,Referral,57571.17,34277.61,2024-05-05,2024-05-21,16,5,2024,May
+2355,Manoj Mehta,56,Female,O+,Delhi,Oncology,Dr. Vijay Reddy,Colon Cancer,Referral,85810.03,31229.92,2023-09-07,2023-09-24,17,9,2023,Sep
+2356,Rohit Rao,46,Male,O+,Delhi,Cardiology,Dr. Rajesh Khanna,Hypertension,Referral,72670.5,23225.16,2024-10-06,2024-10-12,6,10,2024,Oct
+2357,Rahul Mehta,74,Female,A-,Kolkata,Pediatrics,Dr. Meera Gupta,Pneumonia,Referral,87024.78,66245.3,2023-06-20,2023-06-26,6,6,2023,Jun
+2358,Arjun Rao,19,Female,B+,Chennai,Orthopedics,Dr. Amit Verma,Joint Replacement,Emergency,122218.83,53987.4,2024-11-08,2024-11-16,8,11,2024,Nov
+2359,Arjun Bhat,58,Female,A+,Bangalore,Oncology,Dr. Lakshmi Desai,Lung Cancer,Emergency,71572.98,52509.6,2024-09-13,2024-09-26,13,9,2024,Sep
+2360,Lakshmi Mishra,64,Male,O-,Bangalore,Orthopedics,Dr. Priya Nair,Arthritis,Emergency,7429.66,5180.76,2024-09-07,2024-09-10,3,9,2024,Sep
+2361,Rohit Sharma,12,Male,A+,Mumbai,General Medicine,Dr. Deepak Patel,Malaria,Referral,66010.37,50245.51,2024-12-03,2024-12-20,17,12,2024,Dec
+2362,Divya Reddy,57,Female,B-,Delhi,General Medicine,Dr. Deepak Patel,Diabetes,Emergency,73961.45,27077.77,2024-01-23,2024-02-07,15,1,2024,Jan
+2363,Pooja Iyer,64,Female,AB-,Chennai,Neurology,Dr. Kavya Pillai,Migraine,Elective,99853.22,34763.83,2023-06-03,2023-06-09,6,6,2023,Jun
+2364,Vijay Shah,9,Female,A+,Pune,General Medicine,Dr. Deepak Patel,Diabetes,Referral,86517.38,54479.67,2023-04-06,2023-04-10,4,4,2023,Apr
+2365,Suresh Reddy,72,Male,AB-,Nagpur,General Medicine,Dr. Anjali Singh,Diabetes,Emergency,37477.47,18183.65,2024-06-18,2024-07-01,13,6,2024,Jun
+2366,Suresh Kulkarni,10,Female,AB-,Chennai,Orthopedics,Dr. Amit Verma,Joint Replacement,Elective,93855.4,64228.61,2024-05-08,2024-05-23,15,5,2024,May
+2367,Suresh Desai,51,Female,B-,Kolkata,Emergency,Dr. Pooja Joshi,Accident Injury,Emergency,105533.6,56837.3,2023-05-18,2023-05-30,12,5,2023,May
+2368,Aarav Pillai,59,Female,B-,Bangalore,General Medicine,Dr. Anjali Singh,Diabetes,Elective,103796.19,59357.46,2024-09-04,2024-09-08,4,9,2024,Sep
+2369,Vijay Singh,44,Male,B-,Bangalore,Emergency,Dr. Rohit Kumar,Poisoning,Referral,123127.3,85537.92,2024-12-27,2025-01-08,12,12,2024,Dec
+2370,Neha Pandey,56,Female,A+,Pune,General Medicine,Dr. Deepak Patel,Diabetes,Elective,135392.75,54523.93,2024-01-20,2024-02-06,17,1,2024,Jan
+2371,Divya Desai,20,Female,O+,Pune,Gynecology,Dr. Neha Sharma,Menstrual Disorder,Referral,56460.16,28966.08,2023-04-20,2023-04-23,3,4,2023,Apr
+2372,Neha Iyer,17,Female,B-,Kolkata,Neurology,Dr. Kavya Pillai,Epilepsy,Referral,45324.43,26394.01,2024-07-02,2024-07-16,14,7,2024,Jul
+2373,Divya Chauhan,34,Male,O-,Nagpur,Orthopedics,Dr. Priya Nair,Back Pain,Referral,85667.56,49349.01,2023-07-28,2023-08-01,4,7,2023,Jul
+2374,Aarav Singh,23,Female,A+,Pune,Cardiology,Dr. Rajesh Khanna,Heart Failure,Elective,11077.71,6396.89,2024-01-15,2024-01-31,16,1,2024,Jan
+2375,Kavya Rao,21,Female,B-,Mumbai,Neurology,Dr. Kavya Pillai,Epilepsy,Referral,107966.64,72109.97,2024-12-23,2025-01-05,13,12,2024,Dec
+2376,Deepak Rao,67,Male,AB+,Nagpur,Cardiology,Dr. Rajesh Khanna,Heart Attack,Emergency,77851.96,50576.97,2024-04-02,2024-04-10,8,4,2024,Apr
+2377,Kavya Bhat,23,Female,AB-,Pune,General Medicine,Dr. Deepak Patel,Diabetes,Referral,50392.27,34923.89,2024-06-04,2024-06-13,9,6,2024,Jun
+2378,Anjali Iyer,62,Female,O-,Hyderabad,Oncology,Dr. Vijay Reddy,Breast Cancer,Emergency,140474.1,86804.33,2024-02-03,2024-02-10,7,2,2024,Feb
+2379,Sunita Pillai,59,Male,B-,Chennai,Emergency,Dr. Pooja Joshi,Poisoning,Elective,50905.08,17514.93,2024-09-06,2024-09-16,10,9,2024,Sep
+2380,Anjali Pandey,66,Male,A-,Pune,Orthopedics,Dr. Priya Nair,Arthritis,Elective,50649.75,16151.07,2023-03-23,2023-04-02,10,3,2023,Mar
+2381,Sunita Reddy,27,Female,AB-,Mumbai,Cardiology,Dr. Sunita Rao,Heart Failure,Emergency,111066.99,66499.84,2024-12-29,2025-01-05,7,12,2024,Dec
+2382,Anjali Chauhan,13,Male,AB-,Delhi,Oncology,Dr. Lakshmi Desai,Colon Cancer,Referral,100417.97,72831.53,2023-01-11,2023-01-24,13,1,2023,Jan
+2383,Suresh Nair,16,Female,B-,Pune,Cardiology,Dr. Rajesh Khanna,Arrhythmia,Referral,20604.06,12357.44,2023-02-04,2023-02-18,14,2,2023,Feb
+2384,Suresh Rao,5,Male,O+,Bangalore,General Medicine,Dr. Deepak Patel,Typhoid,Referral,41419.54,19875.99,2024-11-21,2024-11-27,6,11,2024,Nov
+2385,Sneha Joshi,62,Female,B+,Bangalore,Oncology,Dr. Vijay Reddy,Breast Cancer,Elective,84383.37,58210.72,2023-03-30,2023-04-07,8,3,2023,Mar
+2386,Rohit Kumar,5,Male,O+,Bangalore,Orthopedics,Dr. Priya Nair,Joint Replacement,Referral,88091.12,49231.6,2024-08-23,2024-09-02,10,8,2024,Aug
+2387,Sunita Gupta,38,Female,B-,Delhi,Orthopedics,Dr. Amit Verma,Fracture,Referral,125130.78,82970.39,2024-07-16,2024-07-19,3,7,2024,Jul
+2388,Vijay Joshi,52,Female,AB-,Bangalore,General Medicine,Dr. Anjali Singh,Malaria,Emergency,52030.14,31383.63,2023-10-11,2023-10-15,4,10,2023,Oct
+2389,Divya Mehta,5,Female,O-,Hyderabad,Orthopedics,Dr. Priya Nair,Joint Replacement,Elective,55141.88,23741.54,2024-08-11,2024-08-30,19,8,2024,Aug
+2390,Manoj Pillai,20,Female,A-,Pune,General Medicine,Dr. Deepak Patel,Diabetes,Emergency,68883.16,32373.91,2024-05-30,2024-06-05,6,5,2024,May
+2391,Lakshmi Nair,65,Male,O-,Kolkata,Cardiology,Dr. Sunita Rao,Arrhythmia,Referral,94804.8,74234.79,2024-12-11,2024-12-27,16,12,2024,Dec
+2392,Sneha Joshi,68,Female,O-,Bangalore,Pediatrics,Dr. Meera Gupta,Malnutrition,Referral,8736.59,6009.02,2023-12-14,2023-12-24,10,12,2023,Dec
+2393,Kavya Rao,67,Male,AB-,Nagpur,General Medicine,Dr. Deepak Patel,Viral Fever,Elective,104766.61,44935.43,2024-05-08,2024-05-22,14,5,2024,May
+2394,Anjali Gupta,73,Male,O+,Kolkata,Cardiology,Dr. Rajesh Khanna,Hypertension,Referral,33723.85,26227.81,2023-11-20,2023-11-29,9,11,2023,Nov
+2395,Kavya Sharma,26,Male,A-,Delhi,Cardiology,Dr. Sunita Rao,Heart Attack,Referral,65878.06,22827.06,2023-09-12,2023-09-27,15,9,2023,Sep
+2396,Sunita Verma,71,Male,A+,Hyderabad,Pediatrics,Dr. Meera Gupta,Asthma,Elective,29785.78,11593.9,2024-07-21,2024-07-23,2,7,2024,Jul
+2397,Suresh Patel,80,Female,AB+,Nagpur,Neurology,Dr. Suresh Iyer,Epilepsy,Referral,135204.87,52918.14,2024-08-10,2024-08-20,10,8,2024,Aug
+2398,Priya Desai,30,Female,AB-,Nagpur,Cardiology,Dr. Sunita Rao,Hypertension,Elective,12596.74,8411.03,2023-07-24,2023-08-02,9,7,2023,Jul
+2399,Kavya Verma,20,Male,B-,Nagpur,Cardiology,Dr. Rajesh Khanna,Hypertension,Referral,28637.77,12166.69,2023-07-27,2023-08-12,16,7,2023,Jul
+2400,Divya Kumar,55,Male,A+,Nagpur,Orthopedics,Dr. Amit Verma,Back Pain,Referral,125371.89,95294.43,2023-04-20,2023-05-01,11,4,2023,Apr
+2401,Aarav Bhat,61,Female,AB+,Kolkata,Emergency,Dr. Rohit Kumar,Trauma,Elective,24641.63,7913.21,2024-07-08,2024-07-15,7,7,2024,Jul
+2402,Kavya Iyer,33,Male,B-,Kolkata,Orthopedics,Dr. Priya Nair,Back Pain,Referral,139337.25,110449.94,2024-05-19,2024-05-21,2,5,2024,May
+2403,Divya Chauhan,82,Male,O-,Pune,Neurology,Dr. Kavya Pillai,Epilepsy,Elective,65900.59,49952.87,2023-07-07,2023-07-18,11,7,2023,Jul
+2404,Rohit Gupta,73,Male,B+,Bangalore,Cardiology,Dr. Rajesh Khanna,Heart Failure,Elective,9154.6,2994.23,2024-08-13,2024-08-16,3,8,2024,Aug
+2405,Priya Mehta,51,Female,B-,Chennai,General Medicine,Dr. Deepak Patel,Viral Fever,Referral,118334.24,58795.37,2024-05-29,2024-06-04,6,5,2024,May
+2406,Divya Kumar,66,Female,A-,Pune,Orthopedics,Dr. Priya Nair,Arthritis,Elective,10837.41,6059.22,2023-05-04,2023-05-19,15,5,2023,May
+2407,Rahul Mishra,73,Male,A-,Pune,General Medicine,Dr. Deepak Patel,Diabetes,Emergency,87101.18,42654.67,2024-11-21,2024-12-04,13,11,2024,Nov
+2408,Divya Singh,80,Male,B+,Hyderabad,Cardiology,Dr. Sunita Rao,Arrhythmia,Referral,44366.34,19070.89,2024-09-19,2024-10-04,15,9,2024,Sep
+2409,Manoj Patel,20,Female,A+,Hyderabad,Emergency,Dr. Rohit Kumar,Burns,Elective,79411.55,61882.52,2023-10-03,2023-10-18,15,10,2023,Oct
+2410,Amit Verma,52,Female,AB+,Bangalore,Orthopedics,Dr. Amit Verma,Back Pain,Referral,64521.89,26148.54,2024-05-25,2024-06-06,12,5,2024,May
+2411,Manoj Nair,43,Male,B-,Chennai,Cardiology,Dr. Sunita Rao,Arrhythmia,Referral,37781.47,19849.04,2024-02-15,2024-03-03,17,2,2024,Feb
+2412,Rahul Rao,37,Female,A-,Hyderabad,Oncology,Dr. Vijay Reddy,Lung Cancer,Emergency,18037.86,7846.01,2023-04-13,2023-04-18,5,4,2023,Apr
+2413,Sneha Desai,27,Male,A+,Bangalore,Orthopedics,Dr. Priya Nair,Joint Replacement,Referral,131249.83,91877.34,2023-07-20,2023-08-04,15,7,2023,Jul
+2414,Meera Kulkarni,14,Male,B+,Bangalore,Cardiology,Dr. Sunita Rao,Hypertension,Emergency,53139.75,27141.68,2023-01-10,2023-01-26,16,1,2023,Jan
+2415,Lakshmi Kulkarni,73,Female,O+,Kolkata,General Medicine,Dr. Anjali Singh,Malaria,Referral,110491.74,64203.35,2023-11-04,2023-11-09,5,11,2023,Nov
+2416,Neha Pillai,38,Male,AB-,Mumbai,Pediatrics,Dr. Arjun Shah,Fever,Emergency,81841.39,31236.48,2023-04-12,2023-04-27,15,4,2023,Apr
+2417,Deepak Chauhan,56,Female,O+,Kolkata,Cardiology,Dr. Sunita Rao,Arrhythmia,Elective,35245.31,18501.23,2024-10-06,2024-10-16,10,10,2024,Oct
+2418,Arjun Nair,14,Male,O+,Chennai,Orthopedics,Dr. Priya Nair,Back Pain,Elective,55251.02,31976.29,2024-01-04,2024-01-10,6,1,2024,Jan
+2419,Manoj Pandey,23,Male,A-,Hyderabad,Neurology,Dr. Suresh Iyer,Epilepsy,Referral,29837.77,14189.21,2024-02-26,2024-03-13,16,2,2024,Feb
+2420,Kavya Bhat,62,Female,O-,Chennai,Oncology,Dr. Vijay Reddy,Lung Cancer,Referral,53942.21,24950.71,2023-10-19,2023-11-01,13,10,2023,Oct
+2421,Lakshmi Patel,5,Male,O-,Pune,Oncology,Dr. Lakshmi Desai,Colon Cancer,Elective,98018.15,59480.54,2023-03-22,2023-04-02,11,3,2023,Mar
+2422,Lakshmi Kumar,73,Female,B+,Pune,Orthopedics,Dr. Amit Verma,Arthritis,Elective,48106.64,36767.1,2024-10-17,2024-11-01,15,10,2024,Oct
+2423,Vijay Joshi,8,Male,B-,Chennai,Orthopedics,Dr. Amit Verma,Joint Replacement,Elective,98975.23,46697.77,2023-03-23,2023-04-11,19,3,2023,Mar
+2424,Suresh Singh,20,Male,O-,Mumbai,Emergency,Dr. Pooja Joshi,Burns,Elective,124779.38,75203.59,2024-12-28,2025-01-12,15,12,2024,Dec
+2425,Pooja Rao,28,Male,O+,Mumbai,General Medicine,Dr. Anjali Singh,Malaria,Elective,20310.77,12053.63,2024-01-07,2024-01-11,4,1,2024,Jan
+2426,Pooja Desai,84,Female,O-,Kolkata,Cardiology,Dr. Rajesh Khanna,Heart Failure,Referral,57268.8,17842.13,2023-07-08,2023-07-19,11,7,2023,Jul
+2427,Rahul Gupta,6,Male,O+,Chennai,General Medicine,Dr. Anjali Singh,Typhoid,Emergency,16778.3,5705.17,2024-12-18,2024-12-30,12,12,2024,Dec
+2428,Aarav Pandey,36,Female,AB+,Hyderabad,Gynecology,Dr. Divya Mehta,Menstrual Disorder,Elective,78169.76,60065.4,2023-04-08,2023-04-18,10,4,2023,Apr
+2429,Arjun Kulkarni,28,Male,A-,Kolkata,Cardiology,Dr. Rajesh Khanna,Heart Attack,Emergency,120103.63,81970.51,2024-02-11,2024-02-21,10,2,2024,Feb
+2430,Divya Nair,16,Female,A-,Delhi,General Medicine,Dr. Anjali Singh,Diabetes,Elective,147850.31,50587.82,2024-09-24,2024-10-13,19,9,2024,Sep
+2431,Priya Rao,54,Male,B-,Mumbai,General Medicine,Dr. Deepak Patel,Malaria,Referral,66985.54,29613.48,2023-09-11,2023-09-21,10,9,2023,Sep
+2432,Kavya Nair,39,Female,O-,Nagpur,Neurology,Dr. Suresh Iyer,Migraine,Emergency,77603.08,29900.78,2024-06-23,2024-07-10,17,6,2024,Jun
+2433,Arjun Singh,37,Female,O-,Kolkata,General Medicine,Dr. Anjali Singh,Malaria,Referral,140492.79,110636.78,2024-05-02,2024-05-09,7,5,2024,May
+2434,Neha Mehta,37,Female,AB-,Pune,General Medicine,Dr. Anjali Singh,Malaria,Referral,23730.29,18373.01,2023-05-19,2023-05-20,1,5,2023,May
+2435,Manoj Joshi,65,Female,A+,Kolkata,Cardiology,Dr. Sunita Rao,Hypertension,Referral,7349.06,4541.17,2024-10-08,2024-10-15,7,10,2024,Oct
+2436,Meera Kumar,55,Female,AB+,Chennai,Oncology,Dr. Lakshmi Desai,Colon Cancer,Emergency,134037.44,76379.1,2023-12-22,2024-01-08,17,12,2023,Dec
+2437,Sunita Rao,47,Female,A-,Nagpur,Gynecology,Dr. Neha Sharma,Menstrual Disorder,Elective,99553.49,42798.4,2024-01-10,2024-01-11,1,1,2024,Jan
+2438,Amit Mehta,16,Male,AB+,Chennai,Oncology,Dr. Vijay Reddy,Breast Cancer,Emergency,41688.82,28312.83,2024-06-19,2024-06-26,7,6,2024,Jun
+2439,Amit Singh,71,Male,A-,Bangalore,Emergency,Dr. Pooja Joshi,Burns,Elective,13846.04,4211.39,2024-04-25,2024-05-07,12,4,2024,Apr
+2440,Priya Gupta,69,Female,AB+,Pune,Orthopedics,Dr. Priya Nair,Joint Replacement,Elective,102706.64,52916.27,2023-01-10,2023-01-28,18,1,2023,Jan
+2441,Kavya Kulkarni,37,Female,B+,Pune,Oncology,Dr. Vijay Reddy,Lung Cancer,Referral,27007.43,10648.64,2024-07-15,2024-07-27,12,7,2024,Jul
+2442,Manoj Nair,44,Female,O+,Mumbai,Emergency,Dr. Pooja Joshi,Trauma,Referral,116045.21,76296.13,2023-09-13,2023-09-15,2,9,2023,Sep
+2443,Arjun Kumar,78,Male,A-,Kolkata,Cardiology,Dr. Sunita Rao,Heart Failure,Referral,25792.33,8759.2,2023-08-14,2023-08-20,6,8,2023,Aug
+2444,Arjun Nair,47,Male,AB+,Mumbai,Cardiology,Dr. Sunita Rao,Hypertension,Elective,105391.37,70766.45,2023-10-19,2023-10-29,10,10,2023,Oct
+2445,Deepak Mehta,48,Male,O-,Nagpur,Orthopedics,Dr. Amit Verma,Joint Replacement,Emergency,100865.4,37149.94,2023-03-12,2023-03-25,13,3,2023,Mar
+2446,Kiran Desai,33,Female,A+,Kolkata,General Medicine,Dr. Anjali Singh,Viral Fever,Emergency,13691.78,8370.84,2023-10-06,2023-10-21,15,10,2023,Oct
+2447,Divya Chauhan,17,Male,B+,Bangalore,Cardiology,Dr. Rajesh Khanna,Arrhythmia,Emergency,11524.54,9045.13,2023-06-05,2023-06-23,18,6,2023,Jun
+2448,Rahul Kulkarni,16,Male,B+,Chennai,General Medicine,Dr. Deepak Patel,Typhoid,Elective,31600.6,11455.84,2023-10-16,2023-10-18,2,10,2023,Oct
+2449,Priya Pandey,50,Male,A+,Bangalore,General Medicine,Dr. Deepak Patel,Diabetes,Emergency,53135.87,16331.97,2023-04-03,2023-04-15,12,4,2023,Apr
+2450,Rohit Kulkarni,6,Male,AB+,Pune,Pediatrics,Dr. Arjun Shah,Asthma,Elective,95296.18,66681.71,2023-11-16,2023-11-25,9,11,2023,Nov
+2451,Suresh Sharma,39,Female,O-,Nagpur,Oncology,Dr. Vijay Reddy,Colon Cancer,Emergency,9038.57,6523.8,2023-12-05,2023-12-21,16,12,2023,Dec
+2452,Rahul Rao,12,Male,B-,Delhi,General Medicine,Dr. Anjali Singh,Diabetes,Emergency,102562.83,58624.5,2024-02-06,2024-02-07,1,2,2024,Feb
+2453,Manoj Bhat,30,Female,A+,Nagpur,General Medicine,Dr. Anjali Singh,Typhoid,Referral,101254.55,31015.05,2024-01-26,2024-01-28,2,1,2024,Jan
+2454,Aarav Mehta,78,Male,AB+,Hyderabad,Gynecology,Dr. Neha Sharma,PCOS,Emergency,134105.73,89691.19,2024-03-29,2024-04-13,15,3,2024,Mar
+2455,Manoj Patel,38,Male,A+,Nagpur,Pediatrics,Dr. Arjun Shah,Pneumonia,Emergency,77540.39,49083.37,2023-04-07,2023-04-14,7,4,2023,Apr
+2456,Pooja Iyer,11,Male,A+,Bangalore,Cardiology,Dr. Sunita Rao,Heart Failure,Elective,126773.95,57815.85,2024-11-28,2024-12-12,14,11,2024,Nov
+2457,Kiran Chauhan,72,Male,A-,Hyderabad,Cardiology,Dr. Rajesh Khanna,Hypertension,Elective,138003.87,49829.16,2024-07-16,2024-07-18,2,7,2024,Jul
+2458,Suresh Gupta,62,Male,AB+,Hyderabad,Neurology,Dr. Suresh Iyer,Epilepsy,Referral,108634.23,35419.51,2024-01-05,2024-01-11,6,1,2024,Jan
+2459,Manoj Pandey,79,Male,B-,Kolkata,Orthopedics,Dr. Amit Verma,Arthritis,Emergency,118791.6,61424.86,2023-08-30,2023-09-13,14,8,2023,Aug
+2460,Divya Singh,33,Female,O+,Kolkata,Gynecology,Dr. Neha Sharma,PCOS,Emergency,126441.97,62955.98,2024-08-21,2024-08-22,1,8,2024,Aug
+2461,Divya Shah,40,Male,A-,Hyderabad,General Medicine,Dr. Deepak Patel,Diabetes,Referral,47894.49,30909.94,2024-08-18,2024-08-24,6,8,2024,Aug
+2462,Meera Reddy,25,Female,A+,Delhi,Cardiology,Dr. Sunita Rao,Hypertension,Emergency,36594.25,13863.7,2023-04-02,2023-04-18,16,4,2023,Apr
+2463,Rohit Kumar,40,Female,O+,Kolkata,General Medicine,Dr. Deepak Patel,Malaria,Referral,23527.32,14640.76,2023-03-03,2023-03-11,8,3,2023,Mar
+2464,Pooja Reddy,14,Female,AB-,Nagpur,Neurology,Dr. Suresh Iyer,Stroke,Referral,110672.82,50729.08,2024-05-14,2024-05-28,14,5,2024,May
+2465,Meera Iyer,77,Male,O+,Bangalore,Orthopedics,Dr. Priya Nair,Back Pain,Elective,126403.14,81482.62,2023-07-17,2023-07-30,13,7,2023,Jul
+2466,Kavya Mishra,28,Male,A+,Nagpur,Cardiology,Dr. Sunita Rao,Hypertension,Referral,24513.56,16015.03,2023-02-10,2023-02-24,14,2,2023,Feb
+2467,Sunita Patel,68,Male,A+,Delhi,Cardiology,Dr. Sunita Rao,Arrhythmia,Elective,71797.13,28238.77,2023-07-14,2023-07-23,9,7,2023,Jul
+2468,Arjun Singh,53,Male,O-,Pune,Pediatrics,Dr. Arjun Shah,Asthma,Referral,19997.95,14312.03,2023-10-09,2023-10-14,5,10,2023,Oct
+2469,Rohit Mehta,40,Female,AB+,Mumbai,Neurology,Dr. Suresh Iyer,Migraine,Elective,46796.48,24553.74,2024-06-27,2024-07-05,8,6,2024,Jun
+2470,Rohit Kumar,28,Male,AB+,Bangalore,Orthopedics,Dr. Priya Nair,Back Pain,Elective,5004.45,3097.82,2023-01-01,2023-01-12,11,1,2023,Jan
+2471,Deepak Pillai,27,Male,A-,Kolkata,General Medicine,Dr. Deepak Patel,Typhoid,Referral,85381.72,41157.2,2024-09-26,2024-10-13,17,9,2024,Sep
+2472,Aarav Desai,66,Female,B-,Bangalore,Cardiology,Dr. Sunita Rao,Hypertension,Elective,134688.64,105539.54,2023-03-06,2023-03-14,8,3,2023,Mar
+2473,Arjun Pandey,41,Female,A-,Nagpur,Oncology,Dr. Lakshmi Desai,Lung Cancer,Elective,79596.89,48277.08,2024-07-18,2024-07-23,5,7,2024,Jul
+2474,Priya Joshi,16,Female,B+,Mumbai,Cardiology,Dr. Sunita Rao,Heart Failure,Emergency,93034.62,52248.27,2023-04-24,2023-04-26,2,4,2023,Apr
+2475,Kiran Shah,59,Male,A+,Chennai,Neurology,Dr. Suresh Iyer,Stroke,Emergency,18769.96,5924.49,2023-07-02,2023-07-10,8,7,2023,Jul
+2476,Lakshmi Iyer,17,Male,O+,Chennai,Orthopedics,Dr. Amit Verma,Joint Replacement,Elective,125309.82,73369.66,2023-04-12,2023-04-23,11,4,2023,Apr
+2477,Arjun Patel,27,Female,AB-,Kolkata,Gynecology,Dr. Neha Sharma,Menstrual Disorder,Referral,82121.41,33699.46,2023-02-20,2023-03-03,11,2,2023,Feb
+2478,Vijay Mehta,34,Male,A+,Delhi,Emergency,Dr. Rohit Kumar,Accident Injury,Emergency,134241.14,73255.76,2023-08-02,2023-08-05,3,8,2023,Aug
+2479,Sunita Verma,21,Male,A+,Chennai,Pediatrics,Dr. Meera Gupta,Malnutrition,Elective,51154.09,34362.18,2024-01-05,2024-01-20,15,1,2024,Jan
+2480,Kavya Chauhan,66,Male,A-,Bangalore,Pediatrics,Dr. Meera Gupta,Asthma,Referral,90883.7,51304.8,2024-09-23,2024-09-29,6,9,2024,Sep
+2481,Divya Kumar,17,Male,AB-,Chennai,General Medicine,Dr. Anjali Singh,Diabetes,Referral,96697.46,39447.73,2023-03-21,2023-03-22,1,3,2023,Mar
+2482,Aarav Kulkarni,63,Male,AB-,Pune,Cardiology,Dr. Rajesh Khanna,Heart Attack,Emergency,105546.21,51998.98,2023-08-25,2023-09-06,12,8,2023,Aug
+2483,Neha Gupta,23,Male,AB-,Pune,General Medicine,Dr. Deepak Patel,Typhoid,Referral,121593.87,70411.46,2024-07-25,2024-08-03,9,7,2024,Jul
+2484,Kavya Desai,53,Female,A-,Kolkata,Neurology,Dr. Kavya Pillai,Stroke,Elective,110886.13,72217.39,2024-11-21,2024-12-10,19,11,2024,Nov
+2485,Aarav Desai,16,Female,A+,Pune,General Medicine,Dr. Deepak Patel,Diabetes,Elective,102686.75,51423.33,2023-07-04,2023-07-17,13,7,2023,Jul
+2486,Meera Singh,65,Female,A-,Chennai,General Medicine,Dr. Anjali Singh,Typhoid,Elective,94480.36,43232.09,2023-12-27,2024-01-11,15,12,2023,Dec
+2487,Neha Kumar,23,Male,AB+,Delhi,Oncology,Dr. Lakshmi Desai,Blood Cancer,Elective,37774.81,26936.37,2024-10-10,2024-10-29,19,10,2024,Oct
+2488,Arjun Kumar,80,Male,AB+,Hyderabad,Pediatrics,Dr. Meera Gupta,Pneumonia,Referral,45928.06,26414.12,2024-01-20,2024-02-05,16,1,2024,Jan
+2489,Amit Iyer,13,Male,A-,Hyderabad,Orthopedics,Dr. Priya Nair,Back Pain,Emergency,83499.29,65122.12,2024-04-08,2024-04-21,13,4,2024,Apr
+2490,Kavya Pillai,75,Female,AB-,Kolkata,Cardiology,Dr. Sunita Rao,Heart Attack,Elective,125700.49,70242.02,2024-09-02,2024-09-21,19,9,2024,Sep
+2491,Suresh Pandey,32,Female,O-,Mumbai,Gynecology,Dr. Neha Sharma,Pregnancy,Emergency,83930.01,61089.31,2023-08-16,2023-08-31,15,8,2023,Aug
+2492,Divya Iyer,82,Male,A+,Hyderabad,Orthopedics,Dr. Amit Verma,Back Pain,Emergency,123909.79,65695.1,2023-04-07,2023-04-17,10,4,2023,Apr
+2493,Neha Chauhan,56,Female,A-,Hyderabad,Cardiology,Dr. Sunita Rao,Hypertension,Emergency,44409.04,26249.2,2024-01-11,2024-01-22,11,1,2024,Jan
+2494,Sunita Verma,20,Male,A-,Pune,Neurology,Dr. Kavya Pillai,Epilepsy,Emergency,99677.7,49828.79,2023-04-05,2023-04-11,6,4,2023,Apr
+2495,Deepak Joshi,73,Female,A-,Pune,Cardiology,Dr. Sunita Rao,Heart Attack,Referral,122439.04,66623.76,2024-05-09,2024-05-12,3,5,2024,May
+2496,Lakshmi Pillai,16,Female,O-,Chennai,General Medicine,Dr. Anjali Singh,Diabetes,Elective,57899.26,40770.96,2023-02-08,2023-02-23,15,2,2023,Feb
+2497,Amit Singh,29,Female,O-,Kolkata,General Medicine,Dr. Deepak Patel,Diabetes,Elective,32540.74,24076.77,2023-12-09,2023-12-13,4,12,2023,Dec
+2498,Suresh Pandey,56,Female,B+,Mumbai,General Medicine,Dr. Deepak Patel,Viral Fever,Referral,53908.91,33767.98,2023-08-21,2023-09-04,14,8,2023,Aug
+2499,Rohit Pillai,57,Female,AB+,Kolkata,Emergency,Dr. Pooja Joshi,Accident Injury,Elective,8035.45,4517.46,2023-02-25,2023-03-02,5,2,2023,Feb
+2500,Suresh Sharma,27,Male,O+,Nagpur,Orthopedics,Dr. Priya Nair,Arthritis,Emergency,116146.46,47666.34,2024-05-29,2024-06-11,13,5,2024,May
+2501,Kavya Nair,20,Female,AB-,Bangalore,General Medicine,Dr. Anjali Singh,Viral Fever,Emergency,62410.9,34473.58,2024-09-01,2024-09-05,4,9,2024,Sep
+2502,Manoj Bhat,61,Male,B-,Mumbai,General Medicine,Dr. Anjali Singh,Viral Fever,Emergency,49549.65,18139.86,2024-02-08,2024-02-22,14,2,2024,Feb
+2503,Divya Verma,43,Female,O-,Mumbai,Neurology,Dr. Suresh Iyer,Parkinson's Disease,Elective,41377.47,17845.23,2024-07-15,2024-07-24,9,7,2024,Jul
+2504,Arjun Desai,57,Female,O+,Delhi,Cardiology,Dr. Rajesh Khanna,Heart Failure,Elective,145551.66,84368.74,2023-05-19,2023-05-30,11,5,2023,May
+2505,Divya Shah,46,Female,O-,Kolkata,Neurology,Dr. Suresh Iyer,Parkinson's Disease,Referral,16124.81,12876.3,2024-07-28,2024-08-16,19,7,2024,Jul
+2506,Rohit Desai,62,Male,AB-,Chennai,Cardiology,Dr. Rajesh Khanna,Hypertension,Elective,100424.82,69131.04,2023-03-15,2023-03-18,3,3,2023,Mar
+2507,Sunita Mishra,43,Female,B-,Delhi,Gynecology,Dr. Divya Mehta,Pregnancy,Elective,21550.3,11028.8,2024-11-18,2024-12-04,16,11,2024,Nov
+2508,Arjun Reddy,18,Female,B+,Mumbai,Emergency,Dr. Pooja Joshi,Poisoning,Elective,21696.2,13618.81,2023-12-19,2024-01-01,13,12,2023,Dec
+2509,Vijay Rao,9,Female,A-,Mumbai,Emergency,Dr. Pooja Joshi,Poisoning,Elective,5027.05,3996.9,2024-09-23,2024-10-12,19,9,2024,Sep
+2510,Manoj Mishra,39,Male,B+,Mumbai,General Medicine,Dr. Anjali Singh,Typhoid,Emergency,71030.55,50366.77,2023-02-15,2023-02-21,6,2,2023,Feb
+2511,Neha Pandey,79,Male,O-,Hyderabad,Neurology,Dr. Suresh Iyer,Epilepsy,Emergency,99070.98,66356.83,2023-03-29,2023-04-05,7,3,2023,Mar
+2512,Priya Reddy,22,Male,B+,Kolkata,Gynecology,Dr. Neha Sharma,PCOS,Emergency,31175.14,20167.12,2023-01-15,2023-01-24,9,1,2023,Jan
+2513,Divya Mishra,80,Male,O+,Bangalore,Orthopedics,Dr. Priya Nair,Back Pain,Referral,89351.81,41632.44,2024-04-27,2024-05-13,16,4,2024,Apr
+2514,Deepak Verma,13,Female,A+,Bangalore,Neurology,Dr. Suresh Iyer,Migraine,Referral,23389.48,15792.05,2024-07-13,2024-07-14,1,7,2024,Jul
+2515,Divya Patel,78,Male,O-,Delhi,Neurology,Dr. Suresh Iyer,Parkinson's Disease,Elective,10522.51,6672.64,2024-12-12,2024-12-14,2,12,2024,Dec
+2516,Amit Pillai,62,Female,O-,Mumbai,General Medicine,Dr. Anjali Singh,Diabetes,Referral,85093.09,37611.72,2023-06-24,2023-06-28,4,6,2023,Jun
+2517,Manoj Reddy,21,Male,O+,Bangalore,General Medicine,Dr. Deepak Patel,Malaria,Emergency,19296.16,14907.99,2024-04-21,2024-04-30,9,4,2024,Apr
+2518,Sneha Chauhan,11,Male,AB+,Pune,Cardiology,Dr. Sunita Rao,Heart Failure,Elective,47842.85,36189.98,2024-11-09,2024-11-28,19,11,2024,Nov
+2519,Sneha Pillai,50,Female,B-,Kolkata,Pediatrics,Dr. Meera Gupta,Fever,Elective,87048.33,64563.85,2023-10-27,2023-11-07,11,10,2023,Oct
+2520,Arjun Sharma,17,Female,A-,Bangalore,Emergency,Dr. Pooja Joshi,Poisoning,Elective,29952.47,10477.43,2024-06-04,2024-06-22,18,6,2024,Jun
+2521,Amit Pandey,44,Male,O+,Chennai,Emergency,Dr. Rohit Kumar,Trauma,Elective,26959.6,14836.55,2023-07-10,2023-07-13,3,7,2023,Jul
+2522,Amit Singh,46,Female,B-,Kolkata,Neurology,Dr. Suresh Iyer,Stroke,Elective,94088.0,53132.22,2023-09-11,2023-09-15,4,9,2023,Sep
+2523,Divya Mehta,13,Female,AB-,Chennai,Pediatrics,Dr. Arjun Shah,Malnutrition,Elective,114494.37,54200.48,2023-06-10,2023-06-24,14,6,2023,Jun
+2524,Rohit Kulkarni,54,Male,B-,Bangalore,General Medicine,Dr. Anjali Singh,Malaria,Emergency,34111.79,14938.89,2023-08-30,2023-09-03,4,8,2023,Aug
+2525,Deepak Singh,31,Female,AB-,Pune,Orthopedics,Dr. Priya Nair,Back Pain,Elective,96363.5,55647.0,2023-01-31,2023-02-02,2,1,2023,Jan
+2526,Rohit Desai,70,Female,O+,Chennai,Oncology,Dr. Vijay Reddy,Lung Cancer,Emergency,49510.98,24578.4,2023-12-16,2024-01-03,18,12,2023,Dec
+2527,Deepak Reddy,9,Female,O-,Hyderabad,Orthopedics,Dr. Priya Nair,Fracture,Referral,51849.46,33131.67,2024-06-17,2024-06-18,1,6,2024,Jun
+2528,Divya Desai,33,Male,O-,Bangalore,Gynecology,Dr. Neha Sharma,PCOS,Elective,62149.73,23391.58,2023-09-04,2023-09-17,13,9,2023,Sep
+2529,Priya Kulkarni,41,Female,AB+,Hyderabad,General Medicine,Dr. Anjali Singh,Malaria,Emergency,79861.08,32214.25,2024-07-09,2024-07-28,19,7,2024,Jul
+2530,Rahul Rao,42,Male,O+,Bangalore,General Medicine,Dr. Deepak Patel,Typhoid,Referral,6521.58,4255.78,2023-11-13,2023-11-18,5,11,2023,Nov
+2531,Kavya Rao,12,Male,AB-,Nagpur,Emergency,Dr. Pooja Joshi,Poisoning,Emergency,122402.88,93823.64,2023-05-29,2023-06-08,10,5,2023,May
+2532,Rahul Pandey,69,Male,B-,Nagpur,Gynecology,Dr. Divya Mehta,Uterine Fibroids,Emergency,147465.58,114182.71,2024-07-24,2024-07-31,7,7,2024,Jul
+2533,Sneha Kumar,21,Male,B-,Nagpur,Cardiology,Dr. Sunita Rao,Hypertension,Elective,87199.46,27445.3,2023-05-30,2023-05-31,1,5,2023,May
+2534,Arjun Gupta,75,Female,AB-,Chennai,Neurology,Dr. Kavya Pillai,Parkinson's Disease,Referral,98373.7,66186.3,2023-11-07,2023-11-09,2,11,2023,Nov
+2535,Kavya Sharma,49,Female,B+,Hyderabad,Neurology,Dr. Suresh Iyer,Epilepsy,Emergency,91921.87,33622.53,2023-07-12,2023-07-30,18,7,2023,Jul
+2536,Priya Reddy,8,Female,AB+,Hyderabad,Emergency,Dr. Rohit Kumar,Burns,Emergency,114058.66,47386.38,2024-09-02,2024-09-14,12,9,2024,Sep
+2537,Priya Nair,40,Male,A+,Hyderabad,Emergency,Dr. Rohit Kumar,Burns,Referral,12012.59,6466.39,2024-12-05,2024-12-17,12,12,2024,Dec
+2538,Anjali Shah,74,Male,O-,Pune,Oncology,Dr. Lakshmi Desai,Colon Cancer,Elective,33914.68,16744.7,2023-07-08,2023-07-12,4,7,2023,Jul
+2539,Meera Verma,35,Male,A-,Hyderabad,Orthopedics,Dr. Amit Verma,Arthritis,Emergency,120968.59,38239.96,2023-07-17,2023-07-19,2,7,2023,Jul
+2540,Neha Pillai,23,Female,B-,Pune,Pediatrics,Dr. Arjun Shah,Asthma,Emergency,140629.83,89394.1,2023-08-16,2023-08-28,12,8,2023,Aug
+2541,Meera Bhat,65,Male,A-,Nagpur,Pediatrics,Dr. Meera Gupta,Pneumonia,Elective,130612.4,101531.49,2023-07-01,2023-07-17,16,7,2023,Jul
+2542,Pooja Gupta,58,Female,A+,Nagpur,Cardiology,Dr. Sunita Rao,Heart Failure,Elective,95719.36,40526.8,2024-04-13,2024-05-02,19,4,2024,Apr
+2543,Pooja Singh,43,Female,O+,Chennai,Pediatrics,Dr. Arjun Shah,Fever,Referral,123843.39,75018.44,2023-11-17,2023-11-30,13,11,2023,Nov
+2544,Lakshmi Mishra,78,Male,A-,Bangalore,Oncology,Dr. Vijay Reddy,Breast Cancer,Emergency,115735.38,82577.78,2024-04-07,2024-04-12,5,4,2024,Apr
+2545,Lakshmi Rao,23,Female,A+,Nagpur,Pediatrics,Dr. Arjun Shah,Pneumonia,Referral,83734.73,41339.75,2023-02-10,2023-02-20,10,2,2023,Feb
+2546,Divya Bhat,43,Male,O-,Bangalore,Neurology,Dr. Suresh Iyer,Stroke,Elective,69065.89,34465.26,2023-10-26,2023-11-02,7,10,2023,Oct
+2547,Amit Rao,71,Female,AB-,Bangalore,Cardiology,Dr. Sunita Rao,Arrhythmia,Emergency,112632.56,50370.39,2023-06-20,2023-07-09,19,6,2023,Jun
+2548,Arjun Mehta,49,Female,B+,Kolkata,Orthopedics,Dr. Priya Nair,Arthritis,Referral,12416.78,4286.53,2024-10-23,2024-10-26,3,10,2024,Oct
+2549,Arjun Mehta,17,Male,O-,Chennai,Neurology,Dr. Suresh Iyer,Stroke,Referral,143100.22,106919.33,2024-08-22,2024-09-04,13,8,2024,Aug
+2550,Aarav Chauhan,62,Male,B-,Mumbai,Emergency,Dr. Pooja Joshi,Poisoning,Emergency,126676.26,66561.14,2024-02-28,2024-03-07,8,2,2024,Feb
+2551,Kavya Desai,24,Female,A+,Mumbai,Cardiology,Dr. Rajesh Khanna,Heart Failure,Referral,6063.45,2577.22,2024-04-10,2024-04-14,4,4,2024,Apr
+2552,Pooja Singh,76,Female,A-,Delhi,Cardiology,Dr. Rajesh Khanna,Hypertension,Referral,88210.55,57611.49,2023-04-04,2023-04-12,8,4,2023,Apr
+2553,Arjun Shah,65,Male,B-,Kolkata,Pediatrics,Dr. Meera Gupta,Asthma,Referral,34267.07,16860.9,2024-06-20,2024-07-06,16,6,2024,Jun
+2554,Manoj Nair,43,Female,B+,Chennai,Orthopedics,Dr. Priya Nair,Arthritis,Emergency,19211.11,6185.08,2024-07-17,2024-07-24,7,7,2024,Jul
+2555,Meera Mehta,5,Female,AB-,Delhi,Cardiology,Dr. Rajesh Khanna,Arrhythmia,Referral,135900.75,50596.35,2023-06-16,2023-06-25,9,6,2023,Jun
+2556,Arjun Nair,7,Female,O+,Delhi,Pediatrics,Dr. Arjun Shah,Fever,Elective,11609.85,7721.49,2023-11-12,2023-11-24,12,11,2023,Nov
+2557,Vijay Mishra,81,Male,B-,Kolkata,Emergency,Dr. Rohit Kumar,Burns,Emergency,70870.37,25923.35,2023-05-01,2023-05-15,14,5,2023,May
+2558,Divya Kumar,66,Female,O+,Mumbai,Pediatrics,Dr. Arjun Shah,Fever,Elective,29633.63,16263.35,2023-01-13,2023-01-31,18,1,2023,Jan
+2559,Neha Mishra,67,Female,A+,Chennai,Cardiology,Dr. Sunita Rao,Heart Attack,Elective,80191.44,47668.29,2023-09-01,2023-09-15,14,9,2023,Sep
+2560,Manoj Shah,29,Male,B+,Mumbai,Orthopedics,Dr. Priya Nair,Joint Replacement,Emergency,105155.32,63157.16,2024-03-28,2024-04-08,11,3,2024,Mar
+2561,Manoj Nair,60,Male,A-,Delhi,General Medicine,Dr. Anjali Singh,Typhoid,Emergency,139567.5,80778.09,2024-09-26,2024-10-14,18,9,2024,Sep
+2562,Kavya Sharma,37,Female,B+,Chennai,Cardiology,Dr. Rajesh Khanna,Heart Attack,Emergency,102496.52,64228.26,2023-06-01,2023-06-19,18,6,2023,Jun
+2563,Deepak Mehta,42,Male,B+,Delhi,Cardiology,Dr. Rajesh Khanna,Hypertension,Elective,53016.24,38119.06,2024-11-14,2024-12-03,19,11,2024,Nov
+2564,Aarav Bhat,10,Female,AB+,Hyderabad,General Medicine,Dr. Deepak Patel,Malaria,Emergency,65239.24,33172.75,2023-02-20,2023-03-01,9,2,2023,Feb
+2565,Priya Kulkarni,62,Male,B+,Kolkata,Cardiology,Dr. Sunita Rao,Hypertension,Referral,8221.68,5309.21,2024-09-17,2024-09-18,1,9,2024,Sep
+2566,Divya Nair,48,Male,B+,Bangalore,Gynecology,Dr. Neha Sharma,PCOS,Emergency,143724.46,110055.56,2024-08-15,2024-08-31,16,8,2024,Aug
+2567,Neha Kulkarni,49,Female,O-,Chennai,General Medicine,Dr. Anjali Singh,Malaria,Emergency,144658.06,70805.73,2024-01-13,2024-01-29,16,1,2024,Jan
+2568,Anjali Rao,36,Male,B-,Chennai,Cardiology,Dr. Rajesh Khanna,Heart Failure,Referral,39353.98,14453.65,2023-10-27,2023-11-09,13,10,2023,Oct
+2569,Vijay Kulkarni,49,Female,A-,Bangalore,Cardiology,Dr. Sunita Rao,Arrhythmia,Referral,120639.54,67838.4,2024-06-23,2024-07-11,18,6,2024,Jun
+2570,Suresh Verma,65,Male,O-,Delhi,General Medicine,Dr. Deepak Patel,Typhoid,Referral,73888.03,49125.51,2023-04-22,2023-05-05,13,4,2023,Apr
+2571,Sneha Patel,51,Female,O-,Hyderabad,Emergency,Dr. Pooja Joshi,Accident Injury,Referral,68372.47,52437.98,2024-12-06,2024-12-21,15,12,2024,Dec
+2572,Kavya Chauhan,25,Male,B-,Pune,General Medicine,Dr. Anjali Singh,Malaria,Referral,127344.48,58354.88,2024-09-15,2024-09-26,11,9,2024,Sep
+2573,Priya Bhat,84,Male,B-,Bangalore,Orthopedics,Dr. Amit Verma,Back Pain,Referral,144434.29,79178.66,2024-09-21,2024-10-05,14,9,2024,Sep
+2574,Anjali Verma,79,Female,A+,Kolkata,General Medicine,Dr. Anjali Singh,Viral Fever,Referral,96454.03,58326.03,2023-07-04,2023-07-13,9,7,2023,Jul
+2575,Rahul Nair,40,Male,B-,Mumbai,General Medicine,Dr. Deepak Patel,Malaria,Referral,53457.94,16678.52,2023-01-02,2023-01-21,19,1,2023,Jan
+2576,Rohit Pandey,23,Female,AB+,Delhi,General Medicine,Dr. Deepak Patel,Diabetes,Elective,125728.71,63747.04,2024-09-22,2024-09-23,1,9,2024,Sep
+2577,Pooja Joshi,24,Male,AB+,Bangalore,Oncology,Dr. Vijay Reddy,Blood Cancer,Elective,143793.56,57602.78,2023-01-12,2023-01-29,17,1,2023,Jan
+2578,Amit Desai,61,Female,O-,Bangalore,Emergency,Dr. Rohit Kumar,Burns,Elective,71648.47,39646.31,2023-11-12,2023-11-15,3,11,2023,Nov
+2579,Anjali Pillai,22,Male,O+,Chennai,General Medicine,Dr. Deepak Patel,Diabetes,Referral,96756.38,45541.37,2024-12-03,2024-12-19,16,12,2024,Dec
+2580,Kiran Mehta,51,Female,A+,Mumbai,General Medicine,Dr. Deepak Patel,Diabetes,Referral,24286.42,17411.24,2023-07-18,2023-07-31,13,7,2023,Jul
+2581,Pooja Mehta,53,Male,O+,Mumbai,Cardiology,Dr. Sunita Rao,Heart Failure,Emergency,23497.68,8644.25,2023-02-06,2023-02-14,8,2,2023,Feb
+2582,Divya Nair,18,Male,O+,Kolkata,Neurology,Dr. Kavya Pillai,Parkinson's Disease,Referral,56538.7,39977.57,2024-04-18,2024-04-24,6,4,2024,Apr
+2583,Rohit Kumar,19,Male,O-,Mumbai,General Medicine,Dr. Anjali Singh,Diabetes,Referral,106605.2,68131.26,2024-08-01,2024-08-12,11,8,2024,Aug
+2584,Arjun Singh,35,Male,AB-,Bangalore,General Medicine,Dr. Deepak Patel,Diabetes,Elective,91098.19,42438.97,2024-08-14,2024-08-27,13,8,2024,Aug
+2585,Amit Rao,5,Female,O-,Pune,Pediatrics,Dr. Meera Gupta,Fever,Elective,100105.98,31592.1,2023-10-15,2023-10-16,1,10,2023,Oct
+2586,Deepak Desai,58,Male,A-,Nagpur,Orthopedics,Dr. Priya Nair,Arthritis,Elective,37567.35,13464.98,2023-07-11,2023-07-24,13,7,2023,Jul
+2587,Anjali Singh,7,Female,A-,Delhi,Cardiology,Dr. Rajesh Khanna,Arrhythmia,Emergency,8653.87,2971.73,2023-10-06,2023-10-21,15,10,2023,Oct
+2588,Deepak Sharma,20,Male,B-,Nagpur,Neurology,Dr. Kavya Pillai,Epilepsy,Emergency,11280.71,6345.97,2023-11-06,2023-11-24,18,11,2023,Nov
+2589,Suresh Desai,61,Male,B-,Bangalore,General Medicine,Dr. Anjali Singh,Diabetes,Emergency,112986.83,45313.28,2023-02-08,2023-02-17,9,2,2023,Feb
+2590,Sneha Chauhan,79,Female,AB-,Nagpur,Neurology,Dr. Suresh Iyer,Parkinson's Disease,Emergency,93465.65,51408.65,2024-05-09,2024-05-17,8,5,2024,May
+2591,Anjali Mehta,16,Female,B-,Bangalore,Pediatrics,Dr. Arjun Shah,Asthma,Emergency,137234.14,94385.06,2024-06-20,2024-06-25,5,6,2024,Jun
+2592,Manoj Mishra,78,Male,A-,Nagpur,Cardiology,Dr. Rajesh Khanna,Heart Attack,Elective,31498.92,10025.36,2023-07-30,2023-08-08,9,7,2023,Jul
+2593,Anjali Kumar,20,Male,O+,Mumbai,Orthopedics,Dr. Amit Verma,Fracture,Referral,76954.69,24780.56,2023-11-15,2023-11-24,9,11,2023,Nov
+2594,Neha Iyer,76,Male,O-,Hyderabad,Orthopedics,Dr. Priya Nair,Fracture,Referral,18239.78,5892.72,2024-04-23,2024-04-29,6,4,2024,Apr
+2595,Aarav Kulkarni,80,Female,B+,Mumbai,Orthopedics,Dr. Amit Verma,Back Pain,Emergency,141513.76,64540.39,2024-08-14,2024-08-16,2,8,2024,Aug
+2596,Sunita Reddy,28,Female,AB+,Mumbai,Cardiology,Dr. Rajesh Khanna,Arrhythmia,Elective,13830.78,6062.37,2023-07-17,2023-07-20,3,7,2023,Jul
+2597,Lakshmi Rao,32,Male,B+,Kolkata,Cardiology,Dr. Rajesh Khanna,Heart Failure,Emergency,57438.83,21754.84,2023-10-07,2023-10-24,17,10,2023,Oct
+2598,Rahul Chauhan,12,Female,B+,Chennai,Cardiology,Dr. Rajesh Khanna,Heart Attack,Elective,135003.33,64148.06,2023-07-31,2023-08-03,3,7,2023,Jul
+2599,Kavya Pandey,40,Female,A-,Chennai,Orthopedics,Dr. Amit Verma,Back Pain,Emergency,76705.56,33875.77,2024-12-22,2025-01-04,13,12,2024,Dec
+2600,Sneha Verma,12,Female,B+,Nagpur,Cardiology,Dr. Rajesh Khanna,Hypertension,Referral,134145.48,100088.83,2023-11-15,2023-11-17,2,11,2023,Nov
+2601,Priya Patel,62,Female,O-,Bangalore,General Medicine,Dr. Deepak Patel,Viral Fever,Referral,122217.26,65431.18,2023-05-14,2023-06-02,19,5,2023,May
+2602,Kavya Iyer,64,Male,AB-,Kolkata,General Medicine,Dr. Deepak Patel,Diabetes,Elective,42082.84,14436.93,2024-01-28,2024-02-16,19,1,2024,Jan
+2603,Sneha Kumar,54,Male,A+,Mumbai,Orthopedics,Dr. Priya Nair,Arthritis,Emergency,43975.65,20062.59,2024-09-23,2024-09-24,1,9,2024,Sep
+2604,Neha Desai,32,Male,B-,Kolkata,Orthopedics,Dr. Priya Nair,Fracture,Referral,49430.24,17125.51,2024-08-04,2024-08-22,18,8,2024,Aug
+2605,Amit Mishra,45,Male,A+,Nagpur,Pediatrics,Dr. Meera Gupta,Malnutrition,Referral,90499.76,58122.47,2024-04-11,2024-04-17,6,4,2024,Apr
+2606,Arjun Shah,68,Female,O+,Chennai,Cardiology,Dr. Sunita Rao,Heart Failure,Referral,16828.36,6931.55,2023-08-26,2023-09-04,9,8,2023,Aug
+2607,Sunita Pandey,31,Female,O-,Hyderabad,Cardiology,Dr. Sunita Rao,Arrhythmia,Referral,117037.29,76051.69,2024-02-06,2024-02-16,10,2,2024,Feb
+2608,Manoj Verma,67,Male,O-,Delhi,General Medicine,Dr. Anjali Singh,Malaria,Elective,46076.24,14520.1,2024-04-09,2024-04-27,18,4,2024,Apr
+2609,Meera Kumar,21,Male,AB+,Nagpur,Neurology,Dr. Kavya Pillai,Stroke,Elective,92701.72,67012.51,2024-05-05,2024-05-14,9,5,2024,May
+2610,Divya Kulkarni,77,Male,O-,Kolkata,Neurology,Dr. Suresh Iyer,Epilepsy,Referral,101987.1,51283.5,2024-06-04,2024-06-12,8,6,2024,Jun
+2611,Meera Mehta,37,Female,B-,Hyderabad,Oncology,Dr. Lakshmi Desai,Breast Cancer,Elective,43569.67,14615.97,2024-07-23,2024-07-27,4,7,2024,Jul
+2612,Priya Shah,81,Male,O-,Delhi,Neurology,Dr. Kavya Pillai,Parkinson's Disease,Emergency,71485.19,29972.86,2024-08-27,2024-09-01,5,8,2024,Aug
+2613,Vijay Chauhan,33,Female,B+,Pune,Pediatrics,Dr. Arjun Shah,Pneumonia,Referral,133457.53,62772.69,2024-01-29,2024-02-16,18,1,2024,Jan
+2614,Arjun Rao,17,Male,AB+,Nagpur,Oncology,Dr. Lakshmi Desai,Colon Cancer,Referral,149557.67,70456.68,2024-08-03,2024-08-07,4,8,2024,Aug
+2615,Anjali Kumar,50,Male,B-,Nagpur,General Medicine,Dr. Deepak Patel,Typhoid,Referral,132564.1,44932.23,2024-11-09,2024-11-18,9,11,2024,Nov
+2616,Anjali Desai,39,Female,AB-,Pune,Cardiology,Dr. Rajesh Khanna,Heart Failure,Referral,13281.99,7058.77,2024-08-29,2024-09-12,14,8,2024,Aug
+2617,Anjali Patel,10,Female,AB-,Pune,Cardiology,Dr. Sunita Rao,Heart Attack,Emergency,36994.4,28779.49,2023-06-30,2023-07-11,11,6,2023,Jun
+2618,Deepak Mehta,73,Male,AB-,Nagpur,Cardiology,Dr. Sunita Rao,Heart Attack,Emergency,35371.09,22018.31,2023-12-02,2023-12-15,13,12,2023,Dec
+2619,Vijay Kumar,51,Female,AB-,Pune,Neurology,Dr. Suresh Iyer,Stroke,Referral,39664.63,23417.36,2023-05-23,2023-05-28,5,5,2023,May
+2620,Arjun Singh,29,Female,B+,Mumbai,General Medicine,Dr. Deepak Patel,Diabetes,Elective,50326.71,26496.37,2024-11-07,2024-11-14,7,11,2024,Nov
+2621,Vijay Kulkarni,70,Female,O-,Delhi,Neurology,Dr. Kavya Pillai,Parkinson's Disease,Elective,146601.35,93936.05,2023-07-20,2023-07-27,7,7,2023,Jul
+2622,Aarav Patel,14,Male,A+,Delhi,General Medicine,Dr. Anjali Singh,Malaria,Elective,59222.33,46862.05,2024-03-21,2024-04-04,14,3,2024,Mar
+2623,Rohit Rao,60,Female,B-,Delhi,Emergency,Dr. Rohit Kumar,Accident Injury,Emergency,52640.93,26430.94,2024-09-18,2024-10-06,18,9,2024,Sep
+2624,Amit Bhat,34,Male,B+,Mumbai,Cardiology,Dr. Rajesh Khanna,Arrhythmia,Emergency,102397.78,58821.64,2024-01-14,2024-01-27,13,1,2024,Jan
+2625,Vijay Singh,9,Female,AB-,Bangalore,General Medicine,Dr. Anjali Singh,Diabetes,Emergency,96642.79,42629.58,2023-04-23,2023-04-30,7,4,2023,Apr
+2626,Sunita Joshi,37,Male,O+,Pune,General Medicine,Dr. Anjali Singh,Typhoid,Elective,50267.51,24989.7,2024-12-20,2024-12-23,3,12,2024,Dec
+2627,Manoj Joshi,69,Male,O-,Hyderabad,Neurology,Dr. Kavya Pillai,Parkinson's Disease,Referral,38672.58,22142.35,2024-01-26,2024-01-31,5,1,2024,Jan
+2628,Neha Reddy,22,Male,A+,Pune,Neurology,Dr. Kavya Pillai,Migraine,Elective,80894.04,46733.36,2023-05-23,2023-06-11,19,5,2023,May
+2629,Amit Kulkarni,53,Female,O+,Nagpur,Emergency,Dr. Rohit Kumar,Trauma,Emergency,58683.67,37266.07,2023-10-23,2023-11-01,9,10,2023,Oct
+2630,Aarav Mehta,15,Male,AB+,Chennai,General Medicine,Dr. Deepak Patel,Diabetes,Elective,127688.01,47499.68,2024-10-25,2024-10-28,3,10,2024,Oct
+2631,Amit Verma,30,Female,O+,Kolkata,Orthopedics,Dr. Amit Verma,Joint Replacement,Elective,98027.44,60886.95,2023-03-28,2023-04-03,6,3,2023,Mar
+2632,Sunita Mehta,67,Female,AB+,Kolkata,Cardiology,Dr. Sunita Rao,Heart Failure,Elective,14052.54,7408.46,2024-09-30,2024-10-17,17,9,2024,Sep
+2633,Pooja Kumar,63,Male,AB+,Delhi,Pediatrics,Dr. Arjun Shah,Malnutrition,Referral,122796.66,48246.26,2023-12-30,2024-01-07,8,12,2023,Dec
+2634,Aarav Verma,31,Female,AB-,Pune,Cardiology,Dr. Sunita Rao,Heart Attack,Elective,122279.82,67359.6,2023-08-31,2023-09-16,16,8,2023,Aug
+2635,Aarav Shah,53,Male,AB+,Hyderabad,Emergency,Dr. Rohit Kumar,Burns,Elective,129511.23,70147.69,2023-02-08,2023-02-21,13,2,2023,Feb
+2636,Neha Bhat,81,Female,A-,Nagpur,Oncology,Dr. Lakshmi Desai,Breast Cancer,Referral,44686.28,16580.56,2024-12-08,2024-12-10,2,12,2024,Dec
+2637,Rohit Sharma,37,Male,B-,Mumbai,Emergency,Dr. Pooja Joshi,Burns,Referral,142028.49,79774.33,2024-06-13,2024-07-01,18,6,2024,Jun
+2638,Pooja Mehta,5,Female,B-,Bangalore,General Medicine,Dr. Deepak Patel,Diabetes,Referral,102056.76,68464.07,2024-04-28,2024-05-15,17,4,2024,Apr
+2639,Priya Verma,25,Female,AB-,Mumbai,Orthopedics,Dr. Priya Nair,Fracture,Referral,49376.84,37121.14,2024-09-19,2024-10-08,19,9,2024,Sep
+2640,Meera Pillai,59,Female,A-,Hyderabad,Cardiology,Dr. Sunita Rao,Heart Attack,Referral,129905.62,97822.51,2024-04-09,2024-04-20,11,4,2024,Apr
+2641,Sneha Singh,10,Female,O+,Nagpur,Cardiology,Dr. Sunita Rao,Arrhythmia,Elective,52679.28,41557.64,2023-12-28,2024-01-13,16,12,2023,Dec
+2642,Divya Chauhan,73,Male,B+,Delhi,General Medicine,Dr. Deepak Patel,Malaria,Referral,131331.49,100000.03,2023-02-06,2023-02-14,8,2,2023,Feb
+2643,Anjali Pillai,9,Female,O+,Pune,Orthopedics,Dr. Priya Nair,Back Pain,Emergency,24094.6,12928.69,2023-03-04,2023-03-11,7,3,2023,Mar
+2644,Manoj Kumar,7,Female,O-,Nagpur,General Medicine,Dr. Anjali Singh,Diabetes,Emergency,103269.87,45790.67,2024-10-01,2024-10-09,8,10,2024,Oct
+2645,Arjun Pillai,57,Female,B+,Kolkata,Orthopedics,Dr. Amit Verma,Arthritis,Elective,29484.48,10799.26,2023-10-12,2023-10-15,3,10,2023,Oct
+2646,Neha Kulkarni,27,Male,AB+,Bangalore,Cardiology,Dr. Sunita Rao,Arrhythmia,Emergency,73943.98,26307.4,2023-01-15,2023-01-16,1,1,2023,Jan
+2647,Priya Pillai,57,Female,A+,Mumbai,Oncology,Dr. Lakshmi Desai,Lung Cancer,Referral,33207.58,12874.57,2024-01-14,2024-01-26,12,1,2024,Jan
+2648,Kavya Chauhan,41,Female,B+,Bangalore,Oncology,Dr. Lakshmi Desai,Lung Cancer,Emergency,84591.9,47683.98,2023-07-05,2023-07-15,10,7,2023,Jul
+2649,Aarav Patel,78,Female,A+,Bangalore,Orthopedics,Dr. Amit Verma,Back Pain,Emergency,88785.06,68095.56,2023-05-29,2023-06-02,4,5,2023,May
+2650,Divya Mishra,78,Male,B-,Hyderabad,Orthopedics,Dr. Priya Nair,Joint Replacement,Referral,71830.26,45277.03,2024-01-28,2024-02-14,17,1,2024,Jan
+2651,Meera Kumar,21,Female,A+,Hyderabad,Oncology,Dr. Vijay Reddy,Lung Cancer,Emergency,107861.38,77759.05,2024-08-14,2024-08-17,3,8,2024,Aug
+2652,Divya Chauhan,82,Male,B-,Pune,Cardiology,Dr. Rajesh Khanna,Arrhythmia,Elective,102296.88,54422.7,2023-02-23,2023-03-09,14,2,2023,Feb
+2653,Rahul Singh,77,Female,A-,Hyderabad,General Medicine,Dr. Anjali Singh,Malaria,Referral,49115.07,24061.49,2024-06-29,2024-07-16,17,6,2024,Jun
+2654,Rohit Kulkarni,5,Male,A-,Hyderabad,Cardiology,Dr. Sunita Rao,Heart Failure,Elective,64127.81,36246.39,2023-09-26,2023-10-14,18,9,2023,Sep
+2655,Amit Singh,55,Female,AB-,Nagpur,Emergency,Dr. Pooja Joshi,Accident Injury,Referral,15282.81,9769.49,2024-04-04,2024-04-19,15,4,2024,Apr
+2656,Amit Mehta,49,Female,AB-,Kolkata,Neurology,Dr. Suresh Iyer,Stroke,Elective,96549.52,46045.82,2024-06-28,2024-07-16,18,6,2024,Jun
+2657,Lakshmi Bhat,81,Male,AB+,Delhi,Orthopedics,Dr. Priya Nair,Back Pain,Elective,96296.11,67518.81,2023-10-04,2023-10-07,3,10,2023,Oct
+2658,Sunita Reddy,8,Female,B+,Pune,Emergency,Dr. Pooja Joshi,Trauma,Referral,117448.27,49433.8,2024-11-22,2024-11-24,2,11,2024,Nov
+2659,Deepak Kulkarni,66,Male,AB+,Nagpur,Neurology,Dr. Kavya Pillai,Migraine,Elective,37120.0,29570.07,2024-11-24,2024-12-11,17,11,2024,Nov
+2660,Kiran Nair,69,Female,B-,Delhi,Cardiology,Dr. Rajesh Khanna,Heart Attack,Referral,56792.89,28715.87,2023-03-11,2023-03-26,15,3,2023,Mar
+2661,Arjun Pillai,36,Female,AB+,Bangalore,Neurology,Dr. Kavya Pillai,Stroke,Elective,29281.66,19402.77,2023-12-26,2023-12-28,2,12,2023,Dec
+2662,Lakshmi Pandey,38,Female,A+,Nagpur,Pediatrics,Dr. Meera Gupta,Pneumonia,Referral,14153.84,4896.81,2023-01-25,2023-01-31,6,1,2023,Jan
+2663,Sneha Kumar,76,Female,B-,Chennai,Neurology,Dr. Suresh Iyer,Migraine,Referral,15637.79,5629.43,2024-12-26,2024-12-28,2,12,2024,Dec
+2664,Sunita Joshi,43,Female,AB-,Nagpur,General Medicine,Dr. Anjali Singh,Typhoid,Referral,134783.21,101080.48,2024-11-03,2024-11-06,3,11,2024,Nov
+2665,Meera Chauhan,30,Male,A-,Hyderabad,Oncology,Dr. Vijay Reddy,Lung Cancer,Elective,24917.45,10631.48,2024-12-13,2024-12-30,17,12,2024,Dec
+2666,Neha Pandey,38,Male,AB-,Delhi,Orthopedics,Dr. Priya Nair,Fracture,Referral,139969.49,71873.17,2023-10-11,2023-10-13,2,10,2023,Oct
+2667,Rohit Chauhan,58,Female,B+,Pune,General Medicine,Dr. Anjali Singh,Malaria,Emergency,50177.9,16909.88,2023-06-15,2023-06-21,6,6,2023,Jun
+2668,Deepak Pandey,7,Female,B-,Pune,Oncology,Dr. Lakshmi Desai,Colon Cancer,Elective,138500.25,59433.13,2023-12-07,2023-12-12,5,12,2023,Dec
+2669,Sneha Reddy,54,Female,B-,Delhi,Neurology,Dr. Kavya Pillai,Migraine,Emergency,87760.41,69305.36,2023-03-13,2023-03-22,9,3,2023,Mar
+2670,Meera Reddy,16,Female,A+,Hyderabad,Pediatrics,Dr. Meera Gupta,Malnutrition,Referral,36847.06,13051.79,2024-10-22,2024-11-01,10,10,2024,Oct
+2671,Suresh Shah,69,Male,B+,Mumbai,Cardiology,Dr. Rajesh Khanna,Heart Failure,Elective,79382.01,28031.76,2024-09-20,2024-09-24,4,9,2024,Sep
+2672,Amit Iyer,58,Female,A-,Nagpur,Orthopedics,Dr. Amit Verma,Back Pain,Referral,29333.12,9832.64,2023-02-05,2023-02-07,2,2,2023,Feb
+2673,Rahul Singh,9,Male,O+,Hyderabad,Cardiology,Dr. Sunita Rao,Arrhythmia,Referral,132047.91,72474.59,2023-01-20,2023-02-03,14,1,2023,Jan
+2674,Rahul Singh,61,Female,B-,Chennai,General Medicine,Dr. Deepak Patel,Diabetes,Referral,107306.59,46487.17,2024-11-11,2024-11-12,1,11,2024,Nov
+2675,Meera Kumar,21,Male,B-,Kolkata,Orthopedics,Dr. Priya Nair,Back Pain,Elective,15585.52,8691.91,2024-08-11,2024-08-29,18,8,2024,Aug
+2676,Anjali Verma,51,Male,A+,Bangalore,General Medicine,Dr. Anjali Singh,Viral Fever,Emergency,109214.13,72505.48,2024-02-18,2024-02-19,1,2,2024,Feb
+2677,Sunita Patel,27,Male,AB+,Delhi,Cardiology,Dr. Rajesh Khanna,Hypertension,Elective,138086.93,89015.07,2024-01-29,2024-02-02,4,1,2024,Jan
+2678,Manoj Desai,83,Male,O-,Kolkata,Cardiology,Dr. Sunita Rao,Heart Attack,Emergency,12805.43,5780.55,2023-12-08,2023-12-10,2,12,2023,Dec
+2679,Sunita Reddy,18,Female,A-,Nagpur,Orthopedics,Dr. Priya Nair,Fracture,Emergency,61812.58,48242.42,2024-07-01,2024-07-18,17,7,2024,Jul
+2680,Sneha Pandey,70,Male,AB-,Pune,Oncology,Dr. Lakshmi Desai,Colon Cancer,Emergency,112168.26,43555.96,2024-10-25,2024-11-07,13,10,2024,Oct
+2681,Anjali Pandey,79,Male,B+,Bangalore,General Medicine,Dr. Deepak Patel,Viral Fever,Emergency,132230.56,65461.05,2023-11-03,2023-11-13,10,11,2023,Nov
+2682,Priya Nair,55,Male,B-,Kolkata,General Medicine,Dr. Anjali Singh,Malaria,Referral,9599.76,5917.25,2023-03-28,2023-04-16,19,3,2023,Mar
+2683,Lakshmi Nair,42,Male,B-,Mumbai,Pediatrics,Dr. Meera Gupta,Pneumonia,Referral,148381.88,46396.39,2023-02-06,2023-02-10,4,2,2023,Feb
+2684,Anjali Kumar,68,Male,AB-,Kolkata,Pediatrics,Dr. Arjun Shah,Pneumonia,Referral,86552.26,60272.36,2024-02-03,2024-02-13,10,2,2024,Feb
+2685,Manoj Pillai,42,Male,A-,Chennai,Orthopedics,Dr. Priya Nair,Back Pain,Elective,133542.87,95766.95,2024-06-30,2024-07-01,1,6,2024,Jun
+2686,Vijay Verma,54,Female,O-,Pune,Neurology,Dr. Suresh Iyer,Stroke,Referral,19118.2,8963.75,2023-12-14,2024-01-01,18,12,2023,Dec
+2687,Divya Rao,34,Female,AB+,Delhi,General Medicine,Dr. Anjali Singh,Diabetes,Referral,129520.41,91124.32,2023-05-02,2023-05-16,14,5,2023,May
+2688,Sneha Shah,83,Female,B-,Nagpur,Orthopedics,Dr. Amit Verma,Joint Replacement,Emergency,39039.39,29763.94,2024-08-16,2024-08-26,10,8,2024,Aug
+2689,Sunita Shah,55,Male,O-,Delhi,Oncology,Dr. Lakshmi Desai,Lung Cancer,Referral,148823.93,79711.56,2024-10-31,2024-11-06,6,10,2024,Oct
+2690,Sneha Mehta,67,Male,A-,Bangalore,Gynecology,Dr. Divya Mehta,Pregnancy,Emergency,38867.27,14197.0,2024-12-19,2025-01-05,17,12,2024,Dec
+2691,Manoj Rao,56,Female,AB-,Nagpur,Cardiology,Dr. Sunita Rao,Heart Attack,Referral,67082.5,40626.03,2023-04-10,2023-04-29,19,4,2023,Apr
+2692,Meera Desai,42,Female,A+,Hyderabad,Cardiology,Dr. Rajesh Khanna,Heart Attack,Referral,57674.56,34459.9,2023-04-27,2023-04-30,3,4,2023,Apr
+2693,Lakshmi Kulkarni,83,Male,AB+,Mumbai,Neurology,Dr. Suresh Iyer,Migraine,Referral,136268.35,63865.1,2023-07-27,2023-08-07,11,7,2023,Jul
+2694,Sunita Sharma,34,Male,B+,Hyderabad,Pediatrics,Dr. Arjun Shah,Malnutrition,Referral,82870.99,53206.84,2023-05-04,2023-05-13,9,5,2023,May
+2695,Lakshmi Mehta,55,Male,B-,Hyderabad,Oncology,Dr. Lakshmi Desai,Lung Cancer,Emergency,107790.37,34794.01,2023-08-07,2023-08-23,16,8,2023,Aug
+2696,Aarav Gupta,9,Male,A-,Delhi,Gynecology,Dr. Divya Mehta,Uterine Fibroids,Elective,51458.19,19071.35,2023-05-04,2023-05-10,6,5,2023,May
+2697,Suresh Nair,33,Male,A+,Bangalore,Cardiology,Dr. Sunita Rao,Hypertension,Referral,137792.1,71559.65,2024-07-20,2024-08-03,14,7,2024,Jul
+2698,Rohit Shah,8,Female,B+,Mumbai,General Medicine,Dr. Deepak Patel,Diabetes,Referral,52310.91,37856.53,2023-04-13,2023-05-02,19,4,2023,Apr
+2699,Aarav Gupta,14,Female,O+,Kolkata,Cardiology,Dr. Rajesh Khanna,Heart Failure,Emergency,32568.67,17700.54,2023-01-17,2023-02-04,18,1,2023,Jan
+2700,Amit Bhat,60,Female,A-,Nagpur,Oncology,Dr. Vijay Reddy,Breast Cancer,Elective,16289.2,10195.05,2023-04-02,2023-04-08,6,4,2023,Apr
+2701,Deepak Singh,21,Female,A-,Nagpur,Gynecology,Dr. Neha Sharma,Menstrual Disorder,Referral,29477.45,11881.77,2024-12-09,2024-12-25,16,12,2024,Dec
+2702,Amit Sharma,78,Female,B+,Chennai,Oncology,Dr. Lakshmi Desai,Blood Cancer,Referral,35781.42,27517.52,2024-02-26,2024-03-05,8,2,2024,Feb
+2703,Rahul Pillai,21,Female,A+,Pune,Cardiology,Dr. Rajesh Khanna,Heart Attack,Referral,140545.35,108943.59,2024-05-26,2024-05-30,4,5,2024,May
+2704,Vijay Mishra,73,Female,O+,Chennai,Emergency,Dr. Pooja Joshi,Burns,Emergency,33886.85,19615.58,2024-03-04,2024-03-11,7,3,2024,Mar
+2705,Meera Chauhan,38,Male,O-,Kolkata,Orthopedics,Dr. Amit Verma,Fracture,Referral,132370.3,96811.07,2024-09-25,2024-10-10,15,9,2024,Sep
+2706,Rohit Gupta,10,Male,O-,Chennai,Gynecology,Dr. Neha Sharma,PCOS,Emergency,83960.52,33924.61,2024-10-03,2024-10-17,14,10,2024,Oct
+2707,Anjali Nair,57,Male,AB-,Nagpur,Cardiology,Dr. Rajesh Khanna,Hypertension,Elective,106635.63,76979.29,2023-06-02,2023-06-21,19,6,2023,Jun
+2708,Rohit Bhat,70,Female,A+,Delhi,Orthopedics,Dr. Amit Verma,Joint Replacement,Emergency,77985.04,59372.86,2023-06-13,2023-06-30,17,6,2023,Jun
+2709,Lakshmi Singh,81,Female,AB+,Hyderabad,Oncology,Dr. Lakshmi Desai,Blood Cancer,Referral,98602.48,41974.18,2023-08-03,2023-08-12,9,8,2023,Aug
+2710,Priya Verma,47,Male,B-,Bangalore,Cardiology,Dr. Rajesh Khanna,Heart Failure,Referral,120003.64,39148.58,2023-04-17,2023-04-23,6,4,2023,Apr
+2711,Pooja Kulkarni,79,Female,B+,Hyderabad,Orthopedics,Dr. Amit Verma,Arthritis,Emergency,10772.66,6005.24,2023-01-30,2023-01-31,1,1,2023,Jan
+2712,Priya Singh,27,Male,AB-,Hyderabad,Orthopedics,Dr. Priya Nair,Arthritis,Emergency,42833.19,19831.17,2024-08-29,2024-09-05,7,8,2024,Aug
+2713,Suresh Chauhan,59,Female,O+,Mumbai,Gynecology,Dr. Divya Mehta,Uterine Fibroids,Emergency,11249.52,4656.08,2023-04-23,2023-04-24,1,4,2023,Apr
+2714,Meera Iyer,84,Male,B+,Nagpur,Cardiology,Dr. Rajesh Khanna,Heart Failure,Elective,25473.86,10452.72,2024-01-20,2024-01-25,5,1,2024,Jan
+2715,Lakshmi Chauhan,79,Male,B+,Kolkata,General Medicine,Dr. Deepak Patel,Viral Fever,Referral,78680.55,32108.16,2024-03-22,2024-03-23,1,3,2024,Mar
+2716,Meera Mehta,20,Male,A+,Kolkata,General Medicine,Dr. Deepak Patel,Viral Fever,Referral,117409.01,43230.27,2024-02-01,2024-02-17,16,2,2024,Feb
+2717,Vijay Pillai,12,Male,B-,Bangalore,Neurology,Dr. Kavya Pillai,Migraine,Emergency,96142.13,44989.29,2023-10-04,2023-10-19,15,10,2023,Oct
+2718,Sneha Shah,8,Male,AB+,Delhi,General Medicine,Dr. Anjali Singh,Diabetes,Elective,141019.3,102355.43,2023-05-20,2023-05-21,1,5,2023,May
+2719,Meera Kumar,8,Male,O-,Mumbai,Emergency,Dr. Rohit Kumar,Trauma,Referral,124761.43,92723.25,2023-12-18,2023-12-21,3,12,2023,Dec
+2720,Kavya Bhat,60,Female,A-,Pune,General Medicine,Dr. Deepak Patel,Typhoid,Emergency,15010.36,8651.64,2024-08-14,2024-08-25,11,8,2024,Aug
+2721,Divya Pillai,29,Female,A-,Delhi,Neurology,Dr. Kavya Pillai,Stroke,Emergency,102353.88,74830.87,2024-06-18,2024-07-02,14,6,2024,Jun
+2722,Kavya Patel,71,Male,B+,Chennai,Emergency,Dr. Pooja Joshi,Trauma,Referral,26533.48,17645.0,2023-10-13,2023-10-23,10,10,2023,Oct
+2723,Neha Mishra,71,Female,O-,Delhi,General Medicine,Dr. Deepak Patel,Typhoid,Referral,85030.77,50145.49,2023-12-02,2023-12-06,4,12,2023,Dec
+2724,Lakshmi Patel,31,Female,O-,Delhi,Orthopedics,Dr. Amit Verma,Arthritis,Elective,33519.79,10727.32,2024-03-03,2024-03-04,1,3,2024,Mar
+2725,Aarav Joshi,36,Male,B-,Hyderabad,Orthopedics,Dr. Priya Nair,Fracture,Referral,86837.33,46860.43,2024-06-27,2024-07-07,10,6,2024,Jun
+2726,Kavya Joshi,54,Male,O+,Delhi,Emergency,Dr. Pooja Joshi,Accident Injury,Emergency,105931.58,36180.48,2024-05-22,2024-06-07,16,5,2024,May
+2727,Amit Mehta,65,Male,O+,Kolkata,Neurology,Dr. Suresh Iyer,Parkinson's Disease,Referral,33008.2,14784.21,2023-05-16,2023-06-02,17,5,2023,May
+2728,Kavya Reddy,55,Male,AB-,Chennai,Pediatrics,Dr. Meera Gupta,Fever,Referral,59842.55,27073.86,2024-05-06,2024-05-08,2,5,2024,May
+2729,Sneha Sharma,23,Female,A+,Chennai,Pediatrics,Dr. Meera Gupta,Malnutrition,Referral,54724.8,37536.7,2024-04-10,2024-04-23,13,4,2024,Apr
+2730,Divya Pandey,25,Male,B-,Nagpur,General Medicine,Dr. Deepak Patel,Viral Fever,Referral,128779.91,68529.96,2024-01-15,2024-01-16,1,1,2024,Jan
+2731,Pooja Verma,9,Female,B-,Delhi,General Medicine,Dr. Deepak Patel,Diabetes,Referral,39916.55,25761.16,2024-01-30,2024-02-15,16,1,2024,Jan
+2732,Deepak Desai,46,Female,A+,Hyderabad,Neurology,Dr. Kavya Pillai,Stroke,Referral,84096.1,36572.95,2024-03-12,2024-03-25,13,3,2024,Mar
+2733,Neha Pillai,65,Male,O-,Delhi,Orthopedics,Dr. Amit Verma,Arthritis,Emergency,18015.13,8428.33,2024-09-27,2024-09-28,1,9,2024,Sep
+2734,Sunita Shah,26,Female,O+,Pune,Emergency,Dr. Rohit Kumar,Burns,Referral,62604.36,30225.1,2023-04-24,2023-04-26,2,4,2023,Apr
+2735,Rahul Mishra,25,Male,O+,Pune,Orthopedics,Dr. Priya Nair,Fracture,Referral,54711.65,34144.79,2024-01-11,2024-01-20,9,1,2024,Jan
+2736,Priya Pandey,74,Female,O-,Hyderabad,Cardiology,Dr. Rajesh Khanna,Heart Attack,Emergency,145045.69,60820.03,2023-05-22,2023-06-09,18,5,2023,May
+2737,Aarav Chauhan,5,Male,O+,Nagpur,Orthopedics,Dr. Amit Verma,Joint Replacement,Elective,39831.82,18974.12,2023-08-19,2023-08-30,11,8,2023,Aug
+2738,Rahul Reddy,9,Female,B+,Nagpur,Neurology,Dr. Kavya Pillai,Parkinson's Disease,Elective,82511.09,40133.96,2023-02-25,2023-03-07,10,2,2023,Feb
+2739,Manoj Pandey,16,Female,B-,Chennai,Orthopedics,Dr. Amit Verma,Joint Replacement,Referral,48712.14,27568.74,2024-04-26,2024-05-12,16,4,2024,Apr
+2740,Manoj Mishra,50,Male,A-,Chennai,General Medicine,Dr. Anjali Singh,Malaria,Referral,58951.93,41263.52,2024-09-27,2024-10-14,17,9,2024,Sep
+2741,Meera Nair,38,Female,A+,Mumbai,General Medicine,Dr. Deepak Patel,Diabetes,Emergency,143049.05,48648.87,2024-04-13,2024-04-17,4,4,2024,Apr
+2742,Sneha Mishra,53,Female,O+,Hyderabad,General Medicine,Dr. Deepak Patel,Malaria,Referral,132729.8,58131.85,2023-04-22,2023-05-07,15,4,2023,Apr
+2743,Aarav Reddy,82,Female,AB-,Delhi,Cardiology,Dr. Sunita Rao,Hypertension,Referral,77383.85,31118.22,2023-06-04,2023-06-19,15,6,2023,Jun
+2744,Pooja Kulkarni,49,Female,O+,Bangalore,Orthopedics,Dr. Priya Nair,Fracture,Emergency,17630.85,11304.93,2024-03-02,2024-03-21,19,3,2024,Mar
+2745,Arjun Shah,31,Female,O+,Hyderabad,Pediatrics,Dr. Arjun Shah,Malnutrition,Emergency,144424.86,96599.24,2024-03-06,2024-03-20,14,3,2024,Mar
+2746,Rahul Pandey,77,Male,AB+,Mumbai,Neurology,Dr. Suresh Iyer,Epilepsy,Emergency,55989.23,41202.3,2023-03-06,2023-03-09,3,3,2023,Mar
+2747,Sneha Rao,30,Male,B+,Chennai,Emergency,Dr. Pooja Joshi,Burns,Elective,48388.64,30382.27,2024-08-15,2024-09-01,17,8,2024,Aug
+2748,Meera Bhat,51,Female,A+,Hyderabad,Neurology,Dr. Kavya Pillai,Parkinson's Disease,Elective,67885.68,39619.84,2024-04-13,2024-04-16,3,4,2024,Apr
+2749,Deepak Pillai,60,Male,AB+,Hyderabad,Oncology,Dr. Lakshmi Desai,Lung Cancer,Elective,147936.4,71889.86,2023-08-21,2023-08-24,3,8,2023,Aug
+2750,Rahul Mishra,67,Female,AB+,Chennai,Oncology,Dr. Vijay Reddy,Breast Cancer,Emergency,54186.94,28608.71,2023-12-28,2024-01-04,7,12,2023,Dec
+2751,Kavya Reddy,52,Female,AB-,Kolkata,Pediatrics,Dr. Arjun Shah,Pneumonia,Referral,12433.2,4820.1,2023-07-06,2023-07-07,1,7,2023,Jul
+2752,Neha Reddy,65,Male,B-,Mumbai,Neurology,Dr. Suresh Iyer,Migraine,Elective,61182.64,19613.67,2023-09-01,2023-09-17,16,9,2023,Sep
+2753,Pooja Singh,30,Male,AB-,Chennai,General Medicine,Dr. Anjali Singh,Typhoid,Referral,56762.45,22264.97,2023-09-24,2023-10-01,7,9,2023,Sep
+2754,Kiran Kumar,40,Female,B-,Nagpur,General Medicine,Dr. Anjali Singh,Diabetes,Referral,100947.06,49106.45,2023-12-19,2024-01-04,16,12,2023,Dec
+2755,Kiran Pillai,5,Male,B-,Delhi,Orthopedics,Dr. Priya Nair,Arthritis,Elective,47327.12,14787.96,2023-05-05,2023-05-19,14,5,2023,May
+2756,Vijay Shah,12,Female,A+,Chennai,General Medicine,Dr. Anjali Singh,Typhoid,Referral,60169.87,18180.15,2023-11-24,2023-12-07,13,11,2023,Nov
+2757,Anjali Verma,56,Male,O+,Mumbai,Cardiology,Dr. Sunita Rao,Arrhythmia,Referral,108693.13,48359.05,2024-04-30,2024-05-04,4,4,2024,Apr
+2758,Neha Kumar,83,Female,A+,Pune,Gynecology,Dr. Neha Sharma,PCOS,Elective,121812.32,43384.41,2023-12-13,2023-12-27,14,12,2023,Dec
+2759,Amit Mehta,51,Male,B+,Nagpur,Orthopedics,Dr. Amit Verma,Fracture,Emergency,82667.0,29631.0,2024-11-25,2024-12-07,12,11,2024,Nov
+2760,Vijay Gupta,60,Female,B-,Pune,General Medicine,Dr. Deepak Patel,Viral Fever,Emergency,101676.07,35204.38,2024-04-01,2024-04-03,2,4,2024,Apr
+2761,Lakshmi Verma,18,Male,AB+,Bangalore,Pediatrics,Dr. Meera Gupta,Pneumonia,Referral,5136.8,1598.95,2023-10-12,2023-10-28,16,10,2023,Oct
+2762,Rahul Gupta,32,Female,O+,Chennai,Cardiology,Dr. Rajesh Khanna,Heart Failure,Elective,56904.37,22603.84,2024-06-08,2024-06-17,9,6,2024,Jun
+2763,Divya Chauhan,82,Male,A-,Nagpur,Neurology,Dr. Kavya Pillai,Stroke,Elective,126669.46,83346.21,2024-02-12,2024-02-29,17,2,2024,Feb
+2764,Manoj Bhat,6,Female,B+,Delhi,Pediatrics,Dr. Arjun Shah,Asthma,Elective,92036.45,40710.04,2024-01-17,2024-01-31,14,1,2024,Jan
+2765,Arjun Bhat,30,Female,A+,Chennai,General Medicine,Dr. Anjali Singh,Malaria,Elective,129054.91,52634.73,2024-07-28,2024-07-30,2,7,2024,Jul
+2766,Lakshmi Reddy,18,Male,AB-,Delhi,Neurology,Dr. Kavya Pillai,Parkinson's Disease,Elective,54537.96,38331.26,2023-10-23,2023-11-11,19,10,2023,Oct
+2767,Rohit Verma,63,Male,B+,Kolkata,General Medicine,Dr. Deepak Patel,Viral Fever,Emergency,77101.81,26448.93,2024-08-24,2024-08-30,6,8,2024,Aug
+2768,Arjun Singh,60,Male,B+,Hyderabad,Cardiology,Dr. Sunita Rao,Arrhythmia,Referral,52537.21,17497.93,2024-06-21,2024-07-09,18,6,2024,Jun
+2769,Divya Chauhan,11,Female,O+,Pune,Oncology,Dr. Vijay Reddy,Colon Cancer,Elective,32801.75,20317.5,2023-01-07,2023-01-26,19,1,2023,Jan
+2770,Kavya Mehta,7,Female,B+,Nagpur,Pediatrics,Dr. Meera Gupta,Malnutrition,Emergency,54300.64,35573.63,2024-07-23,2024-08-11,19,7,2024,Jul
+2771,Manoj Patel,27,Female,B+,Delhi,Emergency,Dr. Rohit Kumar,Poisoning,Emergency,17218.33,9933.83,2024-01-26,2024-02-06,11,1,2024,Jan
+2772,Anjali Pillai,22,Male,A-,Mumbai,Neurology,Dr. Kavya Pillai,Epilepsy,Emergency,31363.56,21011.33,2024-05-20,2024-05-25,5,5,2024,May
+2773,Rahul Nair,42,Male,O-,Delhi,Neurology,Dr. Suresh Iyer,Stroke,Referral,107457.6,48365.02,2023-06-07,2023-06-12,5,6,2023,Jun
+2774,Arjun Chauhan,19,Female,AB-,Mumbai,Pediatrics,Dr. Meera Gupta,Malnutrition,Elective,25379.33,18941.69,2024-10-31,2024-11-15,15,10,2024,Oct
+2775,Priya Patel,68,Male,AB-,Chennai,Orthopedics,Dr. Priya Nair,Arthritis,Emergency,51699.79,21836.71,2024-12-05,2024-12-13,8,12,2024,Dec
+2776,Anjali Nair,32,Female,AB-,Nagpur,Pediatrics,Dr. Arjun Shah,Asthma,Referral,139646.55,93951.8,2023-03-10,2023-03-18,8,3,2023,Mar
+2777,Rahul Singh,78,Male,B-,Delhi,General Medicine,Dr. Anjali Singh,Viral Fever,Referral,43436.79,27927.96,2023-09-22,2023-10-06,14,9,2023,Sep
+2778,Lakshmi Kulkarni,43,Female,AB+,Bangalore,General Medicine,Dr. Anjali Singh,Diabetes,Elective,81500.26,47892.15,2024-06-08,2024-06-14,6,6,2024,Jun
+2779,Kiran Mishra,61,Male,O-,Delhi,Orthopedics,Dr. Amit Verma,Arthritis,Referral,124138.03,65857.95,2023-05-30,2023-06-08,9,5,2023,May
+2780,Arjun Bhat,21,Male,AB-,Kolkata,Cardiology,Dr. Sunita Rao,Hypertension,Elective,48902.39,21337.83,2023-06-17,2023-06-20,3,6,2023,Jun
+2781,Sunita Patel,48,Female,B+,Bangalore,Pediatrics,Dr. Meera Gupta,Asthma,Emergency,13309.99,7517.56,2023-10-24,2023-11-05,12,10,2023,Oct
+2782,Arjun Bhat,29,Female,B+,Nagpur,Cardiology,Dr. Rajesh Khanna,Hypertension,Referral,60061.92,40620.73,2023-04-07,2023-04-09,2,4,2023,Apr
+2783,Vijay Reddy,21,Female,AB-,Kolkata,General Medicine,Dr. Anjali Singh,Malaria,Referral,89489.49,40318.25,2024-12-02,2024-12-06,4,12,2024,Dec
+2784,Lakshmi Iyer,17,Male,O+,Delhi,Cardiology,Dr. Rajesh Khanna,Arrhythmia,Emergency,115520.75,54966.47,2024-07-01,2024-07-13,12,7,2024,Jul
+2785,Kiran Verma,29,Male,AB-,Mumbai,General Medicine,Dr. Deepak Patel,Diabetes,Elective,52615.9,25598.01,2024-06-14,2024-06-22,8,6,2024,Jun
+2786,Priya Chauhan,72,Female,B+,Delhi,Pediatrics,Dr. Arjun Shah,Malnutrition,Referral,76018.95,31087.05,2023-06-16,2023-06-28,12,6,2023,Jun
+2787,Sneha Reddy,14,Female,B-,Pune,Pediatrics,Dr. Meera Gupta,Pneumonia,Referral,24773.7,15974.74,2024-07-26,2024-08-06,11,7,2024,Jul
+2788,Rahul Pillai,71,Male,A+,Chennai,General Medicine,Dr. Anjali Singh,Diabetes,Emergency,31937.66,10801.32,2024-04-16,2024-05-02,16,4,2024,Apr
+2789,Pooja Patel,22,Male,A+,Hyderabad,Cardiology,Dr. Sunita Rao,Heart Attack,Emergency,78469.44,50654.01,2023-12-23,2024-01-04,12,12,2023,Dec
+2790,Neha Chauhan,38,Male,O-,Mumbai,Oncology,Dr. Lakshmi Desai,Colon Cancer,Referral,45129.35,20413.91,2023-06-26,2023-07-14,18,6,2023,Jun
+2791,Arjun Pillai,12,Female,O-,Pune,Pediatrics,Dr. Meera Gupta,Fever,Referral,15109.32,9777.58,2023-05-12,2023-05-30,18,5,2023,May
+2792,Kiran Kulkarni,44,Male,AB-,Bangalore,Emergency,Dr. Pooja Joshi,Poisoning,Emergency,46742.55,17066.13,2023-05-09,2023-05-16,7,5,2023,May
+2793,Pooja Shah,46,Male,A-,Chennai,General Medicine,Dr. Deepak Patel,Viral Fever,Elective,10323.38,7095.74,2023-03-21,2023-03-27,6,3,2023,Mar
+2794,Anjali Nair,45,Male,AB-,Nagpur,Pediatrics,Dr. Meera Gupta,Fever,Referral,128570.8,89553.11,2023-04-21,2023-05-03,12,4,2023,Apr
+2795,Deepak Pandey,10,Male,O+,Mumbai,Cardiology,Dr. Sunita Rao,Heart Attack,Emergency,85158.16,36320.49,2023-05-02,2023-05-08,6,5,2023,May
+2796,Rohit Kulkarni,56,Male,AB-,Hyderabad,General Medicine,Dr. Deepak Patel,Malaria,Referral,17383.44,6291.01,2023-04-09,2023-04-28,19,4,2023,Apr
+2797,Priya Reddy,30,Female,O-,Chennai,Gynecology,Dr. Divya Mehta,PCOS,Emergency,94057.01,44749.21,2023-07-09,2023-07-15,6,7,2023,Jul
+2798,Rahul Reddy,68,Male,A+,Bangalore,Orthopedics,Dr. Priya Nair,Arthritis,Referral,67226.68,32006.73,2024-08-16,2024-08-17,1,8,2024,Aug
+2799,Sneha Desai,63,Female,B+,Kolkata,Cardiology,Dr. Rajesh Khanna,Hypertension,Emergency,39773.89,23429.48,2023-04-12,2023-04-24,12,4,2023,Apr
+2800,Deepak Nair,60,Male,AB-,Kolkata,Orthopedics,Dr. Amit Verma,Arthritis,Referral,125056.59,93896.26,2023-10-16,2023-10-30,14,10,2023,Oct
+2801,Suresh Kulkarni,63,Female,B+,Hyderabad,Neurology,Dr. Suresh Iyer,Stroke,Referral,88637.15,48936.36,2023-08-08,2023-08-18,10,8,2023,Aug
+2802,Amit Reddy,74,Female,B+,Nagpur,Cardiology,Dr. Sunita Rao,Heart Failure,Referral,63334.52,24862.78,2024-12-15,2024-12-17,2,12,2024,Dec
+2803,Rahul Bhat,37,Female,A-,Nagpur,Neurology,Dr. Suresh Iyer,Stroke,Referral,68495.48,35072.83,2023-12-30,2024-01-06,7,12,2023,Dec
+2804,Amit Shah,57,Female,B+,Bangalore,Oncology,Dr. Lakshmi Desai,Lung Cancer,Emergency,19581.6,15514.63,2023-04-26,2023-05-14,18,4,2023,Apr
+2805,Kavya Mishra,26,Male,A+,Mumbai,Neurology,Dr. Suresh Iyer,Parkinson's Disease,Elective,129815.85,71127.14,2024-06-16,2024-06-19,3,6,2024,Jun
+2806,Amit Kulkarni,25,Male,B-,Bangalore,Neurology,Dr. Suresh Iyer,Epilepsy,Elective,53201.87,29093.78,2023-03-26,2023-04-13,18,3,2023,Mar
+2807,Rahul Nair,74,Female,B-,Delhi,Orthopedics,Dr. Priya Nair,Back Pain,Elective,38546.86,17577.5,2024-09-06,2024-09-18,12,9,2024,Sep
+2808,Sunita Mishra,74,Female,AB+,Nagpur,Neurology,Dr. Kavya Pillai,Migraine,Emergency,145109.77,74583.64,2023-10-25,2023-11-11,17,10,2023,Oct
+2809,Rohit Verma,8,Female,O+,Chennai,Gynecology,Dr. Neha Sharma,Menstrual Disorder,Elective,79911.0,63877.79,2023-07-03,2023-07-07,4,7,2023,Jul
+2810,Kiran Singh,79,Female,AB-,Delhi,Orthopedics,Dr. Priya Nair,Fracture,Emergency,127986.32,80538.48,2024-03-24,2024-03-28,4,3,2024,Mar
+2811,Meera Pillai,66,Female,O+,Kolkata,General Medicine,Dr. Deepak Patel,Diabetes,Emergency,34212.27,22153.08,2024-02-09,2024-02-28,19,2,2024,Feb
+2812,Anjali Sharma,66,Male,A+,Kolkata,Orthopedics,Dr. Amit Verma,Arthritis,Emergency,51115.74,20422.95,2024-01-08,2024-01-24,16,1,2024,Jan
+2813,Anjali Nair,28,Male,B+,Pune,Emergency,Dr. Rohit Kumar,Trauma,Elective,29927.32,15333.33,2023-08-27,2023-09-04,8,8,2023,Aug
+2814,Pooja Joshi,59,Female,B-,Hyderabad,Pediatrics,Dr. Arjun Shah,Asthma,Elective,51021.38,25516.7,2024-10-21,2024-11-03,13,10,2024,Oct
+2815,Rohit Iyer,13,Female,O+,Delhi,Orthopedics,Dr. Priya Nair,Joint Replacement,Elective,86086.63,32169.46,2024-06-07,2024-06-15,8,6,2024,Jun
+2816,Vijay Rao,7,Male,A+,Hyderabad,Pediatrics,Dr. Meera Gupta,Fever,Referral,136403.86,74836.19,2023-09-14,2023-09-26,12,9,2023,Sep
+2817,Amit Verma,35,Female,B-,Bangalore,General Medicine,Dr. Deepak Patel,Typhoid,Emergency,59662.99,19475.56,2023-04-12,2023-04-30,18,4,2023,Apr
+2818,Rahul Nair,44,Male,B+,Delhi,General Medicine,Dr. Deepak Patel,Viral Fever,Elective,6529.91,3932.91,2023-07-03,2023-07-05,2,7,2023,Jul
+2819,Sneha Pillai,40,Female,O+,Bangalore,Neurology,Dr. Kavya Pillai,Migraine,Emergency,23286.72,8107.66,2024-09-28,2024-10-10,12,9,2024,Sep
+2820,Sunita Pillai,28,Male,B-,Pune,General Medicine,Dr. Anjali Singh,Viral Fever,Elective,63930.4,40343.06,2023-07-26,2023-08-04,9,7,2023,Jul
+2821,Priya Reddy,10,Male,AB-,Nagpur,Emergency,Dr. Pooja Joshi,Burns,Emergency,32833.54,10140.15,2024-07-07,2024-07-12,5,7,2024,Jul
+2822,Lakshmi Verma,70,Female,O-,Kolkata,General Medicine,Dr. Deepak Patel,Viral Fever,Elective,24036.76,10991.52,2024-01-28,2024-02-06,9,1,2024,Jan
+2823,Lakshmi Mishra,79,Male,AB-,Pune,Orthopedics,Dr. Priya Nair,Joint Replacement,Referral,74066.74,28770.08,2023-02-06,2023-02-16,10,2,2023,Feb
+2824,Amit Gupta,8,Female,AB+,Kolkata,General Medicine,Dr. Deepak Patel,Malaria,Referral,48640.12,17862.8,2024-05-18,2024-05-21,3,5,2024,May
+2825,Pooja Kulkarni,83,Female,AB+,Nagpur,Orthopedics,Dr. Priya Nair,Joint Replacement,Referral,73752.9,47018.38,2023-04-23,2023-04-29,6,4,2023,Apr
+2826,Pooja Chauhan,10,Female,B-,Bangalore,Orthopedics,Dr. Priya Nair,Joint Replacement,Emergency,149349.09,56477.18,2024-07-29,2024-08-03,5,7,2024,Jul
+2827,Priya Pandey,55,Male,O-,Nagpur,Pediatrics,Dr. Arjun Shah,Malnutrition,Referral,26453.96,20777.88,2024-05-21,2024-06-03,13,5,2024,May
+2828,Anjali Rao,66,Male,A+,Kolkata,Gynecology,Dr. Neha Sharma,Uterine Fibroids,Emergency,34870.82,10952.0,2023-11-25,2023-12-03,8,11,2023,Nov
+2829,Arjun Kulkarni,61,Male,AB-,Kolkata,Gynecology,Dr. Neha Sharma,PCOS,Emergency,126598.29,84951.07,2023-12-24,2023-12-28,4,12,2023,Dec
+2830,Kavya Chauhan,70,Female,A+,Hyderabad,Oncology,Dr. Lakshmi Desai,Blood Cancer,Elective,9992.54,4722.19,2023-04-10,2023-04-20,10,4,2023,Apr
+2831,Neha Desai,83,Female,O-,Chennai,Neurology,Dr. Kavya Pillai,Parkinson's Disease,Emergency,48762.36,20583.3,2023-02-27,2023-03-04,5,2,2023,Feb
+2832,Neha Nair,79,Female,A+,Pune,Cardiology,Dr. Rajesh Khanna,Arrhythmia,Emergency,83062.65,61007.02,2024-12-05,2024-12-14,9,12,2024,Dec
+2833,Divya Joshi,12,Female,O-,Delhi,Emergency,Dr. Rohit Kumar,Burns,Elective,24385.87,11292.08,2023-01-21,2023-01-24,3,1,2023,Jan
+2834,Anjali Bhat,30,Female,B-,Kolkata,Emergency,Dr. Pooja Joshi,Trauma,Referral,69564.73,45076.5,2023-10-01,2023-10-14,13,10,2023,Oct
+2835,Arjun Chauhan,55,Female,A+,Pune,Pediatrics,Dr. Arjun Shah,Fever,Referral,19388.29,9600.12,2024-01-22,2024-02-05,14,1,2024,Jan
+2836,Kavya Mishra,49,Male,AB-,Hyderabad,Neurology,Dr. Kavya Pillai,Stroke,Elective,36197.57,23077.97,2023-04-13,2023-04-14,1,4,2023,Apr
+2837,Kiran Pillai,48,Female,B+,Nagpur,General Medicine,Dr. Anjali Singh,Viral Fever,Elective,139763.51,62860.1,2023-06-20,2023-06-25,5,6,2023,Jun
+2838,Meera Gupta,9,Male,AB+,Hyderabad,Orthopedics,Dr. Priya Nair,Arthritis,Emergency,112089.18,88220.2,2024-10-12,2024-10-27,15,10,2024,Oct
+2839,Vijay Kulkarni,74,Female,B+,Mumbai,Cardiology,Dr. Sunita Rao,Hypertension,Referral,40127.29,18003.52,2023-09-29,2023-10-18,19,9,2023,Sep
+2840,Amit Mehta,30,Female,A+,Mumbai,Orthopedics,Dr. Amit Verma,Joint Replacement,Referral,138185.63,107642.53,2024-10-01,2024-10-05,4,10,2024,Oct
+2841,Priya Iyer,72,Female,B+,Delhi,Cardiology,Dr. Sunita Rao,Heart Attack,Referral,146609.56,85504.77,2023-10-07,2023-10-11,4,10,2023,Oct
+2842,Anjali Desai,23,Male,AB-,Hyderabad,Neurology,Dr. Kavya Pillai,Parkinson's Disease,Referral,96186.57,67121.48,2023-08-03,2023-08-07,4,8,2023,Aug
+2843,Sneha Pillai,24,Male,AB-,Bangalore,General Medicine,Dr. Anjali Singh,Malaria,Emergency,112426.04,64079.9,2024-03-19,2024-04-06,18,3,2024,Mar
+2844,Sneha Nair,16,Male,A+,Delhi,Pediatrics,Dr. Arjun Shah,Malnutrition,Referral,114647.87,63937.35,2023-09-15,2023-09-17,2,9,2023,Sep
+2845,Rahul Gupta,51,Male,B-,Bangalore,Neurology,Dr. Suresh Iyer,Migraine,Emergency,24334.95,13581.63,2024-10-04,2024-10-13,9,10,2024,Oct
+2846,Suresh Chauhan,5,Male,B+,Delhi,Orthopedics,Dr. Amit Verma,Joint Replacement,Elective,139024.89,98979.33,2024-11-07,2024-11-17,10,11,2024,Nov
+2847,Kiran Verma,18,Female,B-,Mumbai,Orthopedics,Dr. Priya Nair,Back Pain,Referral,73774.76,45251.91,2024-08-02,2024-08-04,2,8,2024,Aug
+2848,Meera Singh,68,Female,B-,Delhi,Cardiology,Dr. Sunita Rao,Hypertension,Referral,62997.54,26470.75,2024-04-18,2024-05-05,17,4,2024,Apr
+2849,Neha Chauhan,42,Male,O-,Mumbai,Cardiology,Dr. Sunita Rao,Arrhythmia,Emergency,88696.33,64756.57,2024-02-25,2024-02-28,3,2,2024,Feb
+2850,Anjali Sharma,41,Male,A-,Kolkata,General Medicine,Dr. Anjali Singh,Typhoid,Emergency,54146.99,24015.4,2023-10-01,2023-10-18,17,10,2023,Oct
+2851,Meera Patel,15,Male,A+,Nagpur,Oncology,Dr. Vijay Reddy,Blood Cancer,Emergency,106659.15,38053.78,2024-02-20,2024-02-24,4,2,2024,Feb
+2852,Deepak Pillai,81,Female,AB+,Bangalore,Neurology,Dr. Suresh Iyer,Stroke,Elective,42179.89,22890.65,2023-11-14,2023-11-21,7,11,2023,Nov
+2853,Anjali Rao,7,Female,AB-,Hyderabad,Emergency,Dr. Rohit Kumar,Trauma,Emergency,100894.69,44026.0,2023-07-26,2023-08-03,8,7,2023,Jul
+2854,Deepak Singh,37,Female,AB-,Kolkata,Cardiology,Dr. Sunita Rao,Arrhythmia,Emergency,146959.62,57019.25,2024-11-05,2024-11-20,15,11,2024,Nov
+2855,Anjali Rao,10,Male,A+,Kolkata,Neurology,Dr. Suresh Iyer,Parkinson's Disease,Elective,129241.13,96705.03,2023-02-26,2023-02-28,2,2,2023,Feb
+2856,Aarav Reddy,54,Female,O-,Delhi,Pediatrics,Dr. Meera Gupta,Asthma,Referral,82742.53,39858.49,2024-02-21,2024-03-08,16,2,2024,Feb
+2857,Sneha Reddy,14,Female,O+,Mumbai,General Medicine,Dr. Anjali Singh,Diabetes,Referral,141137.16,50240.06,2023-05-24,2023-05-28,4,5,2023,May
+2858,Amit Verma,9,Male,O+,Pune,Orthopedics,Dr. Priya Nair,Fracture,Referral,114754.51,39604.58,2024-05-23,2024-05-27,4,5,2024,May
+2859,Priya Nair,27,Female,O+,Bangalore,General Medicine,Dr. Anjali Singh,Diabetes,Elective,130129.15,77057.68,2023-12-04,2023-12-22,18,12,2023,Dec
+2860,Divya Verma,14,Male,O-,Kolkata,Pediatrics,Dr. Arjun Shah,Pneumonia,Emergency,21116.88,7462.85,2023-08-12,2023-08-29,17,8,2023,Aug
+2861,Divya Chauhan,48,Female,AB+,Delhi,Cardiology,Dr. Sunita Rao,Arrhythmia,Emergency,132273.66,96751.56,2024-02-23,2024-02-27,4,2,2024,Feb
+2862,Lakshmi Sharma,6,Male,AB-,Chennai,Orthopedics,Dr. Priya Nair,Joint Replacement,Referral,124291.92,44307.67,2024-12-17,2025-01-01,15,12,2024,Dec
+2863,Rahul Sharma,17,Female,A+,Nagpur,Orthopedics,Dr. Priya Nair,Joint Replacement,Emergency,77898.78,60890.18,2024-11-30,2024-12-15,15,11,2024,Nov
+2864,Suresh Joshi,44,Female,O-,Nagpur,Oncology,Dr. Lakshmi Desai,Blood Cancer,Referral,49210.95,22345.99,2024-01-12,2024-01-31,19,1,2024,Jan
+2865,Amit Desai,6,Female,AB-,Pune,Orthopedics,Dr. Amit Verma,Fracture,Emergency,48189.61,33462.93,2024-12-08,2024-12-12,4,12,2024,Dec
+2866,Lakshmi Pillai,69,Female,B-,Mumbai,Oncology,Dr. Lakshmi Desai,Blood Cancer,Elective,34203.91,26653.12,2023-11-13,2023-11-26,13,11,2023,Nov
+2867,Meera Kumar,67,Male,B+,Delhi,Cardiology,Dr. Rajesh Khanna,Heart Attack,Elective,59498.61,18083.59,2024-03-29,2024-04-02,4,3,2024,Mar
+2868,Kavya Rao,77,Male,B+,Bangalore,Oncology,Dr. Lakshmi Desai,Blood Cancer,Emergency,71225.94,50666.85,2023-04-03,2023-04-13,10,4,2023,Apr
+2869,Kavya Kumar,21,Male,O-,Mumbai,Orthopedics,Dr. Amit Verma,Back Pain,Elective,134215.31,69714.51,2023-06-14,2023-06-21,7,6,2023,Jun
+2870,Priya Rao,13,Male,AB-,Nagpur,Pediatrics,Dr. Meera Gupta,Malnutrition,Elective,56023.3,19050.57,2023-10-08,2023-10-14,6,10,2023,Oct
+2871,Meera Kulkarni,79,Female,A-,Mumbai,General Medicine,Dr. Anjali Singh,Viral Fever,Emergency,23073.88,11794.98,2023-12-07,2023-12-15,8,12,2023,Dec
+2872,Arjun Singh,19,Male,AB+,Nagpur,Gynecology,Dr. Neha Sharma,PCOS,Referral,31723.7,15098.2,2024-06-02,2024-06-16,14,6,2024,Jun
+2873,Sneha Iyer,28,Female,O+,Mumbai,Cardiology,Dr. Sunita Rao,Arrhythmia,Referral,11823.47,8051.64,2024-12-12,2024-12-21,9,12,2024,Dec
+2874,Lakshmi Desai,42,Female,AB+,Pune,Cardiology,Dr. Sunita Rao,Hypertension,Emergency,67111.01,20236.51,2024-10-18,2024-10-26,8,10,2024,Oct
+2875,Aarav Pillai,39,Female,AB+,Hyderabad,Cardiology,Dr. Sunita Rao,Arrhythmia,Emergency,86480.61,30736.43,2024-08-12,2024-08-16,4,8,2024,Aug
+2876,Manoj Rao,53,Male,O-,Pune,Cardiology,Dr. Sunita Rao,Hypertension,Referral,87422.63,47136.77,2023-11-24,2023-11-25,1,11,2023,Nov
+2877,Amit Nair,73,Female,B-,Pune,Oncology,Dr. Lakshmi Desai,Lung Cancer,Elective,74162.59,44238.74,2023-06-27,2023-07-01,4,6,2023,Jun
+2878,Meera Sharma,66,Female,AB+,Hyderabad,Neurology,Dr. Suresh Iyer,Epilepsy,Elective,136785.48,66176.79,2023-03-28,2023-04-03,6,3,2023,Mar
+2879,Lakshmi Shah,64,Male,B+,Hyderabad,Oncology,Dr. Vijay Reddy,Colon Cancer,Referral,144498.48,45009.12,2023-01-22,2023-02-07,16,1,2023,Jan
+2880,Neha Bhat,54,Female,B-,Kolkata,Pediatrics,Dr. Meera Gupta,Pneumonia,Emergency,45410.68,19567.08,2024-04-18,2024-04-24,6,4,2024,Apr
+2881,Meera Gupta,82,Female,A+,Kolkata,Gynecology,Dr. Neha Sharma,Pregnancy,Emergency,52027.69,31226.83,2024-09-24,2024-10-12,18,9,2024,Sep
+2882,Rahul Pillai,79,Male,AB+,Delhi,Gynecology,Dr. Neha Sharma,Pregnancy,Emergency,63720.45,37188.62,2023-06-24,2023-07-13,19,6,2023,Jun
+2883,Anjali Singh,13,Female,AB+,Bangalore,Gynecology,Dr. Neha Sharma,Menstrual Disorder,Referral,123985.81,44542.67,2024-11-20,2024-11-23,3,11,2024,Nov
+2884,Kiran Desai,38,Male,A+,Bangalore,Neurology,Dr. Suresh Iyer,Migraine,Elective,27405.52,18449.99,2023-09-30,2023-10-08,8,9,2023,Sep
+2885,Kiran Pillai,80,Male,AB+,Delhi,Neurology,Dr. Kavya Pillai,Migraine,Elective,14265.64,5817.29,2023-07-31,2023-08-06,6,7,2023,Jul
+2886,Sunita Sharma,39,Male,A+,Pune,Cardiology,Dr. Sunita Rao,Hypertension,Emergency,17610.22,12260.79,2023-07-04,2023-07-16,12,7,2023,Jul
+2887,Deepak Iyer,5,Male,B-,Pune,Orthopedics,Dr. Priya Nair,Back Pain,Emergency,141982.57,74610.19,2023-08-30,2023-09-15,16,8,2023,Aug
+2888,Priya Mishra,44,Male,B+,Nagpur,Neurology,Dr. Kavya Pillai,Epilepsy,Elective,55342.86,29577.48,2023-03-29,2023-04-11,13,3,2023,Mar
+2889,Anjali Mehta,68,Male,A+,Nagpur,Oncology,Dr. Vijay Reddy,Colon Cancer,Referral,140957.77,72120.41,2024-01-28,2024-01-30,2,1,2024,Jan
+2890,Aarav Shah,26,Female,A-,Bangalore,General Medicine,Dr. Deepak Patel,Malaria,Elective,144308.21,47531.68,2023-04-08,2023-04-18,10,4,2023,Apr
+2891,Rahul Shah,64,Female,O-,Delhi,Pediatrics,Dr. Arjun Shah,Pneumonia,Referral,8485.98,6531.33,2023-12-29,2024-01-15,17,12,2023,Dec
+2892,Neha Kumar,68,Female,O-,Chennai,Pediatrics,Dr. Meera Gupta,Fever,Elective,113561.28,69252.95,2023-09-17,2023-09-21,4,9,2023,Sep
+2893,Manoj Reddy,76,Male,A+,Kolkata,Orthopedics,Dr. Priya Nair,Joint Replacement,Emergency,46689.12,34835.36,2023-05-16,2023-06-03,18,5,2023,May
+2894,Amit Patel,15,Male,O-,Chennai,Pediatrics,Dr. Arjun Shah,Pneumonia,Elective,132979.24,72662.5,2023-06-23,2023-07-10,17,6,2023,Jun
+2895,Anjali Desai,18,Female,AB+,Delhi,Cardiology,Dr. Rajesh Khanna,Heart Failure,Elective,146731.2,96127.69,2023-04-02,2023-04-06,4,4,2023,Apr
+2896,Rohit Gupta,64,Male,O+,Nagpur,Oncology,Dr. Lakshmi Desai,Lung Cancer,Emergency,127526.77,41073.96,2023-04-30,2023-05-12,12,4,2023,Apr
+2897,Arjun Iyer,34,Male,O+,Bangalore,Cardiology,Dr. Sunita Rao,Heart Failure,Elective,83849.13,43185.91,2024-01-05,2024-01-09,4,1,2024,Jan
+2898,Pooja Verma,39,Female,O-,Bangalore,General Medicine,Dr. Anjali Singh,Malaria,Referral,18131.12,6935.01,2024-03-22,2024-04-09,18,3,2024,Mar
+2899,Rahul Chauhan,41,Male,B-,Nagpur,General Medicine,Dr. Deepak Patel,Viral Fever,Referral,58791.19,44765.16,2024-07-23,2024-08-10,18,7,2024,Jul
+2900,Priya Nair,9,Female,AB-,Chennai,General Medicine,Dr. Deepak Patel,Viral Fever,Emergency,6980.94,2284.75,2023-07-13,2023-07-16,3,7,2023,Jul
+2901,Vijay Patel,82,Female,B-,Mumbai,Emergency,Dr. Pooja Joshi,Accident Injury,Elective,118358.07,77285.62,2023-09-24,2023-10-03,9,9,2023,Sep
+2902,Vijay Patel,30,Male,AB-,Mumbai,Pediatrics,Dr. Arjun Shah,Fever,Referral,88590.89,42369.48,2023-02-11,2023-02-14,3,2,2023,Feb
+2903,Rohit Nair,66,Male,O+,Nagpur,Neurology,Dr. Kavya Pillai,Parkinson's Disease,Emergency,107296.05,77566.37,2024-05-19,2024-05-31,12,5,2024,May
+2904,Kiran Mishra,8,Female,O+,Mumbai,Orthopedics,Dr. Priya Nair,Fracture,Emergency,78152.92,57371.01,2023-04-06,2023-04-19,13,4,2023,Apr
+2905,Sunita Iyer,46,Male,A+,Hyderabad,Orthopedics,Dr. Priya Nair,Arthritis,Emergency,79108.6,49962.53,2024-07-30,2024-08-06,7,7,2024,Jul
+2906,Suresh Patel,22,Male,B+,Delhi,Neurology,Dr. Suresh Iyer,Stroke,Elective,16542.74,5598.36,2024-03-02,2024-03-16,14,3,2024,Mar
+2907,Vijay Nair,44,Female,A-,Delhi,General Medicine,Dr. Anjali Singh,Diabetes,Referral,131515.39,84256.15,2023-01-27,2023-02-03,7,1,2023,Jan
+2908,Anjali Patel,76,Male,B-,Nagpur,Orthopedics,Dr. Priya Nair,Fracture,Emergency,89550.33,68467.87,2024-01-18,2024-01-26,8,1,2024,Jan
+2909,Rohit Mehta,43,Female,AB+,Pune,General Medicine,Dr. Deepak Patel,Malaria,Referral,61371.42,32534.01,2023-01-30,2023-02-06,7,1,2023,Jan
+2910,Sneha Shah,18,Female,AB-,Kolkata,Cardiology,Dr. Sunita Rao,Heart Failure,Referral,130723.73,56820.27,2024-10-05,2024-10-14,9,10,2024,Oct
+2911,Meera Mishra,36,Male,O-,Chennai,Orthopedics,Dr. Priya Nair,Fracture,Elective,143930.03,87967.51,2023-02-14,2023-03-05,19,2,2023,Feb
+2912,Arjun Mishra,55,Male,AB+,Nagpur,Orthopedics,Dr. Amit Verma,Back Pain,Referral,126430.19,41006.51,2023-08-05,2023-08-09,4,8,2023,Aug
+2913,Rohit Gupta,42,Male,B+,Mumbai,Orthopedics,Dr. Priya Nair,Back Pain,Referral,28291.87,9488.02,2023-02-26,2023-03-10,12,2,2023,Feb
+2914,Divya Iyer,27,Male,AB-,Chennai,Cardiology,Dr. Rajesh Khanna,Heart Failure,Elective,111788.61,43486.37,2024-02-13,2024-02-29,16,2,2024,Feb
+2915,Anjali Pillai,67,Male,B-,Pune,Cardiology,Dr. Rajesh Khanna,Heart Attack,Elective,124154.1,61363.34,2023-08-02,2023-08-06,4,8,2023,Aug
+2916,Suresh Singh,19,Female,A+,Mumbai,Cardiology,Dr. Rajesh Khanna,Arrhythmia,Elective,50766.82,27689.37,2023-05-04,2023-05-11,7,5,2023,May
+2917,Meera Singh,29,Male,AB+,Bangalore,Pediatrics,Dr. Meera Gupta,Asthma,Elective,108118.21,37631.16,2024-01-03,2024-01-08,5,1,2024,Jan
+2918,Meera Kulkarni,21,Female,B+,Kolkata,Cardiology,Dr. Sunita Rao,Hypertension,Elective,79541.88,39297.25,2024-04-01,2024-04-13,12,4,2024,Apr
+2919,Pooja Desai,70,Female,B-,Hyderabad,General Medicine,Dr. Deepak Patel,Viral Fever,Emergency,88599.02,42892.38,2024-03-08,2024-03-23,15,3,2024,Mar
+2920,Kavya Reddy,82,Female,O+,Mumbai,Gynecology,Dr. Neha Sharma,Menstrual Disorder,Elective,63740.67,35482.57,2023-04-06,2023-04-10,4,4,2023,Apr
+2921,Sneha Singh,57,Female,O+,Hyderabad,Cardiology,Dr. Rajesh Khanna,Hypertension,Referral,93062.04,57212.66,2024-05-22,2024-06-10,19,5,2024,May
+2922,Rohit Nair,55,Male,B-,Chennai,Cardiology,Dr. Sunita Rao,Heart Attack,Elective,14293.73,4854.03,2024-04-24,2024-04-26,2,4,2024,Apr
+2923,Kavya Chauhan,43,Female,B-,Hyderabad,General Medicine,Dr. Deepak Patel,Malaria,Emergency,35590.63,26744.64,2023-05-11,2023-05-30,19,5,2023,May
+2924,Lakshmi Pandey,55,Female,B-,Chennai,Oncology,Dr. Lakshmi Desai,Colon Cancer,Emergency,123145.08,70869.64,2024-08-05,2024-08-19,14,8,2024,Aug
+2925,Pooja Chauhan,74,Male,AB-,Chennai,Neurology,Dr. Kavya Pillai,Stroke,Referral,140984.74,75050.16,2024-02-27,2024-03-01,3,2,2024,Feb
+2926,Anjali Chauhan,10,Male,B-,Chennai,General Medicine,Dr. Anjali Singh,Malaria,Referral,15536.51,5296.16,2023-09-18,2023-10-07,19,9,2023,Sep
+2927,Priya Shah,71,Female,AB+,Chennai,Orthopedics,Dr. Amit Verma,Fracture,Emergency,36913.06,14387.83,2024-11-08,2024-11-24,16,11,2024,Nov
+2928,Lakshmi Pandey,11,Male,B+,Chennai,Orthopedics,Dr. Amit Verma,Joint Replacement,Elective,23218.31,17143.88,2023-03-27,2023-03-29,2,3,2023,Mar
+2929,Suresh Patel,55,Male,AB-,Mumbai,Orthopedics,Dr. Priya Nair,Back Pain,Elective,44315.63,27116.96,2024-11-17,2024-12-04,17,11,2024,Nov
+2930,Rahul Mishra,76,Male,B-,Chennai,General Medicine,Dr. Deepak Patel,Malaria,Referral,6071.83,2059.02,2023-08-05,2023-08-15,10,8,2023,Aug
+2931,Anjali Pillai,46,Male,A-,Mumbai,Pediatrics,Dr. Meera Gupta,Asthma,Elective,146586.2,45288.92,2024-03-20,2024-03-26,6,3,2024,Mar
+2932,Pooja Sharma,68,Female,O-,Chennai,Gynecology,Dr. Divya Mehta,Pregnancy,Referral,69437.36,37396.18,2023-06-25,2023-06-28,3,6,2023,Jun
+2933,Amit Kulkarni,19,Female,A-,Hyderabad,Orthopedics,Dr. Priya Nair,Joint Replacement,Referral,50951.1,36000.33,2023-11-07,2023-11-23,16,11,2023,Nov
+2934,Arjun Patel,33,Female,B+,Bangalore,Orthopedics,Dr. Priya Nair,Back Pain,Emergency,67673.5,24534.67,2023-11-06,2023-11-18,12,11,2023,Nov
+2935,Amit Singh,37,Male,O+,Chennai,Cardiology,Dr. Rajesh Khanna,Hypertension,Emergency,127505.29,100124.83,2023-01-17,2023-01-31,14,1,2023,Jan
+2936,Neha Shah,31,Male,A+,Pune,Neurology,Dr. Kavya Pillai,Migraine,Elective,31515.36,19693.0,2024-10-26,2024-11-12,17,10,2024,Oct
+2937,Anjali Mishra,40,Male,A+,Chennai,Orthopedics,Dr. Amit Verma,Arthritis,Elective,106726.96,56748.09,2023-11-05,2023-11-22,17,11,2023,Nov
+2938,Manoj Patel,33,Male,O-,Chennai,Cardiology,Dr. Rajesh Khanna,Heart Failure,Referral,52759.99,39633.71,2023-04-30,2023-05-02,2,4,2023,Apr
+2939,Lakshmi Verma,42,Male,O+,Hyderabad,General Medicine,Dr. Anjali Singh,Viral Fever,Referral,24872.66,18154.51,2024-04-27,2024-05-12,15,4,2024,Apr
+2940,Arjun Shah,61,Female,AB-,Kolkata,Emergency,Dr. Rohit Kumar,Poisoning,Elective,110417.69,78918.33,2023-10-29,2023-11-10,12,10,2023,Oct
+2941,Anjali Chauhan,31,Male,AB-,Delhi,General Medicine,Dr. Anjali Singh,Diabetes,Referral,12623.29,7765.91,2023-01-09,2023-01-16,7,1,2023,Jan
+2942,Rahul Bhat,59,Female,AB-,Hyderabad,Cardiology,Dr. Sunita Rao,Heart Failure,Referral,93403.88,55045.77,2024-05-22,2024-06-04,13,5,2024,May
+2943,Amit Pillai,37,Male,A+,Pune,Emergency,Dr. Rohit Kumar,Burns,Referral,62534.45,33959.36,2024-05-14,2024-05-15,1,5,2024,May
+2944,Anjali Mishra,72,Male,A-,Delhi,Neurology,Dr. Suresh Iyer,Parkinson's Disease,Referral,5301.1,1640.74,2023-03-04,2023-03-17,13,3,2023,Mar
+2945,Rohit Mehta,70,Male,A+,Nagpur,Orthopedics,Dr. Amit Verma,Back Pain,Elective,109721.33,68482.58,2023-10-02,2023-10-13,11,10,2023,Oct
+2946,Neha Kumar,14,Female,AB+,Nagpur,Cardiology,Dr. Sunita Rao,Heart Attack,Elective,96599.75,60190.33,2024-09-29,2024-10-09,10,9,2024,Sep
+2947,Aarav Gupta,9,Female,B-,Kolkata,Pediatrics,Dr. Meera Gupta,Malnutrition,Elective,8926.76,5919.38,2023-06-15,2023-06-23,8,6,2023,Jun
+2948,Divya Pillai,78,Female,AB-,Pune,Neurology,Dr. Kavya Pillai,Epilepsy,Referral,49984.12,20486.05,2023-08-26,2023-09-08,13,8,2023,Aug
+2949,Deepak Desai,42,Male,A-,Hyderabad,Orthopedics,Dr. Priya Nair,Back Pain,Referral,42425.61,18951.39,2023-05-15,2023-05-17,2,5,2023,May
+2950,Sneha Mehta,17,Male,B+,Mumbai,Pediatrics,Dr. Arjun Shah,Malnutrition,Elective,48203.47,32165.81,2024-11-20,2024-11-27,7,11,2024,Nov
+2951,Suresh Chauhan,35,Female,O-,Pune,Pediatrics,Dr. Meera Gupta,Pneumonia,Referral,107604.98,72593.24,2023-10-17,2023-10-23,6,10,2023,Oct
+2952,Vijay Kulkarni,51,Male,B+,Bangalore,Cardiology,Dr. Rajesh Khanna,Heart Failure,Elective,48761.01,18439.32,2023-06-27,2023-07-03,6,6,2023,Jun
+2953,Kavya Iyer,56,Female,B-,Delhi,Emergency,Dr. Pooja Joshi,Accident Injury,Referral,98366.65,41054.25,2024-05-20,2024-06-04,15,5,2024,May
+2954,Vijay Kumar,60,Male,A-,Delhi,Oncology,Dr. Vijay Reddy,Breast Cancer,Referral,115892.56,49880.62,2024-01-03,2024-01-08,5,1,2024,Jan
+2955,Amit Singh,19,Male,A+,Chennai,Orthopedics,Dr. Amit Verma,Arthritis,Elective,81662.56,57442.08,2024-05-30,2024-06-17,18,5,2024,May
+2956,Arjun Gupta,33,Male,A+,Nagpur,Cardiology,Dr. Rajesh Khanna,Heart Failure,Emergency,17363.91,6256.98,2024-09-24,2024-09-30,6,9,2024,Sep
+2957,Arjun Singh,12,Male,AB+,Kolkata,Emergency,Dr. Pooja Joshi,Trauma,Emergency,47434.99,22655.92,2023-12-15,2024-01-03,19,12,2023,Dec
+2958,Rohit Shah,9,Female,AB+,Delhi,Pediatrics,Dr. Meera Gupta,Asthma,Referral,67641.53,37723.26,2024-12-07,2024-12-17,10,12,2024,Dec
+2959,Rahul Desai,33,Male,A+,Pune,Gynecology,Dr. Divya Mehta,Pregnancy,Emergency,19966.41,10553.6,2024-03-24,2024-03-25,1,3,2024,Mar
+2960,Sunita Nair,51,Male,B+,Delhi,General Medicine,Dr. Deepak Patel,Diabetes,Emergency,132183.5,73183.77,2024-07-29,2024-07-31,2,7,2024,Jul
+2961,Kavya Gupta,72,Male,O-,Kolkata,Pediatrics,Dr. Meera Gupta,Fever,Referral,43735.89,29048.27,2024-01-06,2024-01-15,9,1,2024,Jan
+2962,Pooja Shah,80,Male,AB-,Kolkata,Emergency,Dr. Pooja Joshi,Trauma,Elective,125086.95,77997.53,2023-04-12,2023-04-19,7,4,2023,Apr
+2963,Kiran Rao,49,Female,B+,Kolkata,General Medicine,Dr. Deepak Patel,Typhoid,Emergency,12149.8,9535.39,2023-07-26,2023-08-08,13,7,2023,Jul
+2964,Sneha Joshi,6,Female,O-,Pune,Orthopedics,Dr. Priya Nair,Arthritis,Emergency,135414.82,74818.23,2023-12-16,2023-12-26,10,12,2023,Dec
+2965,Amit Rao,31,Female,AB+,Mumbai,Cardiology,Dr. Sunita Rao,Arrhythmia,Emergency,141732.5,87125.83,2024-02-29,2024-03-05,5,2,2024,Feb
+2966,Divya Sharma,40,Female,B-,Chennai,General Medicine,Dr. Anjali Singh,Typhoid,Elective,70819.29,49636.13,2023-08-22,2023-09-06,15,8,2023,Aug
+2967,Anjali Desai,40,Male,O-,Nagpur,Pediatrics,Dr. Arjun Shah,Malnutrition,Emergency,111708.46,71616.22,2024-06-12,2024-07-01,19,6,2024,Jun
+2968,Manoj Shah,30,Female,A+,Delhi,Orthopedics,Dr. Amit Verma,Joint Replacement,Emergency,68329.88,48044.34,2023-01-11,2023-01-30,19,1,2023,Jan
+2969,Arjun Desai,47,Male,AB+,Pune,Pediatrics,Dr. Arjun Shah,Fever,Emergency,8573.44,6781.35,2023-11-19,2023-11-30,11,11,2023,Nov
+2970,Amit Kulkarni,31,Male,AB+,Hyderabad,General Medicine,Dr. Deepak Patel,Viral Fever,Referral,126274.89,40224.47,2024-02-07,2024-02-08,1,2,2024,Feb
+2971,Rahul Singh,73,Female,AB-,Nagpur,Gynecology,Dr. Divya Mehta,PCOS,Referral,8138.61,5693.25,2024-10-08,2024-10-22,14,10,2024,Oct
+2972,Kavya Mishra,24,Male,A+,Mumbai,Cardiology,Dr. Sunita Rao,Arrhythmia,Referral,98714.94,63220.54,2024-02-16,2024-03-02,15,2,2024,Feb
+2973,Divya Pillai,15,Female,AB-,Pune,General Medicine,Dr. Anjali Singh,Malaria,Referral,83182.71,59351.01,2023-12-19,2023-12-22,3,12,2023,Dec
+2974,Meera Pandey,78,Male,A+,Bangalore,Orthopedics,Dr. Priya Nair,Arthritis,Referral,137213.69,55237.67,2024-04-01,2024-04-02,1,4,2024,Apr
+2975,Manoj Singh,42,Female,AB-,Bangalore,Neurology,Dr. Kavya Pillai,Parkinson's Disease,Elective,35836.32,24644.64,2024-10-26,2024-10-29,3,10,2024,Oct
+2976,Amit Reddy,10,Female,O-,Chennai,Cardiology,Dr. Rajesh Khanna,Heart Attack,Referral,90940.93,45015.47,2024-07-04,2024-07-16,12,7,2024,Jul
+2977,Rahul Chauhan,76,Female,B+,Chennai,Oncology,Dr. Lakshmi Desai,Lung Cancer,Elective,66899.74,37185.27,2023-08-07,2023-08-16,9,8,2023,Aug
+2978,Arjun Pillai,27,Female,B-,Mumbai,Pediatrics,Dr. Meera Gupta,Asthma,Referral,44899.67,33457.42,2023-01-24,2023-02-03,10,1,2023,Jan
+2979,Anjali Verma,51,Female,B-,Mumbai,Neurology,Dr. Suresh Iyer,Epilepsy,Referral,54043.49,27636.38,2023-11-08,2023-11-25,17,11,2023,Nov
+2980,Sunita Bhat,50,Male,A+,Chennai,Emergency,Dr. Rohit Kumar,Accident Injury,Elective,74290.77,45577.0,2024-01-17,2024-01-20,3,1,2024,Jan
+2981,Pooja Verma,16,Female,A-,Delhi,Neurology,Dr. Suresh Iyer,Stroke,Elective,106432.47,38568.46,2024-10-28,2024-11-10,13,10,2024,Oct
+2982,Meera Pillai,17,Male,O+,Delhi,Orthopedics,Dr. Priya Nair,Fracture,Referral,54742.5,38467.21,2023-12-14,2023-12-22,8,12,2023,Dec
+2983,Priya Kumar,66,Female,AB+,Pune,General Medicine,Dr. Anjali Singh,Typhoid,Referral,10770.58,6822.74,2023-11-03,2023-11-19,16,11,2023,Nov
+2984,Kiran Verma,64,Female,AB+,Hyderabad,General Medicine,Dr. Anjali Singh,Typhoid,Elective,134170.66,56863.76,2024-06-16,2024-07-01,15,6,2024,Jun
+2985,Kavya Gupta,47,Female,A+,Pune,Neurology,Dr. Kavya Pillai,Migraine,Elective,16160.53,6032.35,2024-04-10,2024-04-21,11,4,2024,Apr
+2986,Pooja Reddy,80,Male,O-,Hyderabad,General Medicine,Dr. Deepak Patel,Viral Fever,Emergency,77650.83,39791.65,2023-04-05,2023-04-11,6,4,2023,Apr
+2987,Neha Shah,72,Male,AB-,Mumbai,Pediatrics,Dr. Meera Gupta,Malnutrition,Referral,126631.7,61371.69,2024-04-01,2024-04-07,6,4,2024,Apr
+2988,Kiran Nair,9,Female,A-,Nagpur,Emergency,Dr. Pooja Joshi,Trauma,Elective,69691.64,38289.54,2023-09-28,2023-10-06,8,9,2023,Sep
+2989,Rahul Mehta,41,Male,B+,Pune,General Medicine,Dr. Anjali Singh,Viral Fever,Referral,19772.42,7541.62,2024-03-02,2024-03-08,6,3,2024,Mar
+2990,Vijay Desai,76,Male,AB-,Pune,Emergency,Dr. Pooja Joshi,Poisoning,Referral,127340.67,46440.2,2024-12-29,2025-01-06,8,12,2024,Dec
+2991,Suresh Verma,35,Male,AB-,Hyderabad,Neurology,Dr. Suresh Iyer,Stroke,Emergency,89467.4,28298.87,2024-04-11,2024-04-27,16,4,2024,Apr
+2992,Kavya Kulkarni,13,Female,A+,Kolkata,General Medicine,Dr. Deepak Patel,Malaria,Emergency,89453.09,45112.08,2024-09-08,2024-09-18,10,9,2024,Sep
+2993,Sunita Singh,55,Female,A+,Mumbai,Orthopedics,Dr. Priya Nair,Back Pain,Elective,31716.05,11945.92,2023-02-11,2023-02-24,13,2,2023,Feb
+2994,Kiran Gupta,33,Male,O-,Mumbai,Cardiology,Dr. Sunita Rao,Arrhythmia,Emergency,126850.49,68875.09,2023-11-07,2023-11-16,9,11,2023,Nov
+2995,Manoj Bhat,82,Male,AB+,Bangalore,Cardiology,Dr. Sunita Rao,Hypertension,Elective,88051.69,65785.75,2023-02-19,2023-03-07,16,2,2023,Feb
+2996,Amit Gupta,44,Male,A+,Kolkata,Oncology,Dr. Vijay Reddy,Lung Cancer,Elective,83497.58,30156.32,2024-05-15,2024-05-16,1,5,2024,May
+2997,Lakshmi Kulkarni,45,Female,A+,Hyderabad,Orthopedics,Dr. Amit Verma,Fracture,Referral,8858.21,5195.6,2024-03-03,2024-03-16,13,3,2024,Mar
+2998,Rohit Bhat,15,Female,A+,Mumbai,General Medicine,Dr. Anjali Singh,Viral Fever,Referral,126567.95,90778.33,2024-01-22,2024-02-02,11,1,2024,Jan
+2999,Priya Sharma,27,Male,O-,Kolkata,General Medicine,Dr. Deepak Patel,Typhoid,Elective,134501.49,71348.75,2024-05-31,2024-06-05,5,5,2024,May
+3000,Rahul Patel,5,Male,AB+,Chennai,General Medicine,Dr. Deepak Patel,Viral Fever,Referral,23285.97,16297.99,2023-11-30,2023-12-09,9,11,2023,Nov

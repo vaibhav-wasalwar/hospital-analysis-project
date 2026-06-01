@@ -70,3 +70,148 @@ hospital-analysis-project/
 │   └── chart7_length_of_stay.png
 ├── pyproject.toml
 └── README.md
+---
+
+## 📊 Dataset
+
+- **Source:** Synthetically generated realistic Indian hospital data
+- **Patients:** 1,000 records
+- **Admissions:** 1,000 records
+- **Time Period:** January 2023 – December 2024
+- **Cities:** Nagpur, Mumbai, Pune, Delhi, Hyderabad, Chennai, Bangalore, Kolkata
+- **Departments:** Cardiology, Orthopedics, Neurology, Pediatrics,
+General Medicine, Oncology, Emergency, Gynecology
+
+---
+
+## 🗄️ Phase 2: SQL Database
+
+### Database Schema
+```sql
+hospital_db
+├── patients     (patient_id, name, age, gender, blood_type, phone, city)
+└── admissions   (admission_id, patient_id, admission_date, discharge_date,
+                  department, doctor_name, room_number, medical_condition,
+                  billing_amount, insurance_covered, admission_type)
+```
+
+### Key KPIs Tracked
+| KPI | Description |
+|-----|-------------|
+| Total Patients | Overall patient count |
+| Avg Length of Stay | Average days per department |
+| Bed Occupancy Rate | Department wise patient load |
+| Avg Billing Amount | Treatment cost analysis |
+| Readmission Rate | Patient return patterns |
+| Gender Distribution | Male vs Female ratio |
+
+---
+
+## 🐍 Phase 3: Python EDA
+
+### Charts Generated
+| Chart | Insight |
+|-------|---------|
+| Admissions by Department | General Medicine is busiest |
+| Age Distribution | Most patients aged 20-60 |
+| Gender Distribution | Nearly equal male/female split |
+| Top Medical Conditions | Diabetes most common |
+| Avg Billing by Department | Gynecology highest billing |
+| Monthly Admission Trend | Consistent admissions throughout year |
+| Length of Stay by Department | Pediatrics longest stay |
+
+### Key Findings
+- 🏥 **Busiest Department:** General Medicine (200+ patients)
+- 💰 **Highest Billing:** Gynecology (₹80,000+ avg)
+- 🛏️ **Longest Stay:** Pediatrics (~10 days avg)
+- 👥 **Gender Split:** 49.7% Male | 50.3% Female
+- 📅 **Peak Admissions:** Consistent throughout 2023-2024
+
+---
+
+## 📊 Phase 5: Power BI Dashboard
+
+### 5-Page Interactive Dashboard
+
+| Page | Content |
+|------|---------|
+| 🏠 Overview | KPI cards, admissions by dept, admission types |
+| 👥 Demographics | Gender, city, blood type, age distribution |
+| 🏨 Department Analysis | Patient load, length of stay, top doctors |
+| 💰 Financial Analysis | Revenue, billing by condition and department |
+| 📈 Trends | Monthly trends, yearly comparison |
+
+### Dashboard Features
+- ✅ Green healthcare color theme
+- ✅ Navigation buttons between pages
+- ✅ Interactive slicers and filters
+- ✅ KPI cards with business metrics
+- ✅ 15+ interactive visualizations
+
+---
+
+## ⚙️ Setup Instructions
+
+### Prerequisites
+- Python 3.12
+- MySQL 8.0
+- Power BI Desktop
+- uv package manager
+
+### Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/vaibhav-wasalwar/hospital-analysis-project.git
+
+# Navigate to project folder
+cd hospital-analysis-project
+
+# Create virtual environment
+uv venv --python 3.12
+
+# Activate virtual environment
+.venv\Scripts\activate
+
+# Install dependencies
+uv sync
+```
+
+### Database Setup
+```sql
+-- Run in MySQL Workbench
+CREATE DATABASE hospital_db;
+USE hospital_db;
+-- Then run sql/hospital_kpi_queries.sql
+```
+
+### Run Notebook
+```bash
+uv run jupyter notebook notebooks/hospital_eda.ipynb
+```
+
+---
+
+## 📈 Results & Business Insights
+
+1. **General Medicine** handles 20%+ of all admissions — needs most resources
+2. **Gynecology** has highest average billing at ₹80,000+
+3. **Pediatrics** has longest average stay at ~10 days
+4. **Referral admissions** are highest at 37.5% — strong referral network
+5. **Insurance covers** approximately 54% of total billing (40.78M of 74.96M)
+6. Patient admissions are **evenly distributed** across 2023-2024
+
+---
+
+## 👨‍💻 Author
+
+**Vaibhav Wasalwar**
+- GitHub: [@vaibhav-wasalwar](https://github.com/vaibhav-wasalwar)
+- Email: vpwasalwar@gmail.com
+
+---
+
+## 📄 License
+
+This project is open source and available under the
+[MIT License](LICENSE).
